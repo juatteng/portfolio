@@ -1,0 +1,1233 @@
+﻿UIN,Incident.month,Incident.year,Victim.injury,State,Latitude,Longitude,Site.category,Shark.common.name,Provoked/unprovoked,Victim.activity,Injury.location,Injury.severity,Victim.gender,Victim.age,Hour.of.incident,Depth.of.incident.m,Depth.category
+1,1,1791,fatal,NSW,-33.86666667,151.2,coastal,white shark,unprovoked,swimming,torso,fatal,female,999,unknown,0,0m to 1.5m
+2,3,1803,injured,WA,-25.83333333,113.8833333,coastal,tiger shark,unprovoked,swimming,,injury unknown,male,999,unknown,0,0m to 1.5m
+3,1,1807,injured,NSW,-33.86666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+4,1,1820,fatal,TAS,-42.8,147.5333333,coastal,unknown,provoked,swimming,leg,fatal,male,999,unknown,1,0m to 1.5m
+5,1,1825,injured,NSW,-33.85,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,leg,minor lacerations,male,15,unknown,999,Unknown
+6,1,1830,injured,TAS,-43.28333333,147.3333333,island open ocean,white shark,unprovoked,swimming,arm,major lacerations,female,999,unknown,999,Unknown
+7,1,1832,injured,NSW,-33.86666667,151.1833333,estuary/harbour,bull shark,provoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+8,6,1832,injured,NSW,-33.83333333,151.2666667,coastal,white shark,provoked,fishing,leg,major lacerations,female,999,unknown,999,Unknown
+9,1,1836,injured,SA,-34.95,138.5,coastal,white shark,unprovoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+10,8,1836,fatal,QLD,-25.48333333,152.9833333,coastal,whaler shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,999,Unknown
+11,8,1836,fatal,QLD,-25.48333333,152.9833333,coastal,whaler shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,999,Unknown
+12,1,1837,fatal,NSW,-30.93333333,153.0166667,river,bull shark,unprovoked,swimming,leg,fatal,male,12,unknown,1,0m to 1.5m
+13,8,1839,fatal,VIC,-38.98333333,146.45,coastal,white shark,provoked,swimming,leg,fatal,male,999,unknown,0,0m to 1.5m
+14,12,1840,fatal,NSW,-33.85,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,999,unknown,999,Unknown
+15,4,1841,fatal,NSW,-33.83333333,151.1666667,estuary/harbour,bull shark,unprovoked,swimming,thigh,fatal,male,999,unknown,0,0m to 1.5m
+16,3,1847,injured,QLD,-27.25,153.25,coastal,bull shark,unprovoked,swimming,foot,major lacerations,male,999,unknown,999,Unknown
+17,11,1847,injured,QLD,-27.43333333,153.0833333,river,bull shark,unprovoked,swimming,"thigh, calf",major lacerations,male,999,unknown,0,0m to 1.5m
+18,1,1849,fatal,WA,-33.36666667,115.2833333,ocean/pelagic,white shark,provoked,swimming,,fatal,male,999,unknown,0,0m to 1.5m
+19,12,1849,injured,VIC,-38.33333333,141.6,coastal,white shark,unprovoked,swimming,leg,teeth marks,male,999,unknown,999,Unknown
+20,12,1849,fatal,NSW,-33.81666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,thigh,fatal,male,999,unknown,999,Unknown
+21,1,1850,fatal,QLD,-27.28333333,153.2166667,coastal,tiger shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,0,0m to 1.5m
+22,3,1850,injured,NSW,-29.41666667,153.3333333,coastal,whaler shark,unprovoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+23,11,1853,injured,NSW,-33.85,151.2166667,estuary/harbour,wobbegong,provoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+24,1,1855,injured,QLD,-25.5,152.7166667,river,bull shark,unprovoked,swimming,leg,major lacerations,female,999,unknown,999,Unknown
+25,1,1855,uninjured,NSW,-33.85,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,other: uninjured,none,male,999,unknown,999,Unknown
+26,7,1855,fatal,QLD,-10.56666667,142.2,island open ocean,tiger shark,unprovoked,swimming,torso,fatal,male,999,unknown,999,Unknown
+27,11,1855,fatal,NSW,-33.86666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,999,unknown,999,Unknown
+28,2,1856,injured,VIC,-38.13333333,144.4166667,coastal,white shark,unprovoked,swimming,"thigh, foot",major lacerations,male,999,2100,0,0m to 1.5m
+29,5,1856,injured,SA,-35.53333333,138.6833333,coastal,wobbegong,unprovoked,unknown,,injury unknown,male,999,unknown,999,Unknown
+30,3,1858,fatal,VIC,-37.85,144.9,coastal,white shark,unprovoked,swimming,calf,fatal,male,22,1500,0,0m to 1.5m
+31,1,1860,injured,SA,-35.56666667,138.6,coastal,white shark,unprovoked,swimming,arm,major lacerations,male,999,unknown,999,Unknown
+32,1,1861,injured,QLD,-27.51666667,153.2666667,coastal,wobbegong,unprovoked,swimming,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+33,2,1862,injured,VIC,-37.85,144.9,coastal,white shark,unprovoked,swimming,leg,abrasion,male,999,unknown,0,0m to 1.5m
+34,12,1862,fatal,QLD,-27.36666667,153.15,river,bull shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,0,0m to 1.5m
+35,1,1863,fatal,NSW,-31.88333333,151.4666667,river,bull shark,unprovoked,swimming,thigh,fatal,male,17,unknown,0,0m to 1.5m
+36,1,1863,fatal,QLD,-27.58333333,153.3166667,coastal,tiger shark,provoked,swimming,other: body not recovered,fatal,male,999,unknown,999,Unknown
+37,3,1863,injured,VIC,-37.9,144.9833333,coastal,white shark,unprovoked,swimming,"torso, leg",major lacerations,male,999,2000,1,0m to 1.5m
+38,4,1863,fatal,QLD,-26.8,153.1333333,coastal,tiger shark,unprovoked,unknown,other: body not recovered,fatal,male,999,unknown,0,0m to 1.5m
+39,11,1865,fatal,VIC,-37.86666667,144.8666667,coastal,white shark,unprovoked,swimming,thigh,fatal,male,33,unknown,999,Unknown
+40,1,1868,injured,QLD,-23.08333333,150.7333333,coastal,tiger shark,unprovoked,swimming,leg,major lacerations,male,999,unknown,999,Unknown
+41,1,1869,injured,QLD,-27.46666667,153,river,bull shark,unprovoked,swimming,leg,teeth marks,male,999,unknown,999,Unknown
+42,3,1869,injured,SA,-34.13333333,137.45,coastal,sevengill shark,provoked,fishing,foot,minor lacerations,male,999,unknown,1,0m to 1.5m
+43,1,1870,injured,QLD,-27.46666667,153.0166667,river,bull shark,unprovoked,swimming,thigh,major lacerations,male,17,unknown,0,0m to 1.5m
+44,5,1870,injured,QLD,-27.08333333,153.4,coastal,whaler shark,provoked,spearfishing,leg,minor lacerations,male,13,unknown,0,0m to 1.5m
+45,1,1872,injured,QLD,-25.8,153.0166667,coastal,unknown,unprovoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+46,2,1873,uninjured,SA,-34.83333333,138.4666667,coastal,white shark,unprovoked,unmotorised boating,other: uninjured,none,male,999,unknown,999,Unknown
+47,1,1874,injured,NSW,-33.86666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,"calf, foot",major lacerations,male,999,unknown,0,0m to 1.5m
+48,11,1874,injured,QLD,-25.5,152.7166667,river,bull shark,unprovoked,swimming,thigh,teeth marks,male,999,unknown,999,Unknown
+49,11,1874,injured,NSW,-33,151.7166667,coastal,wobbegong,provoked,swimming,foot,minor lacerations,male,999,1900,999,Unknown
+50,7,1875,injured,NSW,-29.41666667,153.3333333,river,tiger shark,unprovoked,swimming,,major lacerations,male,999,unknown,0,0m to 1.5m
+51,10,1875,fatal,QLD,-10.25,142.1166667,estuary/harbour,tiger shark,provoked,snorkelling,leg,fatal,male,999,unknown,999,Unknown
+52,11,1875,injured,NSW,-29.4,153.3333333,island open ocean,white shark,provoked,swimming,foot,major lacerations,male,999,unknown,0,0m to 1.5m
+53,12,1875,injured,NSW,-29.4,153.3333333,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,0,0m to 1.5m
+54,1,1876,injured,WA,-20.7,117.25,river,bull shark,provoked,snorkelling,thigh,major lacerations,male,36,unknown,999,Unknown
+55,1,1876,injured,VIC,-37.86666667,144.9666667,coastal,white shark,unprovoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+56,2,1876,fatal,QLD,-10.25,142.1166667,coastal,tiger shark,provoked,snorkelling,torso,fatal,male,999,unknown,999,Unknown
+57,2,1876,fatal,VIC,-37.85,144.95,estuary/harbour,white shark,unprovoked,swimming,"leg, pelvic region",fatal,male,18,0600,999,Unknown
+58,7,1876,uninjured,NSW,-33.85,151.2,coastal,whaler shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+59,12,1876,injured,NSW,-32.76666667,151.7,island open ocean,bull shark,unprovoked,swimming,leg,major lacerations,male,999,unknown,999,Unknown
+60,1,1877,fatal,VIC,-37.83333333,144.9333333,coastal,white shark,unprovoked,swimming,,fatal,male,30,unknown,999,Unknown
+61,1,1877,injured,VIC,-38.38333333,142.4833333,coastal,white shark,unprovoked,swimming,foot,minor lacerations,female,999,unknown,0,0m to 1.5m
+62,3,1877,injured,VIC,-38.1,144.65,coastal,white shark,unprovoked,swimming,"thigh, foot",major lacerations,male,999,unknown,999,Unknown
+63,12,1877,injured,NSW,-33.86666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,leg,major lacerations,male,12,unknown,999,Unknown
+64,12,1877,injured,SA,-34.73333333,138.0333333,coastal,unknown,provoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+65,1,1878,injured,QLD,-9.633333333,142.6833333,island open ocean,tiger shark,provoked,snorkelling,,major lacerations,male,999,unknown,999,Unknown
+66,3,1878,injured,VIC,-38.38333333,142.5,river,whaler shark,unprovoked,swimming,torso,minor lacerations,male,999,unknown,999,Unknown
+67,7,1878,injured,QLD,-25.8,153.05,coastal,bull shark,provoked,fishing,calf,major lacerations,male,999,unknown,1,0m to 1.5m
+68,11,1878,injured,NSW,-33.85,151.15,estuary/harbour,wobbegong,unprovoked,swimming,,minor lacerations,male,999,unknown,999,Unknown
+69,6,1879,fatal,NSW,-33.86666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,999,unknown,999,Unknown
+70,11,1879,injured,NSW,-29.4,153.3333333,estuary/harbour,white shark,unprovoked,swimming,thigh,major lacerations,male,15,unknown,1,0m to 1.5m
+71,1,1880,fatal,QLD,-16.9,145.9833333,island open ocean,tiger shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,0,0m to 1.5m
+72,1,1880,injured,NSW,-33.08333333,151.5,estuary/harbour,bull shark,unprovoked,swimming,foot,major lacerations,female,13,1700,1,0m to 1.5m
+73,1,1880,injured,QLD,-27.51666667,152.9,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,22,unknown,999,Unknown
+74,11,1880,fatal,QLD,-27.46666667,153.0333333,river,bull shark,unprovoked,swimming,leg,fatal,male,15,1700,999,Unknown
+75,1,1881,uninjured,NSW,-31.06666667,152.6333333,estuary/harbour,bull shark,unprovoked,swimming,other: uninjured,none,female,999,unknown,999,Unknown
+76,1,1881,injured,QLD,-25.25,152.85,coastal,tiger shark,unprovoked,unknown,foot,major lacerations,female,16,unknown,1,0m to 1.5m
+77,8,1881,injured,QLD,-20,148.8,ocean/pelagic,tiger shark,provoked,spearfishing,leg,minor lacerations,male,999,unknown,999,Unknown
+78,11,1881,fatal,NSW,-33.86666667,151.2333333,estuary/harbour,bull shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,999,Unknown
+79,12,1881,injured,QLD,-24.83333333,152.1166667,river,bull shark,unprovoked,swimming,arm,major lacerations,male,999,unknown,999,Unknown
+80,1,1882,injured,WA,-17.98333333,122.2333333,coastal,tiger shark,provoked,snorkelling,,injury unknown,male,999,unknown,999,Unknown
+81,4,1882,fatal,NSW,-33.08333333,151.65,estuary/harbour,white shark,unprovoked,unknown,torso,fatal,male,999,unknown,999,Unknown
+82,5,1882,injured,NSW,-33.85,151.2,coastal,wobbegong,unprovoked,swimming,calf,minor lacerations,male,999,unknown,0,0m to 1.5m
+83,5,1882,fatal,WA,-15.88333333,122,coastal,tiger shark,provoked,snorkelling,torso,fatal,male,999,unknown,999,Unknown
+84,12,1882,fatal,WA,-17.98333333,122.2333333,coastal,tiger shark,provoked,snorkelling,,fatal,male,999,unknown,999,Unknown
+85,1,1883,fatal,NSW,-33.85,151.15,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,male,37,unknown,999,Unknown
+86,12,1883,fatal,NSW,-33.86666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,male,21,unknown,0,0m to 1.5m
+87,12,1883,uninjured,NSW,-33.8,151.2833333,estuary/harbour,bull shark,provoked,swimming,other: uninjured,none,male,999,unknown,1,0m to 1.5m
+88,1,1884,fatal,SA,-33.18333333,137.9833333,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,female,16,unknown,999,Unknown
+89,10,1885,uninjured,NSW,-33.81666667,151.05,river,bull shark,unprovoked,swimming,other: uninjured,none,female,999,unknown,0,0m to 1.5m
+90,11,1885,injured,WA,-33.31666667,115.6333333,coastal,white shark,unprovoked,swimming,calf,major lacerations,male,999,unknown,999,Unknown
+91,1,1886,uninjured,QLD,-25.53333333,152.7,estuary/harbour,bull shark,unprovoked,swimming,other: uninjured,none,male,999,unknown,999,Unknown
+92,4,1886,injured,QLD,-23.38333333,150.6333333,river,bull shark,unprovoked,swimming,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+93,2,1887,uninjured,NSW,-33.8,151.2833333,estuary/harbour,whaler shark,unprovoked,unmotorised boating,other: uninjured,none,male,999,1700,999,Unknown
+94,12,1887,fatal,NSW,-33.81666667,151.0833333,river,bull shark,unprovoked,swimming,"torso, leg, pelvic region",fatal,male,25,1100,999,Unknown
+95,9,1888,injured,QLD,-19.85,145.4,island open ocean,tiger shark,provoked,snorkelling,,injury unknown,male,999,unknown,999,Unknown
+96,12,1888,fatal,NSW,-33.85,151.15,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,male,11,unknown,0,0m to 1.5m
+97,7,1889,fatal,VIC,-38.33333333,144.6166667,ocean/pelagic,white shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,0,0m to 1.5m
+98,1,1890,injured,TAS,-42.73333333,147.2333333,river,sevengill shark,unprovoked,swimming,thigh,major lacerations,male,999,unknown,999,Unknown
+99,4,1891,uninjured,NSW,-36.71666667,149.9833333,coastal,wobbegong,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+100,6,1891,injured,VIC,-38.33333333,144.3166667,coastal,wobbegong,provoked,snorkelling,arm,minor lacerations,male,999,unknown,999,Unknown
+101,1,1892,fatal,QLD,-10.11666667,142.1333333,river,tiger shark,provoked,diving,torso,fatal,male,999,unknown,999,Unknown
+102,3,1892,injured,QLD,-23.36666667,150.5,river,bull shark,unprovoked,swimming,calf,teeth marks,male,999,unknown,999,Unknown
+103,11,1892,injured,QLD,-27.45,153.2166667,coastal,whaler shark,unprovoked,swimming,leg,teeth marks,female,999,unknown,1,0m to 1.5m
+104,12,1892,injured,QLD,-27.43333333,153.0833333,island open ocean,bull shark,unprovoked,swimming,leg,abrasion,male,999,unknown,999,Unknown
+105,1,1893,uninjured,WA,-28.76666667,114.6,coastal,wobbegong,provoked,fishing,other: uninjured,none,male,999,unknown,1,0m to 1.5m
+106,1,1893,fatal,QLD,-13.93333333,143.7333333,ocean/pelagic,tiger shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,0,0m to 1.5m
+107,4,1893,injured,QLD,-9.816666667,142.7,island open ocean,tiger shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,0,0m to 1.5m
+108,11,1894,injured,NSW,-32.91666667,151.7833333,coastal,white shark,unprovoked,swimming,arm,major lacerations,male,999,0700,2,1.5m to 5m
+109,1,1895,uninjured,QLD,-27.46666667,153,river,bull shark,unprovoked,unmotorised boating,other: uninjured,none,male,25,unknown,0,0m to 1.5m
+110,2,1895,fatal,NSW,-33.93333333,151.25,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,16,1600,0,0m to 1.5m
+111,3,1895,injured,QLD,-24.9,152.2333333,estuary/harbour,bull shark,unprovoked,swimming,foot,major lacerations,male,13,unknown,999,Unknown
+112,6,1895,fatal,WA,-20.78333333,115.5333333,island open ocean,tiger shark,provoked,diving,other: body not recovered,fatal,male,999,unknown,999,Unknown
+113,11,1895,fatal,NSW,-35.13333333,150.75,coastal,whaler shark,provoked,swimming,other: body not recovered,fatal,male,999,unknown,999,Unknown
+114,12,1895,uninjured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+115,12,1895,fatal,NSW,-33.85,151.15,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,male,14,unknown,0,0m to 1.5m
+116,1,1896,fatal,NSW,-33.86666667,151.1833333,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,male,11,unknown,0,0m to 1.5m
+117,11,1896,fatal,WA,-33.85,121.8833333,coastal,white shark,unprovoked,swimming,leg,fatal,male,999,unknown,999,Unknown
+118,1,1897,injured,NSW,-31.06666667,152.8333333,river,bull shark,unprovoked,swimming,thigh,minor lacerations,male,12,unknown,999,Unknown
+119,12,1897,injured,QLD,-9.95,142.1833333,island open ocean,tiger shark,unprovoked,swimming,torso,major lacerations,male,999,unknown,999,Unknown
+120,9,1898,injured,NSW,-32.71666667,152.1166667,estuary/harbour,bull shark,provoked,fishing,foot,minor lacerations,male,999,unknown,1,0m to 1.5m
+121,12,1898,injured,QLD,-27.46666667,153.2166667,coastal,whaler shark,provoked,fishing,thigh,minor lacerations,male,999,unknown,1,0m to 1.5m
+122,2,1899,injured,NSW,-33.78333333,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,thigh,minor lacerations,male,999,unknown,999,Unknown
+123,12,1899,injured,QLD,-27.55,153.1833333,estuary/harbour,bull shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+124,1,1900,injured,NSW,-33.85,151.15,estuary/harbour,bull shark,unprovoked,swimming,thigh,major lacerations,male,999,1200,1,0m to 1.5m
+125,1,1900,injured,NT,-11.6,130.95,coastal,tiger shark,unprovoked,swimming,arm,major lacerations,male,999,unknown,999,Unknown
+126,9,1900,injured,QLD,-19.25,146.8166667,estuary/harbour,tiger shark,unprovoked,swimming,calf,major lacerations,male,999,2100,999,Unknown
+127,11,1900,fatal,QLD,-10.55,142.3833333,island open ocean,unknown,provoked,snorkelling,,fatal,male,999,unknown,999,Unknown
+128,12,1900,fatal,NSW,-33.78333333,151.2333333,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,21,unknown,999,Unknown
+129,1,1901,injured,NT,-11.6,130.95,coastal,tiger shark,unprovoked,swimming,leg,major lacerations,male,999,unknown,999,Unknown
+130,1,1901,fatal,QLD,-27.46666667,153,river,bull shark,unprovoked,swimming,thigh,fatal,male,13,unknown,999,Unknown
+131,2,1901,injured,QLD,-16.85,145.75,river,wobbegong,provoked,swimming,head,minor lacerations,male,999,unknown,999,Unknown
+132,4,1901,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,"torso, shoulder",major lacerations,male,999,unknown,999,Unknown
+133,4,1901,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,torso,major lacerations,male,999,unknown,999,Unknown
+134,12,1901,injured,QLD,-27.46666667,153,estuary/harbour,bull shark,unprovoked,swimming,"torso, leg, pelvic region",major lacerations,male,999,1300,0,0m to 1.5m
+135,1,1902,injured,QLD,-27.48333333,153,river,bull shark,unprovoked,swimming,leg,major lacerations,male,16,1200,999,Unknown
+136,1,1902,injured,QLD,-27.43333333,153.1666667,coastal,whaler shark,provoked,swimming,torso,abrasion,male,999,unknown,3,1.5m to 5m
+137,1,1903,fatal,NSW,-33.81666667,151.15,river,bull shark,unprovoked,swimming,leg,fatal,male,20,1700,999,Unknown
+138,2,1903,uninjured,NSW,-36.63333333,150,estuary/harbour,bull shark,provoked,fishing,other: uninjured,none,male,999,unknown,1,0m to 1.5m
+139,3,1903,fatal,QLD,-27.7,153.2833333,river,bull shark,unprovoked,swimming,leg,fatal,male,999,unknown,999,Unknown
+140,5,1903,uninjured,NSW,-34.66666667,150.85,coastal,whaler shark,provoked,diving,other: uninjured,none,male,999,unknown,11,5m to 18m
+141,3,1904,injured,QLD,-27.41666667,153.1166667,river,bull shark,unprovoked,swimming,torso,minor lacerations,male,999,unknown,0,0m to 1.5m
+142,3,1905,injured,NSW,-28.8,153.2666667,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+143,12,1905,fatal,QLD,-10.2,142.15,island open ocean,tiger shark,provoked,snorkelling,thigh,fatal,male,999,unknown,999,Unknown
+144,1,1906,fatal,NSW,-33.98333333,151.0666667,river,bull shark,unprovoked,swimming,leg,fatal,male,33,1400,999,Unknown
+145,4,1906,fatal,QLD,-14.66666667,145.45,island open ocean,tiger shark,unprovoked,swimming,arm,fatal,male,999,unknown,999,Unknown
+146,8,1906,fatal,QLD,-9.95,142.1666667,island open ocean,tiger shark,provoked,snorkelling,"arm, shoulder, torso",fatal,male,999,unknown,999,Unknown
+147,12,1906,uninjured,NSW,-35.7,150.1833333,coastal,wobbegong,unprovoked,motorised boating,other: uninjured,none,male,999,unknown,1,0m to 1.5m
+148,2,1907,fatal,QLD,-19.25,146.8166667,estuary/harbour,bull shark,unprovoked,swimming,,fatal,male,999,unknown,999,Unknown
+149,8,1907,injured,WA,-28.85,113.9,island open ocean,tiger shark,provoked,snorkelling,leg,major lacerations,male,999,unknown,0,0m to 1.5m
+150,10,1907,injured,NSW,-32.93333333,151.75,coastal,white shark,unprovoked,swimming,"torso, shoulder",major lacerations,male,26,1000,999,Unknown
+151,12,1907,fatal,NSW,-33.78333333,151.2333333,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,male,999,unknown,999,Unknown
+152,1,1909,injured,NSW,-33.48333333,151.3,estuary/harbour,bull shark,unprovoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+153,1,1910,fatal,NSW,-32.9,151.7666667,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,16,unknown,999,Unknown
+154,2,1910,injured,WA,-33.31666667,115.6166667,coastal,white shark,unprovoked,swimming,"shoulder, torso, leg",major lacerations,male,999,unknown,999,Unknown
+155,3,1910,uninjured,WA,-34.36666667,115.1166667,coastal,unknown,unprovoked,swimming,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+156,11,1910,injured,QLD,-21.16666667,149.2333333,island open ocean,unknown,unprovoked,swimming,foot,minor lacerations,male,999,unknown,999,Unknown
+157,2,1911,uninjured,WA,-20.38333333,116.8666667,coastal,tiger shark,unprovoked,swimming,other: uninjured,none,male,999,unknown,999,Unknown
+158,3,1911,fatal,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,unprovoked,swimming,"torso, thigh",fatal,male,16,unknown,999,Unknown
+159,10,1911,injured,QLD,-15.48333333,145.4,island open ocean,tiger shark,provoked,snorkelling,leg,major lacerations,male,23,unknown,999,Unknown
+160,1,1912,injured,NSW,-33.83333333,151.1666667,coastal,dusky shark,unprovoked,swimming,"leg, pelvic region",major lacerations,male,999,unknown,999,Unknown
+161,1,1912,fatal,NSW,-33.81666667,151.15,river,bull shark,unprovoked,swimming,thigh,fatal,male,999,unknown,999,Unknown
+162,1,1912,fatal,QLD,-19.45,146.6,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,999,unknown,999,Unknown
+163,2,1912,uninjured,WA,-33.31666667,115.6333333,coastal,wobbegong,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+164,2,1912,injured,SA,-37.58333333,140.3333333,coastal,white shark,provoked,fishing,"arm, hand",major lacerations,male,999,unknown,0,0m to 1.5m
+165,2,1912,injured,NSW,-33.91666667,151.25,coastal,white shark,unprovoked,swimming,"calf, foot",major lacerations,male,999,1600,999,Unknown
+166,11,1912,injured,QLD,-27.31666667,153.05,coastal,tiger shark,unprovoked,swimming,leg,major lacerations,male,35,1700,1.6,1.5m to 5m
+167,3,1913,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,head,minor lacerations,male,999,unknown,2.5,1.5m to 5m
+168,5,1913,injured,NSW,-29.4,153.3333333,river,bull shark,provoked,fishing,leg,minor lacerations,male,999,unknown,1,0m to 1.5m
+169,6,1913,injured,QLD,-10.2,142.15,island open ocean,unknown,provoked,swimming,head,major lacerations,male,999,unknown,999,Unknown
+170,11,1913,injured,QLD,-27.31666667,153.05,coastal,tiger shark,unprovoked,swimming,leg,major lacerations,male,13,unknown,999,Unknown
+171,12,1913,injured,SA,-35.05,138.45,coastal,white shark,unprovoked,swimming,leg,minor lacerations,male,999,2000,999,Unknown
+172,1,1914,uninjured,NSW,-33.85,151.15,estuary/harbour,bull shark,unprovoked,unmotorised boating,other: uninjured,none,male,999,1800,0,0m to 1.5m
+173,1,1914,injured,QLD,-27.31666667,153.05,coastal,wobbegong,unprovoked,swimming,leg,minor lacerations,female,999,1000,999,Unknown
+174,2,1914,injured,NSW,-33.83333333,151.0666667,river,bull shark,unprovoked,unmotorised boating,torso,abrasion,male,23,unknown,0,0m to 1.5m
+175,2,1914,injured,SA,-35.23333333,136.9666667,coastal,wobbegong,provoked,spearfishing,foot,minor lacerations,male,999,unknown,999,Unknown
+176,4,1914,injured,NSW,-29.43333333,153.1833333,river,bull shark,provoked,fishing,foot,minor lacerations,male,999,unknown,1,0m to 1.5m
+177,6,1914,fatal,VIC,-37.95,145,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,male,999,unknown,999,Unknown
+178,12,1914,injured,QLD,-19.16666667,146.8333333,coastal,unknown,unprovoked,swimming,thigh,minor lacerations,male,999,unknown,999,Unknown
+179,12,1914,injured,WA,-31.98333333,115.7333333,coastal,wobbegong,provoked,unknown,calf,minor lacerations,male,999,unknown,999,Unknown
+180,1,1915,fatal,NSW,-33.83333333,151.2333333,estuary/harbour,bull shark,unprovoked,swimming,thigh,fatal,male,999,unknown,999,Unknown
+181,2,1915,injured,QLD,-27.26666667,153.2166667,coastal,wobbegong,unprovoked,unmotorised boating,foot,minor lacerations,male,999,unknown,999,Unknown
+182,11,1915,injured,NSW,-33.78333333,151.2833333,coastal,whaler shark,unprovoked,swimming,"leg, foot",major lacerations,male,999,unknown,999,Unknown
+183,11,1915,injured,QLD,-27.31666667,153.0666667,estuary/harbour,bull shark,unprovoked,swimming,"arm, torso",minor lacerations,male,8,unknown,999,Unknown
+184,2,1916,uninjured,TAS,-41.05,145.75,coastal,wobbegong,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+185,3,1916,injured,NSW,-33.76666667,151.2833333,coastal,white shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+186,11,1916,fatal,QLD,-19.23333333,146.8,coastal,tiger shark,unprovoked,swimming,,fatal,male,27,unknown,999,Unknown
+187,11,1916,fatal,QLD,-19.23333333,146.8166667,coastal,tiger shark,unprovoked,swimming,leg,fatal,male,999,1800,999,Unknown
+188,11,1916,injured,WA,-20,119.3666667,coastal,tiger shark,provoked,snorkelling,leg,major lacerations,male,999,unknown,999,Unknown
+189,11,1916,fatal,WA,-20,119.3333333,coastal,tiger shark,provoked,snorkelling,leg,fatal,male,999,unknown,999,Unknown
+190,12,1916,fatal,NSW,-33.78333333,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,"arm, torso",fatal,male,41,unknown,1,0m to 1.5m
+191,12,1916,fatal,QLD,-23.11666667,150.75,coastal,tiger shark,unprovoked,swimming,calf,fatal,male,26,unknown,1,0m to 1.5m
+192,6,1917,injured,QLD,-27.23333333,153.2166667,coastal,whaler shark,provoked,fishing,leg,minor lacerations,male,999,unknown,0,0m to 1.5m
+193,12,1917,injured,WA,-20.3,118.5833333,coastal,tiger shark,unprovoked,swimming,thigh,major lacerations,male,999,unknown,999,Unknown
+194,1,1918,injured,NSW,-32.66666667,152.15,coastal,wobbegong,provoked,fishing,"arm, hand",major lacerations,male,999,unknown,0,0m to 1.5m
+195,3,1918,injured,NSW,-32.91666667,151.7833333,coastal,white shark,unprovoked,swimming,"arm, hand",major lacerations,male,999,1700,999,Unknown
+196,3,1918,injured,QLD,-28.15,153.5166667,coastal,wobbegong,provoked,swimming,foot,minor lacerations,male,999,unknown,999,Unknown
+197,3,1918,injured,NSW,-28.15,153.1,coastal,tiger shark,unprovoked,swimming,leg,major lacerations,male,999,unknown,999,Unknown
+198,4,1918,uninjured,NSW,-26.41666667,150.0666667,coastal,wobbegong,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+199,4,1918,uninjured,NSW,-33.86666667,151.2,river,bull shark,unprovoked,swimming,other: uninjured,none,male,28,0900,999,Unknown
+200,9,1918,fatal,QLD,-19.25,146.8166667,coastal,tiger shark,unprovoked,swimming,leg,fatal,male,999,unknown,0,0m to 1.5m
+201,11,1918,fatal,QLD,-16.7,146.05,ocean/pelagic,tiger shark,provoked,snorkelling,torso,fatal,male,999,1500,999,Unknown
+202,1,1919,injured,NSW,-32.91666667,151.7833333,coastal,white shark,unprovoked,swimming,"hand, torso, calf",major lacerations,male,19,unknown,999,Unknown
+203,1,1919,fatal,NSW,-33.83333333,151.2333333,estuary/harbour,bull shark,unprovoked,swimming,thigh,fatal,male,13,0700,1,0m to 1.5m
+204,1,1919,fatal,QLD,-19.45,146.6,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,38,unknown,999,Unknown
+205,12,1919,injured,QLD,-27.08333333,153.45,coastal,wobbegong,provoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+206,12,1919,fatal,NSW,-30.91666667,153.0166667,river,bull shark,unprovoked,swimming,"calf, foot",fatal,male,999,unknown,999,Unknown
+207,1,1920,fatal,NSW,-32.9,151.75,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,12,unknown,1,0m to 1.5m
+208,2,1920,uninjured,NSW,-33.33333333,151.5,estuary/harbour,wobbegong,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+209,3,1920,injured,QLD,-19.25,146.8166667,coastal,tiger shark,unprovoked,swimming,torso,major lacerations,male,20,1900,999,Unknown
+210,7,1920,injured,QLD,-20.9,151.7166667,coastal,tiger shark,provoked,snorkelling,"arm, shoulder, torso",major lacerations,male,999,unknown,999,Unknown
+211,11,1920,injured,NSW,-32.2,152.55,coastal,wobbegong,provoked,snorkelling,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+212,11,1920,injured,WA,-35.01666667,117.3333333,coastal,wobbegong,unprovoked,swimming,leg,injury unknown,male,999,2000,1,0m to 1.5m
+213,11,1920,injured,WA,-31.98333333,115.7333333,coastal,wobbegong,unprovoked,swimming,"leg, hand",injury unknown,male,999,unknown,999,Unknown
+214,12,1920,injured,QLD,-14.5,144.9166667,island open ocean,unknown,provoked,fishing,leg,minor lacerations,male,999,unknown,999,Unknown
+215,12,1920,injured,NSW,-28.8,153.2666667,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+216,10,1921,injured,QLD,-18.23333333,146.65,coastal,tiger shark,provoked,snorkelling,arm,major lacerations,male,999,unknown,999,Unknown
+217,10,1921,fatal,QLD,-16.9,146.2333333,ocean/pelagic,tiger shark,unprovoked,swimming,leg,fatal,male,999,unknown,0,0m to 1.5m
+218,11,1921,fatal,QLD,-27.43333333,153.15,river,bull shark,unprovoked,swimming,other: body not recovered,fatal,male,8,unknown,1,0m to 1.5m
+219,11,1921,injured,QLD,-27.43333333,153.15,river,bull shark,unprovoked,swimming,"leg, pelvic region",minor lacerations,male,999,unknown,1,0m to 1.5m
+220,12,1921,injured,QLD,-23.38333333,150.55,river,bull shark,unprovoked,swimming,torso,minor lacerations,male,999,unknown,999,Unknown
+221,1,1922,injured,NSW,-32.85,151.8333333,coastal,white shark,unprovoked,swimming,thigh,minor lacerations,male,999,unknown,999,Unknown
+222,1,1922,fatal,QLD,-19.45,146.6,estuary/harbour,bull shark,unprovoked,swimming,,fatal,male,54,unknown,0,0m to 1.5m
+223,2,1922,fatal,NSW,-33.91666667,151.25,coastal,white shark,unprovoked,swimming,arm,fatal,male,19,1500,0,0m to 1.5m
+224,3,1922,fatal,NSW,-33.91666667,151.25,coastal,white shark,unprovoked,swimming,"hand, torso",fatal,male,21,1100,2.5,1.5m to 5m
+225,12,1922,fatal,QLD,-25.53333333,152.7,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,999,unknown,1,0m to 1.5m
+226,1,1923,fatal,WA,-31.96666667,115.7666667,river,bull shark,unprovoked,swimming,thigh,fatal,male,13,unknown,0.6,0m to 1.5m
+227,1,1923,uninjured,NSW,-32.93333333,151.75,coastal,white shark,provoked,swimming,other: uninjured,none,male,999,unknown,999,Unknown
+228,3,1923,injured,QLD,-19.23333333,146.8166667,estuary/harbour,bull shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+229,5,1923,fatal,QLD,-16.85,146.15,ocean/pelagic,tiger shark,provoked,snorkelling,torso,fatal,male,999,unknown,999,Unknown
+230,5,1923,injured,WA,-28.81666667,114.6166667,coastal,wobbegong,provoked,fishing,foot,teeth marks,male,999,unknown,999,Unknown
+231,6,1923,injured,QLD,-18.7,147.7666667,island open ocean,tiger shark,provoked,snorkelling,,major lacerations,male,999,unknown,0,0m to 1.5m
+232,6,1923,fatal,NSW,-34.35,150.9166667,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,male,50,unknown,999,Unknown
+233,10,1923,injured,QLD,-10.56666667,142.2166667,coastal,tiger shark,provoked,snorkelling,arm,major lacerations,male,999,unknown,999,Unknown
+234,11,1923,fatal,WA,-20,119.35,coastal,tiger shark,provoked,unknown,other: body not recovered,fatal,male,999,unknown,999,Unknown
+235,11,1923,fatal,WA,-20,119.35,coastal,tiger shark,provoked,unknown,other: half of body recovered,fatal,male,999,unknown,999,Unknown
+236,12,1923,injured,NSW,-28.31666667,153.4,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+237,1,1924,fatal,NSW,-33.8,151.0166667,river,bull shark,unprovoked,swimming,"arm, torso, foot",fatal,male,999,1600,1,0m to 1.5m
+238,2,1924,injured,WA,-33.31666667,115.6333333,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,999,unknown,999,Unknown
+239,2,1924,injured,NSW,-33.9,151.2666667,coastal,white shark,unprovoked,swimming,"leg, foot",major lacerations,female,30,0700,1.8,1.5m to 5m
+240,4,1924,fatal,NSW,-34.66666667,150.85,coastal,white shark,unprovoked,swimming,,fatal,male,20,unknown,0,0m to 1.5m
+241,10,1924,injured,VIC,-37.83333333,144.9333333,coastal,white shark,unprovoked,swimming,leg,major lacerations,male,999,unknown,0,0m to 1.5m
+242,3,1925,injured,NSW,-33.91666667,151.25,coastal,white shark,unprovoked,swimming,leg,major lacerations,male,16,1700,0,0m to 1.5m
+243,3,1925,fatal,NSW,-32.91666667,151.7833333,coastal,white shark,unprovoked,swimming,"arm, torso",fatal,male,16,1500,0,0m to 1.5m
+244,11,1925,fatal,WA,-31.98333333,115.75,coastal,tiger shark,unprovoked,swimming,"torso, leg",fatal,male,55,unknown,0,0m to 1.5m
+245,3,1926,fatal,SA,-34.9,137,coastal,white shark,unprovoked,swimming,thigh,fatal,female,999,1600,1,0m to 1.5m
+246,10,1926,injured,NSW,-29.45,153.1833333,river,bull shark,unprovoked,swimming,,injury unknown,male,999,1600,999,Unknown
+247,11,1926,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,arm,minor lacerations,male,999,unknown,999,Unknown
+248,12,1926,fatal,QLD,-18.71666667,146.5666667,island open ocean,tiger shark,provoked,snorkelling,,fatal,male,999,unknown,999,Unknown
+249,1,1927,injured,QLD,-10.56666667,142.2166667,coastal,tiger shark,provoked,snorkelling,"torso, shoulder",minor lacerations,male,999,unknown,999,Unknown
+250,1,1927,fatal,NSW,-34.05,151.0833333,river,tiger shark,unprovoked,swimming,thigh,fatal,male,15,1100,999,Unknown
+251,2,1927,uninjured,QLD,-27.46666667,153.0333333,river,bull shark,unprovoked,swimming,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+252,3,1927,injured,NSW,-32.93333333,151.75,coastal,white shark,unprovoked,swimming,"hand, pelvic region",major lacerations,male,17,1500,999,Unknown
+253,4,1927,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,unknown,leg,minor lacerations,male,999,unknown,1,0m to 1.5m
+254,4,1927,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,leg,major lacerations,male,28,unknown,999,Unknown
+255,5,1927,fatal,QLD,-17.21666667,145.9666667,coastal,tiger shark,unprovoked,swimming,leg,fatal,male,999,unknown,1,0m to 1.5m
+256,7,1927,uninjured,WA,-17.98333333,122.2333333,coastal,tiger shark,provoked,diving,other: uninjured,none,male,999,unknown,1,0m to 1.5m
+257,1,1928,fatal,QLD,-9.516666667,141.5666667,island open ocean,tiger shark,provoked,unknown,"arm, leg",fatal,male,999,unknown,999,Unknown
+258,2,1928,fatal,QLD,-14.15,144.5,island open ocean,tiger shark,provoked,snorkelling,,fatal,male,999,unknown,999,Unknown
+259,3,1928,injured,QLD,-19.8,149.05,coastal,tiger shark,provoked,snorkelling,torso,minor lacerations,male,999,unknown,0,0m to 1.5m
+260,4,1928,injured,QLD,-27.51666667,152.9833333,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,15,unknown,0,0m to 1.5m
+261,4,1928,injured,NSW,-33.88333333,151.2666667,coastal,white shark,unprovoked,swimming,calf,major lacerations,male,19,1600,0,0m to 1.5m
+262,4,1928,fatal,NSW,-32.93333333,151.75,coastal,white shark,unprovoked,swimming,"hand, leg, torso",fatal,male,27,1800,1,0m to 1.5m
+263,7,1928,injured,QLD,-10.58333333,142.2166667,island open ocean,tiger shark,unprovoked,swimming,"arm, torso",major lacerations,male,999,unknown,999,Unknown
+264,12,1928,injured,QLD,-10.58333333,142.2166667,island open ocean,tiger shark,provoked,snorkelling,"arm, hand",major lacerations,male,999,unknown,999,Unknown
+265,1,1929,fatal,QLD,-19.13333333,146.8333333,coastal,tiger shark,unprovoked,swimming,"arm, torso",fatal,male,18,1700,0,0m to 1.5m
+266,1,1929,injured,SA,-34.41666667,137.9166667,coastal,wobbegong,provoked,fishing,leg,teeth marks,male,999,unknown,999,Unknown
+267,1,1929,fatal,NSW,-33.88333333,151.2666667,coastal,white shark,unprovoked,swimming,thigh,fatal,male,14,1800,0,0m to 1.5m
+268,2,1929,injured,NSW,-35.03333333,150.7166667,coastal,wobbegong,provoked,snorkelling,foot,minor lacerations,male,999,unknown,999,Unknown
+269,2,1929,fatal,NSW,-33.93333333,151.25,coastal,white shark,unprovoked,swimming,"leg, hand",fatal,male,19,1600,0,0m to 1.5m
+270,2,1929,fatal,NSW,-33.88333333,151.2666667,coastal,white shark,unprovoked,swimming,thigh,fatal,male,39,1600,999,Unknown
+271,2,1929,uninjured,SA,-34.96666667,138.5,coastal,white shark,unprovoked,unmotorised boating,other: uninjured,none,female,999,unknown,999,Unknown
+272,3,1929,injured,QLD,-19.51666667,148.8333333,island open ocean,unknown,provoked,snorkelling,,major lacerations,male,999,unknown,999,Unknown
+273,3,1929,injured,SA,-34.41666667,137.9166667,coastal,wobbegong,unprovoked,unmotorised boating,leg,injury unknown,male,12,unknown,1,0m to 1.5m
+274,3,1929,injured,SA,-34.41666667,137.9166667,coastal,wobbegong,unprovoked,unmotorised boating,foot,injury unknown,male,12,unknown,1,0m to 1.5m
+275,3,1929,fatal,QLD,-9.416666667,142.5333333,island open ocean,tiger shark,unprovoked,swimming,,fatal,male,999,unknown,999,Unknown
+276,4,1929,injured,QLD,-21,149.8833333,coastal,tiger shark,provoked,snorkelling,"arm, hand",major lacerations,male,999,unknown,999,Unknown
+277,4,1929,injured,QLD,-26.98333333,153.0666667,coastal,bull shark,provoked,fishing,leg,major lacerations,male,21,unknown,1,0m to 1.5m
+278,4,1929,fatal,QLD,-10.11666667,142.1333333,island open ocean,tiger shark,unprovoked,swimming,thigh,fatal,male,999,1200,999,Unknown
+279,5,1929,injured,QLD,-10.05,143.0666667,island open ocean,tiger shark,provoked,snorkelling,"leg, pelvic region",major lacerations,male,999,unknown,999,Unknown
+280,9,1929,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,spearfishing,leg,major lacerations,male,999,unknown,999,Unknown
+281,9,1929,fatal,QLD,-19.45,146.6,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,42,unknown,999,Unknown
+282,10,1929,injured,QLD,-10.11666667,142.1333333,island open ocean,tiger shark,unprovoked,swimming,foot,major lacerations,male,999,unknown,999,Unknown
+283,12,1929,fatal,QLD,-19.45,146.6,estuary/harbour,bull shark,unprovoked,swimming,"torso, leg",fatal,male,50,unknown,999,Unknown
+284,12,1929,injured,NSW,-33.71666667,151.3,island open ocean,wobbegong,unprovoked,swimming,leg,minor lacerations,female,17,unknown,1,0m to 1.5m
+285,12,1929,fatal,NSW,-33.85,151.1833333,estuary/harbour,bull shark,unprovoked,swimming,"arm, leg, pelvic region",fatal,male,16,unknown,0,0m to 1.5m
+286,12,1929,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,unprovoked,swimming,"arm, torso",major lacerations,male,999,unknown,999,Unknown
+287,12,1929,uninjured,QLD,-28.16666667,153.5333333,coastal,unknown,unprovoked,swimming,other: uninjured,none,male,999,unknown,999,Unknown
+288,1,1930,injured,QLD,-10.15,142.1833333,island open ocean,tiger shark,provoked,spearfishing,arm,major lacerations,male,999,unknown,4,1.5m to 5m
+289,2,1930,fatal,VIC,-37.9,144.9833333,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,male,19,1600,0,0m to 1.5m
+290,2,1930,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,unprovoked,swimming,"arm, torso",major lacerations,male,999,unknown,999,Unknown
+291,6,1930,fatal,QLD,-9.95,142.1833333,island open ocean,tiger shark,unprovoked,swimming,,fatal,male,999,unknown,999,Unknown
+292,7,1930,fatal,QLD,-10.25,142.1,island open ocean,tiger shark,provoked,snorkelling,,fatal,male,16,unknown,0,0m to 1.5m
+293,8,1930,injured,WA,-28.76666667,114.6,coastal,wobbegong,provoked,fishing,leg,teeth marks,male,999,unknown,999,Unknown
+294,12,1930,injured,NSW,-33.83333333,151.0666667,river,bull shark,unprovoked,swimming,torso,abrasion,male,49,unknown,999,Unknown
+295,1,1931,injured,NSW,-33.8,151.2333333,estuary/harbour,wobbegong,provoked,fishing,foot,minor lacerations,male,999,unknown,999,Unknown
+296,1,1931,injured,QLD,-23.11666667,150.7333333,coastal,tiger shark,unprovoked,swimming,torso,minor lacerations,male,18,1600,0,0m to 1.5m
+297,1,1931,injured,QLD,-10.58333333,142.2166667,island open ocean,tiger shark,provoked,snorkelling,"leg, pelvic region",major lacerations,male,999,unknown,999,Unknown
+298,1,1931,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,,injury unknown,male,999,unknown,999,Unknown
+299,3,1931,fatal,QLD,-19.45,146.6,estuary/harbour,bull shark,provoked,swimming,thigh,fatal,male,19,unknown,1.2,0m to 1.5m
+300,11,1931,injured,QLD,-17.53333333,146.0166667,coastal,tiger shark,provoked,snorkelling,leg,major lacerations,male,999,unknown,999,Unknown
+301,1,1932,injured,QLD,-27.6,152.7666667,river,bull shark,unprovoked,swimming,thigh,minor lacerations,male,999,unknown,999,Unknown
+302,2,1932,injured,QLD,-23.83333333,151.2166667,river,bull shark,provoked,fishing,foot,minor lacerations,male,999,unknown,999,Unknown
+303,2,1932,injured,NSW,-34.36666667,150.9166667,coastal,wobbegong,provoked,fishing,foot,minor lacerations,male,999,unknown,1,0m to 1.5m
+304,5,1932,injured,QLD,-16.91666667,145.7666667,coastal,tiger shark,provoked,snorkelling,arm,major lacerations,male,999,unknown,999,Unknown
+305,5,1932,fatal,QLD,-9.4,142.6666667,island open ocean,tiger shark,unprovoked,swimming,,fatal,male,999,unknown,999,Unknown
+306,8,1932,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,unprovoked,swimming,"leg, pelvic region",major lacerations,male,999,unknown,999,Unknown
+307,10,1932,injured,NSW,-33,151.7166667,coastal,white shark,unprovoked,swimming,torso,minor lacerations,male,24,1100,999,Unknown
+308,12,1932,injured,NT,-11.93333333,132.6166667,coastal,tiger shark,unprovoked,swimming,leg,major lacerations,male,999,unknown,999,Unknown
+309,1,1933,fatal,QLD,-19.25,146.8166667,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,38,unknown,1,0m to 1.5m
+310,2,1933,uninjured,WA,-31.96666667,115.85,river,bull shark,provoked,fishing,other: uninjured,none,male,999,unknown,1.5,0m to 1.5m
+311,2,1933,injured,QLD,-14.15,144.5,coastal,tiger shark,provoked,snorkelling,"arm, shoulder",major lacerations,male,999,unknown,4,1.5m to 5m
+312,3,1933,injured,QLD,-20.96666667,149.75,ocean/pelagic,tiger shark,provoked,snorkelling,leg,major lacerations,male,999,unknown,999,Unknown
+313,6,1933,uninjured,NT,-12.45,130.8333333,coastal,unknown,provoked,fishing,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+314,6,1933,injured,QLD,-28.13333333,153.4666667,estuary/harbour,bull shark,unprovoked,swimming,leg,abrasion,male,999,unknown,999,Unknown
+315,7,1933,uninjured,WA,-17.96666667,122.1666667,coastal,tiger shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+316,9,1933,fatal,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,thigh,fatal,male,999,unknown,0,0m to 1.5m
+317,10,1933,injured,QLD,-14.15,144.5,coastal,tiger shark,provoked,snorkelling,"arm, hand",major lacerations,male,17,unknown,999,Unknown
+318,10,1933,injured,NSW,-29.1,153.4333333,coastal,wobbegong,provoked,swimming,foot,minor lacerations,male,999,unknown,999,Unknown
+319,1,1934,injured,NSW,-33.98333333,151.0666667,river,bull shark,unprovoked,swimming,"arm, torso",minor lacerations,male,15,unknown,0,0m to 1.5m
+320,1,1934,injured,NSW,-33.78333333,151.2833333,coastal,white shark,unprovoked,swimming,leg,major lacerations,male,22,1500,999,Unknown
+321,1,1934,uninjured,QLD,-20,148.45,island open ocean,tiger shark,provoked,snorkelling,other: uninjured,none,male,999,unknown,999,Unknown
+322,2,1934,injured,QLD,-10.6,142.6166667,island open ocean,tiger shark,provoked,spearfishing,thigh,abrasion,male,999,unknown,999,Unknown
+323,3,1934,fatal,NSW,-33.75,151.3,coastal,white shark,unprovoked,swimming,"leg, pelvic region",fatal,male,17,1500,0,0m to 1.5m
+324,4,1934,injured,QLD,-28.15,153.4833333,coastal,tiger shark,unprovoked,swimming,calf,minor lacerations,male,34,0900,0,0m to 1.5m
+325,4,1934,fatal,NSW,-33.78333333,151.2833333,coastal,white shark,unprovoked,swimming,"leg, torso",fatal,male,16,1200,0,0m to 1.5m
+326,8,1934,fatal,QLD,-18.23333333,146.3166667,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,999,unknown,1,0m to 1.5m
+327,10,1934,fatal,QLD,-9.966666667,143.2666667,island open ocean,tiger shark,provoked,snorkelling,arm,fatal,male,999,unknown,999,Unknown
+328,10,1934,fatal,NT,-11.66666667,132.5166667,coastal,tiger shark,unprovoked,swimming,"arm, torso, thigh",fatal,female,999,unknown,999,Unknown
+329,12,1934,injured,NSW,-33.95,151.9666667,river,bull shark,unprovoked,swimming,arm,major lacerations,female,13,2000,0,0m to 1.5m
+330,12,1934,fatal,NSW,-33.93333333,150.9666667,river,bull shark,unprovoked,swimming,calf,fatal,male,20,1600,999,Unknown
+331,12,1934,fatal,NSW,-33.48333333,151.3,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,male,14,1300,0,0m to 1.5m
+332,12,1934,injured,NSW,-33.48333333,151.3,estuary/harbour,bull shark,unprovoked,swimming,leg,abrasion,female,12,1300,1,0m to 1.5m
+333,1,1935,fatal,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,unprovoked,swimming,,fatal,male,999,unknown,999,Unknown
+334,2,1935,injured,NSW,-34.3,150.9333333,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,20,1700,999,Unknown
+335,3,1935,fatal,NSW,-33.93333333,151.25,coastal,white shark,unprovoked,swimming,"arm, torso, pelvic region",fatal,male,999,1200,999,Unknown
+336,3,1935,injured,QLD,-21.16666667,149.2333333,coastal,whaler shark,unprovoked,snorkelling,"leg, pelvic region",teeth marks,male,999,unknown,8,5m to 18m
+337,3,1935,injured,QLD,-14.66666667,145.45,island open ocean,tiger shark,provoked,snorkelling,"hand, thigh",major lacerations,male,999,unknown,999,Unknown
+338,3,1935,fatal,NSW,-33.7,151.3,coastal,white shark,unprovoked,swimming,thigh,fatal,male,22,1700,0,0m to 1.5m
+339,5,1935,injured,QLD,-9.4,142.6666667,island open ocean,whaler shark,provoked,snorkelling,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+340,8,1935,fatal,QLD,-9.4,142.6666667,coastal,tiger shark,provoked,snorkelling,thigh,fatal,male,999,unknown,999,Unknown
+341,11,1935,injured,QLD,-17.53333333,146.0166667,island open ocean,tiger shark,provoked,snorkelling,"arm, shoulder",minor lacerations,male,999,unknown,0,0m to 1.5m
+342,1,1936,uninjured,NSW,-33.88333333,151.2666667,coastal,white shark,provoked,boarding,other: uninjured,none,male,999,unknown,999,Unknown
+343,1,1936,injured,WA,-20.66666667,117.1833333,coastal,tiger shark,provoked,snorkelling,leg,major lacerations,male,999,unknown,999,Unknown
+344,1,1936,fatal,SA,-34.9,137,coastal,white shark,unprovoked,swimming,torso,fatal,male,16,1800,0,0m to 1.5m
+345,2,1936,fatal,NSW,-33.78333333,151.2833333,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,male,14,1500,0,0m to 1.5m
+346,2,1936,uninjured,QLD,-27.43333333,153.0833333,river,bull shark,unprovoked,unmotorised boating,other: uninjured,none,male,999,unknown,999,Unknown
+347,3,1936,injured,QLD,-12.78333333,143.6,island open ocean,tiger shark,provoked,snorkelling,arm,major lacerations,male,999,unknown,999,Unknown
+348,3,1936,injured,QLD,-12.16666667,143.3833333,river,whaler shark,unprovoked,swimming,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+349,4,1936,injured,QLD,-16.7,146.05,ocean/pelagic,tiger shark,provoked,snorkelling,"arm, torso, foot",major lacerations,male,16,unknown,999,Unknown
+350,5,1936,injured,QLD,-20.81666667,149.4833333,coastal,unknown,provoked,snorkelling,leg,major lacerations,male,999,unknown,999,Unknown
+351,6,1936,fatal,QLD,-10.6,142.2166667,island open ocean,tiger shark,provoked,snorkelling,torso,fatal,male,16,unknown,999,Unknown
+352,7,1936,injured,QLD,-20.81666667,149.4833333,coastal,tiger shark,provoked,snorkelling,torso,major lacerations,male,999,unknown,999,Unknown
+353,8,1936,injured,QLD,-9.95,142.1833333,island open ocean,whaler shark,provoked,snorkelling,foot,teeth marks,male,999,unknown,999,Unknown
+354,11,1936,injured,WA,-31.98333333,115.5333333,island open ocean,wobbegong,provoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+355,11,1936,injured,NSW,-33.95,151.15,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,16,unknown,999,Unknown
+356,12,1936,fatal,NSW,-32.9,151.75,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,16,1100,0,0m to 1.5m
+357,1,1937,injured,QLD,-10.58333333,142.2166667,island open ocean,tiger shark,unprovoked,swimming,,major lacerations,male,999,unknown,999,Unknown
+358,2,1937,fatal,NSW,-32.93333333,151.75,coastal,white shark,unprovoked,swimming,"torso, leg",fatal,male,32,unknown,999,Unknown
+359,2,1937,injured,NSW,-30.91666667,153.0833333,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,999,unknown,0,0m to 1.5m
+360,5,1937,fatal,QLD,-19.45,146.6,estuary/harbour,bull shark,unprovoked,swimming,"leg, hand",fatal,male,33,unknown,999,Unknown
+361,8,1937,injured,QLD,-9.95,142.1833333,island open ocean,tiger shark,provoked,snorkelling,head,major lacerations,male,999,unknown,9,5m to 18m
+362,10,1937,injured,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,swimming,torso,teeth marks,male,16,unknown,0,0m to 1.5m
+363,10,1937,fatal,QLD,-28.16666667,153.5166667,coastal,tiger shark,unprovoked,swimming,"arm, torso, leg",fatal,male,18,1700,0,0m to 1.5m
+364,10,1937,fatal,QLD,-28.16666667,153.5166667,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,18,1700,999,Unknown
+365,11,1937,injured,QLD,-23.38333333,150.5166667,river,bull shark,unprovoked,swimming,leg,abrasion,male,999,unknown,999,Unknown
+366,11,1937,injured,QLD,-18.53333333,146.2333333,island open ocean,tiger shark,provoked,snorkelling,"calf, foot",major lacerations,male,17,unknown,0,0m to 1.5m
+367,1,1938,injured,QLD,-18.13333333,146.25,island open ocean,tiger shark,provoked,fishing,thigh,major lacerations,male,999,unknown,0,0m to 1.5m
+368,1,1938,injured,NSW,-33.85,151.25,estuary/harbour,bull shark,provoked,swimming,"leg, foot",major lacerations,male,24,unknown,2,1.5m to 5m
+369,1,1938,uninjured,NSW,-34.03333333,151.15,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+370,3,1938,injured,NT,-12.03333333,134.2,estuary/harbour,whaler shark,unprovoked,unmotorised boating,leg,major lacerations,male,999,unknown,0,0m to 1.5m
+371,6,1938,fatal,QLD,-10.56666667,142.1666667,island open ocean,unknown,provoked,diving,other: body not recovered,fatal,male,999,unknown,999,Unknown
+372,7,1938,fatal,NT,-11.4,130.4,island open ocean,whaler shark,provoked,diving,other: body not recovered,fatal,male,999,unknown,15,5m to 18m
+373,10,1938,injured,QLD,-27.43333333,153.1666667,coastal,tiger shark,provoked,fishing,foot,minor lacerations,male,999,unknown,1,0m to 1.5m
+374,11,1938,injured,QLD,-27.35,153.1166667,coastal,wobbegong,provoked,swimming,foot,teeth marks,male,999,unknown,999,Unknown
+375,1,1939,uninjured,NSW,-29.41666667,152.3333333,river,bull shark,provoked,fishing,other: uninjured,none,male,11,unknown,1,0m to 1.5m
+376,9,1939,injured,QLD,-9.95,142.1666667,island open ocean,tiger shark,provoked,snorkelling,leg,major lacerations,male,17,unknown,999,Unknown
+377,10,1939,injured,QLD,-16.71666667,154.6833333,island open ocean,unknown,unprovoked,swimming,foot,major lacerations,male,999,unknown,999,Unknown
+378,10,1939,injured,QLD,-12.61666667,143.45,island open ocean,tiger shark,provoked,snorkelling,thigh,major lacerations,male,27,unknown,999,Unknown
+379,12,1939,injured,NSW,-33.98333333,151.0666667,river,bull shark,unprovoked,swimming,leg,abrasion,male,40,unknown,0,0m to 1.5m
+380,12,1939,fatal,QLD,-21.16666667,149.2333333,estuary/harbour,bull shark,unprovoked,swimming,"leg, foot",fatal,male,20,1200,0,0m to 1.5m
+381,1,1940,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,head,major lacerations,male,999,unknown,999,Unknown
+382,1,1940,injured,QLD,-27.48333333,153.0166667,river,bull shark,unprovoked,swimming,"torso, shoulder",minor lacerations,male,17,unknown,999,Unknown
+383,1,1940,injured,QLD,-28,153.4166667,coastal,tiger shark,unprovoked,swimming,"arm, torso",minor lacerations,male,22,unknown,0,0m to 1.5m
+384,1,1940,fatal,NSW,-33.95,151.15,estuary/harbour,tiger shark,unprovoked,swimming,"torso, leg",fatal,male,13,1000,1.5,0m to 1.5m
+385,2,1940,fatal,NSW,-33.95,151.15,estuary/harbour,bull shark,unprovoked,swimming,arm,fatal,male,55,1400,999,Unknown
+386,3,1940,injured,NSW,-34.73333333,150.8333333,coastal,wobbegong,provoked,snorkelling,foot,minor lacerations,male,999,unknown,999,Unknown
+387,5,1940,injured,QLD,-21.4,150.5333333,island open ocean,tiger shark,unprovoked,swimming,,minor lacerations,male,56,unknown,999,Unknown
+388,12,1940,fatal,NSW,-32.85,151.8333333,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,23,0900,0,0m to 1.5m
+389,10,1941,injured,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,unprovoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+390,10,1941,fatal,QLD,-10.11666667,142.1333333,island open ocean,tiger shark,unprovoked,swimming,,fatal,male,999,unknown,999,Unknown
+391,11,1941,injured,WA,-26.46666667,110.2666667,ocean/pelagic,unknown,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+392,12,1941,injured,WA,-24.88333333,113.65,estuary/harbour,bull shark,unprovoked,swimming,foot,major lacerations,male,999,unknown,999,Unknown
+393,1,1942,fatal,NSW,-33.76666667,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,torso,fatal,female,28,1500,0,0m to 1.5m
+394,1,1942,uninjured,NSW,-33.78333333,151.2833333,coastal,white shark,provoked,boarding,other: uninjured,none,male,999,unknown,999,Unknown
+395,5,1942,injured,QLD,-17.7,146.5166667,coastal,tiger shark,provoked,snorkelling,arm,major lacerations,male,999,unknown,0,0m to 1.5m
+396,8,1942,injured,QLD,-20.08333333,148.8833333,island open ocean,unknown,provoked,snorkelling,leg,major lacerations,male,999,unknown,999,Unknown
+397,9,1942,injured,QLD,-16.78333333,145.7,coastal,tiger shark,unprovoked,swimming,leg,major lacerations,male,24,1600,3,1.5m to 5m
+398,12,1942,fatal,NSW,-33.76666667,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,female,15,1000,1,0m to 1.5m
+399,1,1943,injured,NT,-12.46666667,130.8333333,coastal,tiger shark,unprovoked,swimming,torso,minor lacerations,male,999,unknown,999,Unknown
+400,1,1944,injured,NSW,-32.16666667,152.5166667,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,14,unknown,0,0m to 1.5m
+401,2,1945,injured,NSW,-33.95,151.25,coastal,wobbegong,provoked,fishing,"arm, hand",minor lacerations,male,24,unknown,999,Unknown
+402,6,1945,fatal,QLD,-16.71666667,145.6666667,coastal,tiger shark,unprovoked,swimming,,fatal,male,999,1600,999,Unknown
+403,1,1946,injured,QLD,-19.25,146.8166667,coastal,unknown,unprovoked,swimming,foot,minor lacerations,male,12,unknown,0,0m to 1.5m
+404,1,1946,fatal,NSW,-33.98333333,151.0833333,river,bull shark,unprovoked,swimming,leg,fatal,female,14,unknown,1,0m to 1.5m
+405,2,1946,injured,WA,-31.93333333,115.75,coastal,white shark,unprovoked,swimming,"thigh, calf, foot",major lacerations,male,18,1200,1,0m to 1.5m
+406,4,1946,fatal,QLD,-16.78333333,145.7,coastal,tiger shark,unprovoked,swimming,"arm, leg",fatal,male,17,0800,1,0m to 1.5m
+407,8,1946,fatal,QLD,-16.71666667,145.6333333,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,30,1500,0,0m to 1.5m
+408,10,1946,injured,NSW,-33.05,151.6333333,estuary/harbour,bull shark,unprovoked,swimming,leg,minor lacerations,male,15,1300,0,0m to 1.5m
+409,11,1946,fatal,QLD,-10.56666667,142.2166667,island open ocean,tiger shark,provoked,snorkelling,arm,fatal,male,30,unknown,0,0m to 1.5m
+410,12,1946,injured,SA,-34.96666667,138.5,coastal,white shark,unprovoked,swimming,"arm, hand",minor lacerations,male,23,unknown,0,0m to 1.5m
+411,7,1947,uninjured,NT,-12.45,130.7833333,estuary/harbour,tiger shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+412,10,1947,injured,QLD,-16.55,139.4,island open ocean,tiger shark,unprovoked,swimming,leg,major lacerations,male,999,unknown,999,Unknown
+413,11,1947,fatal,NSW,-31.33333333,152.8333333,river,bull shark,unprovoked,swimming,leg,fatal,male,12,1600,0,0m to 1.5m
+414,11,1947,injured,NSW,-31.33333333,152.8333333,river,bull shark,unprovoked,swimming,foot,minor lacerations,male,13,1600,0,0m to 1.5m
+415,12,1947,injured,NSW,-31.7,152.75,estuary/harbour,bull shark,provoked,fishing,thigh,minor lacerations,male,9,unknown,1,0m to 1.5m
+416,1,1948,injured,WA,-31.98333333,115.5333333,island open ocean,wobbegong,provoked,swimming,leg,teeth marks,male,999,unknown,999,Unknown
+417,2,1948,fatal,NSW,-32.85,151.8333333,coastal,tiger shark,unprovoked,swimming,"torso, leg",fatal,male,16,unknown,0,0m to 1.5m
+418,11,1948,injured,QLD,-9.633333333,142.6833333,island open ocean,tiger shark,provoked,snorkelling,leg,major lacerations,male,41,unknown,999,Unknown
+419,12,1948,fatal,QLD,-26.8,153.1333333,coastal,tiger shark,unprovoked,swimming,"arm, leg, pelvic region",fatal,male,28,1100,999,Unknown
+420,12,1948,uninjured,NSW,-33.85,151.25,estuary/harbour,tiger shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,3,1.5m to 5m
+421,1,1949,uninjured,NSW,-33.88333333,151.2666667,coastal,whaler shark,provoked,boarding,other: uninjured,none,male,32,unknown,0,0m to 1.5m
+422,1,1949,injured,NSW,-29.1,153.4333333,coastal,wobbegong,provoked,unknown,leg,minor lacerations,male,999,unknown,999,Unknown
+423,1,1949,uninjured,NSW,-33.66666667,151.3,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,28,unknown,999,Unknown
+424,1,1949,fatal,NSW,-32.93333333,151.75,coastal,white shark,unprovoked,swimming,"leg, hand",fatal,male,20,1500,999,Unknown
+425,2,1949,uninjured,NSW,-33.65,151.3166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+426,4,1949,fatal,QLD,-16.71666667,145.6333333,coastal,tiger shark,unprovoked,swimming,leg,fatal,male,13,1300,0,0m to 1.5m
+427,5,1949,injured,WA,-17.96666667,122.1666667,coastal,bull shark,unprovoked,swimming,arm,major lacerations,female,22,unknown,0,0m to 1.5m
+428,8,1949,injured,TAS,-40.11666667,148.9333333,island open ocean,white shark,unprovoked,swimming,thigh,minor lacerations,male,18,unknown,999,Unknown
+429,8,1949,injured,QLD,-16.81666667,145.7666667,coastal,tiger shark,unprovoked,swimming,torso,abrasion,male,21,1300,999,Unknown
+430,8,1949,fatal,QLD,-16.81666667,145.7666667,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,34,1300,999,Unknown
+431,11,1949,injured,NSW,-34,151.2,coastal,wobbegong,provoked,swimming,arm,minor lacerations,male,36,unknown,1,0m to 1.5m
+432,1,1950,injured,VIC,-37.96666667,144.7,coastal,wobbegong,provoked,swimming,foot,minor lacerations,male,999,unknown,999,Unknown
+433,4,1950,fatal,QLD,-16.9,145.85,coastal,tiger shark,unprovoked,swimming,,fatal,male,50,unknown,999,Unknown
+434,11,1950,injured,QLD,-28.1,153.1,coastal,bull shark,unprovoked,swimming,"hand, pelvic region",major lacerations,male,21,1700,0,0m to 1.5m
+435,11,1950,uninjured,QLD,-23.11666667,150.7333333,coastal,tiger shark,unprovoked,unmotorised boating,other: uninjured,none,male,18,unknown,999,Unknown
+436,12,1950,fatal,QLD,-28.1,153.4666667,coastal,tiger shark,unprovoked,swimming,"leg, torso",fatal,male,20,1600,0,0m to 1.5m
+437,2,1951,injured,NSW,-34.53333333,150.8666667,estuary/harbour,bull shark,provoked,spearfishing,"thigh, torso",abrasion,male,20,unknown,0,0m to 1.5m
+438,2,1951,injured,NSW,-33.88333333,151.2666667,coastal,unknown,unprovoked,swimming,leg,major lacerations,male,14,unknown,0,0m to 1.5m
+439,3,1951,injured,NSW,-33.63333333,151.3166667,coastal,wobbegong,provoked,boarding,torso,minor lacerations,male,23,unknown,1,0m to 1.5m
+440,9,1951,fatal,QLD,-23.38333333,150.55,river,bull shark,unprovoked,swimming,"leg, torso",fatal,male,56,unknown,999,Unknown
+441,10,1951,fatal,QLD,-19.23333333,146.8,coastal,tiger shark,unprovoked,swimming,"hand, torso, thigh",fatal,male,42,1900,999,Unknown
+442,12,1951,fatal,NSW,-32.93333333,151.75,coastal,white shark,unprovoked,swimming,"arm, leg, torso",fatal,male,21,1600,0,0m to 1.5m
+443,12,1951,uninjured,NSW,-33.36666667,151.4333333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,32,unknown,0,0m to 1.5m
+444,1,1952,injured,NSW,-29.1,153.4333333,coastal,wobbegong,unprovoked,boarding,"calf, foot",minor lacerations,male,999,unknown,1,0m to 1.5m
+445,2,1952,uninjured,QLD,-19.25,146.8166667,estuary/harbour,bull shark,provoked,unknown,other: uninjured,none,male,999,unknown,999,Unknown
+446,5,1952,injured,WA,-35.06666667,117.05,coastal,wobbegong,provoked,fishing,"arm, hand",abrasion,male,999,unknown,0,0m to 1.5m
+447,11,1952,injured,VIC,-38.38333333,145.15,coastal,white shark,unprovoked,swimming,torso,abrasion,male,23,unknown,999,Unknown
+448,12,1952,injured,SA,-38.01666667,140.5666667,coastal,white shark,provoked,fishing,thigh,major lacerations,male,25,unknown,0,0m to 1.5m
+449,2,1953,injured,NSW,-33.86666667,151.2,coastal,wobbegong,provoked,spearfishing,leg,major lacerations,male,999,unknown,999,Unknown
+450,2,1953,injured,NSW,-34.56666667,150.8666667,coastal,wobbegong,provoked,spearfishing,head,teeth marks,male,25,unknown,10,5m to 18m
+451,2,1953,injured,NSW,-33.71666667,151.3,coastal,wobbegong,provoked,spearfishing,foot,minor lacerations,male,999,unknown,999,Unknown
+452,3,1953,injured,NSW,-33.73333333,151.3,coastal,tiger shark,provoked,spearfishing,arm,minor lacerations,male,23,unknown,0,0m to 1.5m
+453,12,1953,uninjured,NSW,-33.93333333,151.25,coastal,white shark,unprovoked,swimming,other: uninjured,none,male,26,unknown,0,0m to 1.5m
+454,12,1953,injured,NSW,-33.93333333,151.25,coastal,white shark,unprovoked,swimming,"arm, leg",abrasion,male,26,unknown,0,0m to 1.5m
+455,12,1953,injured,QLD,-28.11666667,153.4666667,coastal,white shark,unprovoked,swimming,torso,abrasion,male,16,1200,0,0m to 1.5m
+456,1,1954,injured,SA,-38.05,140.7,coastal,wobbegong,provoked,unknown,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+457,1,1954,injured,QLD,-10.23333333,142.4833333,island open ocean,tiger shark,provoked,spearfishing,arm,major lacerations,female,999,unknown,999,Unknown
+458,1,1954,injured,NSW,-33.45,151.4333333,coastal,whaler shark,unprovoked,swimming,arm,minor lacerations,male,999,unknown,0,0m to 1.5m
+459,2,1954,fatal,NSW,-33.33333333,151.5,coastal,white shark,unprovoked,swimming,thigh,fatal,male,23,1700,999,Unknown
+460,6,1954,injured,QLD,-16.91666667,145.99445,island open ocean,tiger shark,provoked,snorkelling,"arm, shoulder",major lacerations,male,30,unknown,0,0m to 1.5m
+461,9,1954,fatal,QLD,-9.583333333,143.7666667,island open ocean,tiger shark,provoked,spearfishing,,fatal,male,999,unknown,999,Unknown
+462,1,1955,fatal,NSW,-33.81666667,151.25,estuary/harbour,bull shark,provoked,spearfishing,"leg, hand",fatal,male,13,1500,2,1.5m to 5m
+463,2,1955,fatal,NSW,-33.78333333,151.2166667,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,male,25,1400,5,1.5m to 5m
+464,3,1955,fatal,NSW,-33.41666667,151.45,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,male,22,1800,0,0m to 1.5m
+465,10,1955,injured,QLD,-17.93333333,145.9333333,island open ocean,wobbegong,provoked,spearfishing,"arm, hand",minor lacerations,male,28,1500,1.7,1.5m to 5m
+466,1,1956,injured,QLD,-17.71666667,146.4,island open ocean,tiger shark,provoked,snorkelling,leg,minor lacerations,male,18,unknown,3,1.5m to 5m
+467,2,1956,fatal,QLD,-21.11666667,149.15,river,bull shark,unprovoked,swimming,leg,fatal,male,14,1100,999,Unknown
+468,2,1956,injured,VIC,-38.43333333,145.2333333,coastal,wobbegong,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+469,2,1956,uninjured,VIC,-37.96666667,145,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,19,unknown,1.3,0m to 1.5m
+470,3,1956,uninjured,WA,-32.13333333,115.7333333,coastal,whaler shark,unprovoked,diving,other: uninjured,none,male,25,2100,3,1.5m to 5m
+471,3,1956,fatal,VIC,-38.33333333,144.7,coastal,white shark,unprovoked,swimming,torso,fatal,male,26,1700,0,0m to 1.5m
+472,5,1956,injured,QLD,-10.58333333,142.2166667,island open ocean,tiger shark,provoked,snorkelling,,major lacerations,male,999,unknown,999,Unknown
+473,8,1956,injured,QLD,-28,153.4166667,coastal,wobbegong,provoked,diving,arm,teeth marks,male,999,unknown,999,Unknown
+474,1,1957,uninjured,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,999,Unknown
+475,2,1957,fatal,WA,-16.38333333,122.9166667,coastal,tiger shark,unprovoked,swimming,,fatal,male,999,unknown,999,Unknown
+476,4,1957,injured,NSW,-32.93333333,151.75,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,15,unknown,0,0m to 1.5m
+477,4,1957,injured,QLD,-10.56666667,142.2166667,estuary/harbour,tiger shark,provoked,swimming,"arm, shoulder",major lacerations,male,22,1400,999,Unknown
+478,5,1957,injured,NSW,-32.68333333,152.1833333,coastal,white shark,provoked,spearfishing,thigh,minor lacerations,male,28,unknown,3,1.5m to 5m
+479,7,1957,injured,QLD,-10.58333333,142.2166667,island open ocean,tiger shark,provoked,snorkelling,arm,major lacerations,male,36,unknown,999,Unknown
+480,1,1958,injured,NSW,-28.53333333,153.55,coastal,wobbegong,unprovoked,swimming,foot,teeth marks,male,14,unknown,1,0m to 1.5m
+481,1,1958,injured,NSW,-35.2,150.55,coastal,white shark,provoked,spearfishing,leg,minor lacerations,male,17,unknown,1,0m to 1.5m
+482,2,1958,uninjured,NSW,-33.05,151.6333333,estuary/harbour,bull shark,provoked,fishing,other: uninjured,none,male,999,unknown,1,0m to 1.5m
+483,3,1958,fatal,QLD,-9.75,143.4,island open ocean,tiger shark,provoked,spearfishing,leg,fatal,male,24,unknown,999,Unknown
+484,3,1958,uninjured,VIC,-38.21666667,145.0166667,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,7,5m to 18m
+485,9,1958,injured,NSW,-32.71666667,152.1666667,coastal,wobbegong,provoked,spearfishing,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+486,11,1958,fatal,QLD,-28,153.4166667,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,22,unknown,0,0m to 1.5m
+487,1,1959,injured,WA,-31.95,115.85,river,bull shark,provoked,fishing,calf,abrasion,male,20,unknown,0,0m to 1.5m
+488,1,1959,injured,QLD,-26.66666667,153.1166667,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,18,0900,1,0m to 1.5m
+489,1,1959,fatal,TAS,-43.15,147.85,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,male,22,1600,999,Unknown
+490,1,1959,injured,TAS,-39.85,143.8333333,island open ocean,white shark,unprovoked,unmotorised boating,leg,abrasion,male,16,unknown,0,0m to 1.5m
+491,4,1959,uninjured,NSW,-34.3,150.9166667,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+492,4,1959,injured,QLD,-10.58333333,142.2166667,island open ocean,tiger shark,provoked,unknown,"arm, hand",major lacerations,male,43,unknown,1,0m to 1.5m
+494,11,1959,injured,QLD,-28.01666667,153.4333333,coastal,tiger shark,provoked,swimming,leg,major lacerations,male,19,1100,0,0m to 1.5m
+495,11,1959,injured,VIC,-38.45,144.0833333,coastal,white shark,unprovoked,swimming,leg,major lacerations,male,19,1400,0,0m to 1.5m
+496,12,1959,fatal,QLD,-27.43333333,153.1666667,coastal,tiger shark,unprovoked,swimming,,fatal,male,29,unknown,999,Unknown
+497,12,1959,uninjured,QLD,-27.23333333,153.1,coastal,tiger shark,provoked,boarding,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+498,1,1960,injured,VIC,-37.98333333,145.0166667,coastal,whaler shark,provoked,spearfishing,head,minor lacerations,male,999,unknown,999,Unknown
+499,1,1960,fatal,NSW,-33.76666667,151.2,river,bull shark,unprovoked,snorkelling,leg,fatal,male,13,1500,999,Unknown
+500,4,1960,injured,VIC,-38.16666667,145.0666667,island open ocean,whaler shark,provoked,spearfishing,head,minor lacerations,male,999,unknown,1.4,0m to 1.5m
+501,4,1960,injured,NSW,-30.86666667,153.0333333,coastal,white shark,unprovoked,swimming,"arm, torso",abrasion,male,17,unknown,0,0m to 1.5m
+502,4,1960,uninjured,NSW,-32.6,152.3166667,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,10,5m to 18m
+503,11,1960,injured,QLD,-21.13333333,149.2,coastal,whaler shark,unprovoked,swimming,"arm, shoulder",minor lacerations,male,44,1400,999,Unknown
+504,11,1960,injured,WA,-34.21666667,115.0166667,coastal,wobbegong,provoked,spearfishing,arm,abrasion,male,24,unknown,999,Unknown
+505,12,1960,injured,NSW,-33.78333333,151.2833333,coastal,whaler shark,unprovoked,swimming,torso,abrasion,female,27,unknown,1,0m to 1.5m
+506,12,1960,injured,QLD,-27.36666667,153.15,river,bull shark,unprovoked,swimming,thigh,minor lacerations,male,33,0900,999,Unknown
+507,1,1961,injured,NSW,-30.63333333,153.1833333,ocean/pelagic,dogfish,provoked,swimming,head,minor lacerations,male,40,unknown,0,0m to 1.5m
+508,2,1961,injured,VIC,-38.26666667,145.0166667,coastal,wobbegong,unprovoked,swimming,,abrasion,female,999,unknown,999,Unknown
+509,2,1961,uninjured,WA,-32.11666667,115.65,island open ocean,wobbegong,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+510,3,1961,injured,SA,-34.96666667,138.5,coastal,whaler shark,provoked,spearfishing,leg,abrasion,male,24,unknown,999,Unknown
+511,3,1961,injured,VIC,-38.38333333,142.4833333,coastal,white shark,unprovoked,swimming,torso,major lacerations,male,21,1700,0,0m to 1.5m
+512,3,1961,injured,SA,-35.28333333,138.4333333,coastal,white shark,provoked,spearfishing,"arm, leg",major lacerations,male,21,1400,2,1.5m to 5m
+513,4,1961,uninjured,VIC,-38.46666667,145.0166667,coastal,dusky shark,provoked,spearfishing,other: uninjured,none,male,24,0800,5,1.5m to 5m
+514,12,1961,fatal,QLD,-26.36666667,153.0833333,coastal,bull shark,unprovoked,boarding,"arm, leg",fatal,male,22,0600,999,Unknown
+515,12,1961,injured,QLD,-21.06666667,149.2166667,coastal,tiger shark,unprovoked,swimming,"arm, hand",major lacerations,male,24,1600,999,Unknown
+516,12,1961,fatal,QLD,-21.06666667,149.2166667,coastal,tiger shark,unprovoked,swimming,"arm, thigh",fatal,female,18,1600,0,0m to 1.5m
+517,12,1961,injured,QLD,-10.38333333,142.2833333,island open ocean,tiger shark,unprovoked,swimming,leg,major lacerations,male,17,1400,999,Unknown
+518,1,1962,injured,NSW,-28.78333333,153.5833333,coastal,white shark,unprovoked,boarding,foot,major lacerations,male,19,unknown,0,0m to 1.5m
+519,1,1962,uninjured,NSW,-33.73333333,151.3,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,999,Unknown
+520,2,1962,injured,QLD,-28.15,153.5333333,coastal,wobbegong,provoked,swimming,leg,teeth marks,male,35,1400,1,0m to 1.5m
+521,11,1962,uninjured,NSW,-33.73333333,151.3166667,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,26,unknown,20,18m to 40m
+522,12,1962,fatal,SA,-35.4,138.3166667,coastal,white shark,provoked,spearfishing,leg,fatal,male,16,1300,999,Unknown
+523,1,1963,fatal,NSW,-33.78333333,151.2333333,estuary/harbour,bull shark,unprovoked,swimming,leg,fatal,female,32,unknown,1,0m to 1.5m
+524,2,1963,injured,NSW,-34.3,150.9333333,coastal,whaler shark,provoked,spearfishing,calf,minor lacerations,male,18,unknown,1,0m to 1.5m
+525,4,1963,injured,WA,-33.63333333,115,coastal,white shark,unprovoked,boarding,arm,major lacerations,male,25,unknown,0,0m to 1.5m
+526,12,1963,injured,SA,-35.28333333,138.4333333,coastal,white shark,provoked,spearfishing,"arm, torso",minor lacerations,male,23,unknown,6,5m to 18m
+527,1,1964,uninjured,WA,-31.95,115.85,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,20,18m to 40m
+528,1,1964,injured,WA,-34.21666667,115.0166667,coastal,wobbegong,provoked,spearfishing,arm,teeth marks,male,999,unknown,999,Unknown
+529,3,1964,injured,SA,-35.53333333,138.6166667,coastal,white shark,unprovoked,boarding,thigh,major lacerations,male,19,unknown,0,0m to 1.5m
+530,10,1964,injured,WA,-32.51666667,115.6833333,coastal,unknown,provoked,swimming,leg,teeth marks,male,19,unknown,999,Unknown
+531,11,1964,injured,VIC,-38.41666667,142,island open ocean,white shark,provoked,snorkelling,leg,major lacerations,male,25,1300,0,0m to 1.5m
+532,1,1965,injured,VIC,-37.83333333,144.9333333,coastal,wobbegong,provoked,swimming,thigh,minor lacerations,male,999,unknown,0,0m to 1.5m
+533,11,1965,injured,QLD,-16.91666667,145.7666667,coastal,tiger shark,unprovoked,boarding,thigh,teeth marks,male,24,unknown,0,0m to 1.5m
+534,12,1965,injured,WA,-31.98333333,115.5333333,island open ocean,wobbegong,provoked,spearfishing,leg,teeth marks,male,40,unknown,1,0m to 1.5m
+535,2,1966,injured,NSW,-34.28333333,150.9333333,coastal,white shark,unprovoked,swimming,"arm, leg",major lacerations,male,13,1400,1,0m to 1.5m
+536,5,1966,fatal,NSW,-35.03333333,150.7166667,coastal,white shark,unprovoked,swimming,"arm, shoulder",fatal,male,40,unknown,999,Unknown
+537,9,1966,uninjured,WA,-31.98333333,115.5333333,island open ocean,shortfin mako shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+538,12,1966,injured,NSW,-33.91666667,151.25,coastal,wobbegong,provoked,spearfishing,leg,major lacerations,male,999,unknown,0,0m to 1.5m
+539,12,1966,injured,QLD,-23.43333333,151.9,island open ocean,whaler shark,provoked,spearfishing,"torso, shoulder",major lacerations,male,999,unknown,15,5m to 18m
+540,12,1966,injured,TAS,-41.86666667,148.3,coastal,white shark,provoked,swimming,arm,minor lacerations,male,30,1300,0,0m to 1.5m
+541,12,1966,injured,NSW,-30.88333333,153.05,coastal,wobbegong,provoked,spearfishing,"arm, hand",major lacerations,male,19,unknown,999,Unknown
+542,4,1967,injured,NSW,-34.41666667,150.8833333,coastal,whaler shark,provoked,spearfishing,"arm, hand",minor lacerations,male,21,unknown,5,1.5m to 5m
+543,8,1967,fatal,WA,-30.25,115.0166667,coastal,white shark,provoked,spearfishing,torso,fatal,male,23,unknown,8,5m to 18m
+544,2,1968,injured,WA,-31.95,115.85,river,bull shark,unprovoked,swimming,thigh,minor lacerations,female,12,unknown,0,0m to 1.5m
+545,2,1968,uninjured,SA,-35.6,138.0833333,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,26,1800,20,18m to 40m
+546,9,1968,uninjured,SA,-35,136.1666667,island open ocean,white shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+547,1,1969,injured,NSW,-35,150.8166667,coastal,whaler shark,provoked,snorkelling,leg,minor lacerations,male,21,0700,5,1.5m to 5m
+548,6,1969,injured,NSW,-34.66666667,150.85,coastal,wobbegong,provoked,spearfishing,"leg, hand",minor lacerations,male,37,1500,6,5m to 18m
+549,11,1969,injured,WA,-31.95,115.85,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,15,unknown,0,0m to 1.5m
+550,1,1971,injured,TAS,-41.15,148.35,coastal,school shark,unprovoked,swimming,torso,minor lacerations,male,999,1600,999,Unknown
+551,2,1971,injured,WA,-33.85,121.8833333,coastal,whaler shark,provoked,spearfishing,"arm, hand",major lacerations,male,21,unknown,999,Unknown
+552,12,1971,fatal,QLD,-23.48333333,151.2,coastal,tiger shark,unprovoked,swimming,other: body not recovered,fatal,male,19,1500,0,0m to 1.5m
+553,2,1972,injured,VIC,-38.81666667,148.0833333,coastal,white shark,unprovoked,boarding,leg,minor lacerations,male,18,unknown,999,Unknown
+554,4,1972,injured,QLD,-27.46666667,153.2333333,island open ocean,unknown,unprovoked,swimming,leg,minor lacerations,female,999,unknown,999,Unknown
+555,8,1972,injured,TAS,-43.23333333,148,coastal,white shark,provoked,diving,foot,minor lacerations,male,45,1100,999,Unknown
+556,10,1972,injured,NSW,-35.35,150.4666667,coastal,white shark,unprovoked,boarding,thigh,major lacerations,male,18,0800,0,0m to 1.5m
+557,10,1972,injured,QLD,-17.1,146.4,ocean/pelagic,whaler shark,provoked,spearfishing,arm,minor lacerations,male,24,unknown,999,Unknown
+558,11,1972,uninjured,SA,-35,136.1666667,coastal,white shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+559,1,1973,injured,NSW,-33.51666667,151.3166667,coastal,white shark,unprovoked,boarding,foot,minor lacerations,male,19,unknown,999,Unknown
+560,3,1973,injured,QLD,-18.51666667,146.35,coastal,tiger shark,unprovoked,swimming,"arm, hand",minor lacerations,male,43,unknown,0,0m to 1.5m
+561,8,1973,injured,QLD,-27.41666667,153.5333333,island open ocean,white shark,unprovoked,boarding,foot,major lacerations,male,16,0700,0,0m to 1.5m
+562,11,1973,injured,QLD,-17.68333333,139.3666667,river,bull shark,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+563,1,1974,fatal,SA,-32.76666667,134.2,coastal,white shark,provoked,diving,"arm, leg, torso",fatal,male,25,1300,999,Unknown
+564,9,1974,fatal,QLD,-27.73333333,153.6833333,ocean/pelagic,tiger shark,unprovoked,swimming,torso,fatal,male,30,unknown,0,0m to 1.5m
+565,12,1974,injured,WA,-33.63333333,115.35,coastal,wobbegong,unprovoked,diving,,injury unknown,male,32,unknown,999,Unknown
+566,1,1975,fatal,SA,-34.68333333,135.35,coastal,white shark,unprovoked,boarding,torso,fatal,male,17,1100,0,0m to 1.5m
+567,2,1975,injured,VIC,-38.93333333,146.2333333,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,22,unknown,0,0m to 1.5m
+568,2,1975,fatal,SA,-32.08333333,132.9666667,coastal,white shark,provoked,snorkelling,leg,fatal,male,12,unknown,999,Unknown
+569,2,1975,injured,VIC,-38.4,144.1833333,coastal,wobbegong,provoked,snorkelling,"torso, shoulder",minor lacerations,male,45,unknown,3,1.5m to 5m
+570,3,1975,injured,QLD,-16.55,139.4,island open ocean,tiger shark,unprovoked,swimming,"arm, hand",major lacerations,female,999,unknown,999,Unknown
+571,7,1975,injured,QLD,-26.65,153.0833333,coastal,white shark,unprovoked,boarding,"leg, pelvic region",major lacerations,male,21,1700,999,Unknown
+572,7,1975,fatal,TAS,-43.35,147.35,coastal,white shark,provoked,diving,other: body not recovered,fatal,male,37,1300,13,5m to 18m
+573,11,1975,injured,NSW,-33.78333333,151.2833333,coastal,wobbegong,provoked,spearfishing,leg,minor lacerations,male,20,1200,999,Unknown
+574,9,1976,injured,SA,-32.98333333,137.7833333,coastal,white shark,provoked,spearfishing,leg,major lacerations,male,17,unknown,999,Unknown
+575,2,1977,injured,NSW,-28.23333333,153.5666667,coastal,tiger shark,unprovoked,boarding,,major lacerations,male,24,unknown,0,0m to 1.5m
+576,3,1977,fatal,QLD,-27.25,153.25,coastal,tiger shark,unprovoked,swimming,other: body not recovered,fatal,male,43,unknown,999,Unknown
+577,3,1977,fatal,QLD,-27.25,153.25,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,74,unknown,999,Unknown
+578,4,1977,injured,QLD,-28.08333333,153.45,estuary/harbour,bull shark,unprovoked,swimming,leg,major lacerations,male,19,unknown,999,Unknown
+579,8,1977,fatal,QLD,-26.68333333,153.1333333,coastal,tiger shark,unprovoked,snorkelling,"arm, torso, foot",fatal,male,26,unknown,999,Unknown
+580,8,1977,injured,SA,-32.08333333,132.9666667,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,17,unknown,0,0m to 1.5m
+581,8,1978,uninjured,WA,-31.76666667,115.7166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,15,0700,999,Unknown
+582,9,1978,uninjured,TAS,-43.16666667,147.9833333,coastal,white shark,provoked,diving,other: uninjured,none,male,34,1200,10,5m to 18m
+583,12,1978,injured,QLD,-26.8,153.1166667,coastal,bull shark,unprovoked,swimming,leg,teeth marks,male,15,unknown,999,Unknown
+584,1,1979,uninjured,QLD,-26.66666667,153.1166667,coastal,whaler shark,provoked,swimming,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+585,9,1979,injured,NSW,-28.63333333,153.6166667,coastal,whaler shark,unprovoked,swimming,thigh,minor lacerations,male,18,unknown,0,0m to 1.5m
+586,1,1980,injured,NSW,-32.43333333,152.5166667,coastal,wobbegong,provoked,diving,arm,minor lacerations,male,999,unknown,0,0m to 1.5m
+587,3,1980,injured,VIC,-38.41666667,145.05,coastal,whaler shark,provoked,spearfishing,"arm, hand",minor lacerations,male,42,1100,2,1.5m to 5m
+588,3,1980,injured,QLD,-27.41666667,153.5333333,coastal,whaler shark,unprovoked,boarding,calf,minor lacerations,male,21,unknown,0,0m to 1.5m
+589,9,1980,uninjured,SA,-32.08333333,132.9666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,999,Unknown
+590,10,1980,injured,QLD,-16.91666667,145.7666667,coastal,grey reef shark,provoked,diving,head,minor lacerations,female,999,unknown,0,0m to 1.5m
+591,11,1980,injured,WA,-31,115.3,coastal,white shark,unprovoked,swimming,torso,major lacerations,male,999,unknown,1,0m to 1.5m
+592,1,1981,uninjured,NSW,-28.63333333,153.6166667,coastal,tiger shark,unprovoked,boarding,other: uninjured,none,male,27,0700,0,0m to 1.5m
+593,2,1981,injured,WA,-32,115.5166667,island open ocean,wobbegong,unprovoked,swimming,leg,abrasion,male,37,unknown,999,Unknown
+594,2,1981,injured,WA,-32.01666667,115.7333333,coastal,wobbegong,unprovoked,swimming,foot,teeth marks,male,999,unknown,0,0m to 1.5m
+595,12,1981,injured,QLD,-16.75,145.9666667,island open ocean,tiger shark,unprovoked,swimming,torso,major lacerations,female,999,unknown,999,Unknown
+596,2,1982,uninjured,TAS,-43.51666667,146.9,coastal,white shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+597,2,1982,fatal,TAS,-43.56666667,146.8833333,coastal,white shark,provoked,spearfishing,other: body not recovered,fatal,male,32,unknown,0,0m to 1.5m
+598,3,1982,fatal,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,boarding,leg,fatal,male,20,unknown,999,Unknown
+599,7,1983,uninjured,QLD,-18.9,147.7333333,island open ocean,tiger shark,unprovoked,swimming,,none,male,33,unknown,999,Unknown
+600,7,1983,fatal,QLD,-18.68333333,147.1,island open ocean,tiger shark,unprovoked,swimming,other: body not recovered,fatal,female,21,0400,999,Unknown
+601,7,1983,fatal,QLD,-18.68333333,147.1,island open ocean,tiger shark,unprovoked,swimming,other: body not recovered,fatal,male,24,unknown,0,0m to 1.5m
+602,11,1983,injured,QLD,-28.16666667,153.5333333,coastal,tiger shark,unprovoked,swimming,thigh,minor lacerations,male,10,unknown,999,Unknown
+603,12,1983,injured,SA,-35.31666667,136.1,island open ocean,white shark,provoked,diving,"arm, hand",minor lacerations,male,999,unknown,30,18m to 40m
+604,2,1984,injured,QLD,-21.13333333,149.1833333,island open ocean,tiger shark,unprovoked,swimming,"arm, hand",major lacerations,male,27,unknown,999,Unknown
+605,3,1984,injured,WA,-23.13333333,113.7666667,coastal,whaler shark,unprovoked,swimming,calf,minor lacerations,male,25,unknown,1,0m to 1.5m
+606,3,1984,injured,WA,-31.83333333,115.75,coastal,wobbegong,unprovoked,swimming,leg,teeth marks,male,999,unknown,999,Unknown
+607,6,1984,uninjured,TAS,-43.23333333,147.7833333,coastal,white shark,provoked,diving,,none,male,999,unknown,999,Unknown
+608,9,1984,injured,NT,-14.11666667,129.5333333,coastal,tiger shark,unprovoked,swimming,"arm, head, torso",minor lacerations,female,27,unknown,0,0m to 1.5m
+609,10,1984,uninjured,NSW,-28.68333333,153.6166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,25,0700,999,Unknown
+610,10,1984,uninjured,TAS,-43.13333333,148,coastal,white shark,provoked,diving,,none,male,999,unknown,23,18m to 40m
+611,11,1984,fatal,QLD,-21.05,149.1833333,coastal,tiger shark,unprovoked,swimming,"arm, head, torso",fatal,male,15,1200,999,Unknown
+612,2,1985,uninjured,VIC,-38.33333333,144.3,coastal,white shark,unprovoked,boarding,,none,male,36,0600,999,Unknown
+613,3,1985,injured,WA,-31.85,115.75,island open ocean,wobbegong,provoked,diving,thigh,minor lacerations,female,20,1000,6,5m to 18m
+614,3,1985,fatal,SA,-34.46666667,136.0166667,coastal,white shark,unprovoked,snorkelling,torso,fatal,female,33,1200,999,Unknown
+615,9,1985,injured,QLD,-13.91666667,146.6166667,coastal,whitetip reef shark,provoked,diving,"arm, hand",abrasion,male,999,unknown,26,18m to 40m
+616,12,1985,injured,NSW,-29.91666667,153.3833333,island open ocean,wobbegong,provoked,diving,thigh,teeth marks,male,999,unknown,0,0m to 1.5m
+617,1,1986,fatal,QLD,-10.66666667,142.1833333,island open ocean,tiger shark,provoked,spearfishing,,fatal,male,999,unknown,999,Unknown
+618,3,1986,injured,NT,-12.36666667,130.8333333,coastal,wobbegong,provoked,swimming,leg,teeth marks,male,13,unknown,0,0m to 1.5m
+619,5,1986,injured,NSW,-33.81666667,151.3,coastal,wobbegong,unprovoked,diving,"arm, hand",minor lacerations,male,41,0900,999,Unknown
+620,8,1986,injured,NSW,-33.81666667,151.3,coastal,wobbegong,unprovoked,diving,thigh,teeth marks,female,999,1100,24,18m to 40m
+621,10,1986,uninjured,WA,-12.15,96.81666667,island open ocean,tiger shark,unprovoked,boarding,,none,male,39,1100,999,Unknown
+622,1,1987,injured,QLD,-14.66666667,145.45,island open ocean,tiger shark,unprovoked,swimming,calf,minor lacerations,male,38,0700,0,0m to 1.5m
+623,1,1987,injured,QLD,-13.91666667,146.6166667,island open ocean,whitetip reef shark,provoked,diving,"torso, pelvic region",abrasion,female,999,unknown,999,Unknown
+624,2,1987,injured,NSW,-32.16666667,152.5166667,ocean/pelagic,wobbegong,provoked,diving,thigh,teeth marks,female,17,0900,45,>40m
+625,2,1987,fatal,VIC,-38.46666667,144.8833333,coastal,white shark,unprovoked,boarding,,fatal,male,999,unknown,999,Unknown
+626,3,1987,injured,WA,-33.88333333,121.8166667,coastal,white shark,unprovoked,boarding,leg,injury unknown,male,19,1700,999,Unknown
+627,4,1987,injured,WA,-32.16666667,115.65,estuary/harbour,wobbegong,unprovoked,swimming,leg,teeth marks,male,999,unknown,999,Unknown
+628,9,1987,fatal,SA,-34.91666667,138.5833333,coastal,white shark,unprovoked,diving,,fatal,male,47,unknown,0,0m to 1.5m
+629,10,1987,injured,NT,-14.16666667,132.1833333,coastal,bull shark,unprovoked,swimming,arm,minor lacerations,female,999,unknown,999,Unknown
+630,12,1987,uninjured,QLD,-14.66666667,145.45,island open ocean,hammerhead shark ,provoked,diving,other: uninjured,none,male,999,1200,8,5m to 18m
+631,7,1988,injured,NSW,-33.26666667,151.5666667,coastal,white shark,unprovoked,swimming,calf,minor lacerations,female,10,unknown,0,0m to 1.5m
+632,10,1988,injured,SA,-34.91666667,138.5833333,coastal,white shark,unprovoked,boarding,"leg, hand",teeth marks,male,15,1200,999,Unknown
+633,10,1988,uninjured,QLD,-23.9,152.3833333,island open ocean,tiger shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+634,10,1988,injured,VIC,-38.5,145.2666667,coastal,white shark,unprovoked,boarding,calf,minor lacerations,male,35,1500,999,Unknown
+635,11,1988,fatal,QLD,-23.11666667,150.7333333,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,17,unknown,0,0m to 1.5m
+636,11,1988,fatal,QLD,-23.11666667,150.7333333,coastal,tiger shark,unprovoked,swimming,,fatal,male,62,unknown,999,Unknown
+637,1,1989,injured,NSW,-33.86666667,151.2,coastal,wobbegong,provoked,diving,arm,injury unknown,male,19,unknown,23,18m to 40m
+638,1,1989,uninjured,VIC,-38.5,145.2666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,30,1700,0,0m to 1.5m
+639,1,1989,injured,WA,-32,115.5166667,coastal,wobbegong,unprovoked,snorkelling,leg,teeth marks,male,999,1400,999,Unknown
+640,1,1989,injured,NSW,-28.88333333,153.55,coastal,white shark,unprovoked,boarding,torso,teeth marks,male,17,1600,0,0m to 1.5m
+641,3,1989,uninjured,WA,-17.96666667,122.2333333,coastal,tiger shark,provoked,snorkelling,,none,male,999,1100,999,Unknown
+642,3,1989,injured,QLD,-10.11666667,142.1333333,island open ocean,whaler shark,provoked,spearfishing,thigh,minor lacerations,male,32,1600,4,1.5m to 5m
+643,3,1989,fatal,SA,-35.63333333,138.4833333,coastal,white shark,unprovoked,boarding,thigh,fatal,male,27,2000,0,0m to 1.5m
+644,8,1989,uninjured,NSW,-28.78333333,153.5833333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,17,0600,0,0m to 1.5m
+645,10,1989,uninjured,TAS,-41.43333333,148.2666667,estuary/harbour,white shark,unprovoked,boarding,,none,male,17,1400,0,0m to 1.5m
+646,10,1989,injured,NT,-14.16666667,132.1833333,coastal,bull shark,unprovoked,swimming,thigh,minor lacerations,female,31,unknown,999,Unknown
+647,11,1989,injured,VIC,-38.53333333,145.4666667,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,32,1900,0,0m to 1.5m
+648,11,1989,injured,QLD,-28.03333333,153.4,river,bull shark,unprovoked,swimming,calf,minor lacerations,male,10,1800,999,Unknown
+649,12,1989,injured,WA,-16.38333333,122.9166667,island open ocean,wobbegong,unprovoked,diving,"arm, hand",teeth marks,male,999,unknown,999,Unknown
+650,12,1989,injured,NT,-12.28333333,136.8166667,coastal,tiger shark,provoked,swimming,leg,minor lacerations,male,17,unknown,0,0m to 1.5m
+651,4,1990,uninjured,QLD,-28.15,153.5333333,coastal,tiger shark,unprovoked,boarding,other: uninjured,none,male,31,0600,999,Unknown
+652,4,1990,uninjured,NSW,-28.18333333,153.55,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,29,unknown,0,0m to 1.5m
+653,4,1990,fatal,QLD,-19.16666667,148.3833333,island open ocean,tiger shark,provoked,snorkelling,torso,fatal,male,36,1400,1,0m to 1.5m
+654,5,1990,injured,QLD,-16.21666667,145.8833333,ocean/pelagic,hammerhead shark ,provoked,snorkelling,calf,abrasion,female,33,1200,0,0m to 1.5m
+655,5,1990,injured,QLD,-16.21666667,145.8833333,island open ocean,hammerhead shark ,provoked,snorkelling,"arm, hand",teeth marks,male,44,1200,0,0m to 1.5m
+656,9,1990,injured,QLD,-25.9,153.0833333,coastal,wobbegong,unprovoked,swimming,foot,abrasion,male,13,0800,1,0m to 1.5m
+657,10,1990,injured,QLD,-28.03333333,153.4,river,bull shark,unprovoked,swimming,"leg, pelvic region",major lacerations,male,26,2000,0,0m to 1.5m
+658,10,1990,injured,SA,-35.51666667,138.7666667,coastal,white shark,unprovoked,boarding,foot,minor lacerations,male,20,1000,999,Unknown
+659,11,1990,injured,QLD,-28,153.4166667,river,bull shark,unprovoked,swimming,"arm, torso, pelvic region",minor lacerations,male,26,1600,999,Unknown
+660,1,1991,injured,QLD,-23.83333333,151.25,coastal,unknown,unprovoked,boarding,leg,minor lacerations,male,22,1700,0,0m to 1.5m
+661,1,1991,uninjured,VIC,-38.26666667,144.65,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,14,unknown,999,Unknown
+662,1,1991,uninjured,NSW,-33.51666667,151.3666667,coastal,dusky shark,unprovoked,snorkelling,other: uninjured,none,male,45,1500,2,1.5m to 5m
+663,1,1991,injured,QLD,-28.03333333,153.4,river,bull shark,unprovoked,swimming,"leg, pelvic region",minor lacerations,male,29,0800,1,0m to 1.5m
+664,3,1991,injured,NSW,-34.56666667,150.8666667,coastal,grey nurse shark,provoked,diving,"arm, leg",minor lacerations,male,18,1600,999,Unknown
+665,9,1991,fatal,SA,-35.28333333,138.4333333,coastal,white shark,unprovoked,diving,torso,fatal,male,19,1400,8,5m to 18m
+666,11,1991,injured,WA,-32.51666667,115.7,coastal,white shark,unprovoked,boarding,leg,abrasion,male,14,unknown,999,Unknown
+667,1,1992,injured,QLD,-28.16666667,153.5333333,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,19,2000,999,Unknown
+668,2,1992,uninjured,QLD,-24.86666667,152.35,coastal,tiger shark,unprovoked,boarding,other: uninjured,none,male,22,unknown,999,Unknown
+669,3,1992,uninjured,QLD,-27.98333333,153.3333333,river,bull shark,provoked,unknown,other: uninjured,none,male,24,unknown,0,0m to 1.5m
+670,3,1992,injured,VIC,-38.28333333,144.6,coastal,white shark,unprovoked,boarding,"leg, pelvic region",minor lacerations,male,17,1100,999,Unknown
+671,8,1992,injured,SA,-34.25,135.1666667,coastal,white shark,unprovoked,boarding,torso,minor lacerations,male,16,1700,999,Unknown
+672,10,1992,fatal,QLD,-27.08333333,153.4,coastal,white shark,unprovoked,boarding,,fatal,male,28,1400,0,0m to 1.5m
+673,1,1993,injured,QLD,-20.05,148.8833333,island open ocean,whitetip reef shark,provoked,spearfishing,arm,minor lacerations,male,21,0900,999,Unknown
+674,4,1993,uninjured,TAS,-40.93333333,146.9833333,island open ocean,white shark,provoked,spearfishing,other: uninjured,none,male,32,unknown,999,Unknown
+675,4,1993,injured,SA,-34.21666667,138.0166667,coastal,white shark,provoked,spearfishing,calf,minor lacerations,male,60,1900,1,0m to 1.5m
+676,6,1993,fatal,TAS,-40.93333333,146.9833333,island open ocean,white shark,unprovoked,diving,other: body not recovered,fatal,female,35,1100,5,1.5m to 5m
+677,6,1993,fatal,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,diving,torso,fatal,male,31,0900,3,1.5m to 5m
+678,11,1993,fatal,WA,-17.96666667,122.2333333,coastal,tiger shark,provoked,diving,,fatal,male,28,1600,8,5m to 18m
+679,12,1993,uninjured,QLD,-23.36666667,150.5,coastal,whaler shark,unprovoked,boarding,other: uninjured,none,male,13,unknown,1,0m to 1.5m
+680,1,1994,injured,QLD,-27.53333333,153.8333333,river,bull shark,unprovoked,swimming,thigh,minor lacerations,male,22,1300,0,0m to 1.5m
+681,1,1994,injured,QLD,-27.98333333,153.4166667,river,bull shark,unprovoked,swimming,foot,minor lacerations,male,999,unknown,1,0m to 1.5m
+682,2,1994,injured,SA,-37.31666667,139.8333333,coastal,wobbegong,provoked,fishing,foot,teeth marks,male,39,2000,1,0m to 1.5m
+683,4,1994,injured,QLD,-27.93333333,153.4166667,coastal,whaler shark,unprovoked,swimming,"arm, hand",teeth marks,female,999,0900,1,0m to 1.5m
+684,11,1994,injured,VIC,-38.46666667,144.8833333,coastal,wobbegong,provoked,diving,torso,teeth marks,male,23,unknown,9,5m to 18m
+685,2,1995,uninjured,VIC,-38.51666667,145.0833333,island open ocean,sevengill shark,provoked,diving,,none,male,34,0700,10,5m to 18m
+686,2,1995,injured,SA,-35.53333333,138.6666667,coastal,wobbegong,unprovoked,boarding,foot,teeth marks,male,14,unknown,1,0m to 1.5m
+687,3,1995,injured,SA,-32.08333333,132.9666667,coastal,white shark,unprovoked,boarding,arm,minor lacerations,male,35,0700,0,0m to 1.5m
+688,3,1995,uninjured,NSW,-33.85,151.2333333,estuary/harbour,bull shark,unprovoked,boarding,other: uninjured,none,female,29,0700,999,Unknown
+689,4,1995,injured,NSW,-37.05,149.9,coastal,wobbegong,unprovoked,diving,"arm, hand",minor lacerations,male,999,unknown,999,Unknown
+690,5,1995,uninjured,WA,-24.83333333,113.1333333,island open ocean,tiger shark,unprovoked,diving,other: uninjured,none,male,49,1000,2,1.5m to 5m
+691,9,1995,fatal,WA,-33.88333333,120.6833333,coastal,white shark,unprovoked,diving,torso,fatal,male,29,1500,10,5m to 18m
+692,10,1995,injured,QLD,-25,152.8333333,coastal,tiger shark,unprovoked,swimming,leg,minor lacerations,female,15,1500,1,0m to 1.5m
+693,11,1995,injured,NSW,-29.53333333,153.3333333,estuary/harbour,bull shark,provoked,unknown,thigh,teeth marks,male,35,unknown,1,0m to 1.5m
+694,11,1995,injured,QLD,-23.16666667,150.95,coastal,tiger shark,unprovoked,swimming,leg,minor lacerations,male,19,1600,999,Unknown
+695,12,1995,injured,NSW,-33.55,151.2666667,estuary/harbour,bull shark,unprovoked,swimming,arm,abrasion,male,24,1500,1,0m to 1.5m
+696,1,1996,injured,QLD,-27.85,153.4,estuary/harbour,bull shark,unprovoked,swimming,calf,minor lacerations,female,13,1400,0,0m to 1.5m
+697,1,1996,injured,WA,-35.05,117.6833333,island open ocean,wobbegong,provoked,spearfishing,leg,teeth marks,male,40,1500,10,5m to 18m
+698,2,1996,injured,NSW,-33.86666667,151.2,coastal,bull shark,unprovoked,swimming,thigh,teeth marks,male,24,0100,999,Unknown
+699,2,1996,injured,NSW,-31.51666667,159.05,coastal,galapagos shark,provoked,swimming,foot,minor lacerations,male,7,unknown,1,0m to 1.5m
+700,3,1996,injured,QLD,-23.43333333,151.9,island open ocean,whaler shark,unprovoked,swimming,"arm, leg",minor lacerations,female,47,0700,1,0m to 1.5m
+701,4,1996,injured,NSW,-33.66666667,151.3,coastal,wobbegong,unprovoked,swimming,leg,teeth marks,female,16,unknown,999,Unknown
+702,4,1996,injured,NSW,-33.66666667,151.3,coastal,wobbegong,unprovoked,swimming,thigh,teeth marks,male,11,unknown,999,Unknown
+703,6,1996,uninjured,VIC,-38.41666667,145.0666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,47,1700,999,Unknown
+704,9,1996,injured,WA,-32,115.5166667,island open ocean,wobbegong,unprovoked,swimming,thigh,abrasion,male,999,unknown,1,0m to 1.5m
+705,12,1996,injured,VIC,-38.41666667,144.1833333,estuary/harbour,wobbegong,unprovoked,boarding,leg,teeth marks,female,12,unknown,1,0m to 1.5m
+706,12,1996,injured,QLD,-26.5,153,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,female,18,1800,999,Unknown
+707,1,1997,injured,QLD,-20.25,148.9666667,coastal,tiger shark,unprovoked,snorkelling,leg,minor lacerations,male,27,1100,999,Unknown
+708,1,1997,injured,QLD,-28.15,153.5333333,coastal,bull shark,unprovoked,boarding,leg,teeth marks,male,8,1300,999,Unknown
+709,1,1997,uninjured,VIC,-38.51666667,145.0833333,island open ocean,white shark,unprovoked,unmotorised boating,other: uninjured,none,male,32,unknown,999,Unknown
+710,2,1997,injured,QLD,-20.26666667,148.9,coastal,grey reef shark,unprovoked,diving,"arm, shoulder",minor lacerations,male,30,1000,999,Unknown
+711,2,1997,injured,QLD,-27.98333333,153.3333333,river,bull shark,unprovoked,swimming,leg,major lacerations,female,20,1300,999,Unknown
+712,2,1997,uninjured,NSW,-33.86666667,151.2,river,bull shark,unprovoked,unmotorised boating,other: uninjured,none,female,49,0600,999,Unknown
+713,7,1997,injured,QLD,-26.65,153.1,coastal,tiger shark,unprovoked,boarding,calf,minor lacerations,male,18,1400,999,Unknown
+714,10,1997,injured,WA,-31.98333333,115.75,coastal,white shark,unprovoked,boarding,head,abrasion,male,999,0600,999,Unknown
+715,11,1997,uninjured,VIC,-38.28333333,144.45,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,21,1500,999,Unknown
+716,11,1997,injured,WA,-35.13333333,117.95,coastal,white shark,unprovoked,diving,"arm, shoulder",minor lacerations,male,42,unknown,42,>40m
+717,12,1997,injured,WA,-33.98333333,114.9833333,coastal,wobbegong,unprovoked,swimming,leg,minor lacerations,male,4,0900,1,0m to 1.5m
+718,12,1997,injured,NSW,-29.1,153.4333333,coastal,wobbegong,unprovoked,swimming,leg,minor lacerations,male,18,1500,999,Unknown
+719,12,1997,injured,QLD,-20.11666667,148.9166667,coastal,bull shark,unprovoked,swimming,leg,minor lacerations,male,8,unknown,999,Unknown
+720,1,1998,injured,WA,-34.21666667,115.0166667,island open ocean,wobbegong,provoked,diving,calf,minor lacerations,male,34,1000,15,5m to 18m
+721,1,1998,uninjured,QLD,-18.66666667,146.5,island open ocean,tiger shark,unprovoked,snorkelling,other: uninjured,none,male,45,0600,0,0m to 1.5m
+722,1,1998,injured,SA,-35.5,138.7,coastal,wobbegong,unprovoked,boarding,foot,teeth marks,male,31,unknown,0,0m to 1.5m
+723,6,1998,fatal,SA,-35.31666667,136.1,coastal,white shark,unprovoked,snorkelling,"torso, leg",fatal,male,26,1400,2,1.5m to 5m
+724,9,1998,injured,NSW,-35.03333333,150.7166667,coastal,wobbegong,unprovoked,diving,thigh,minor lacerations,male,999,unknown,999,Unknown
+725,10,1998,injured,QLD,-26.5,153,coastal,wobbegong,provoked,diving,"arm, hand",minor lacerations,male,37,1400,14,5m to 18m
+726,12,1998,injured,SA,-35.5,138.7,coastal,wobbegong,unprovoked,boarding,calf,teeth marks,female,21,unknown,999,Unknown
+727,12,1998,injured,NSW,-33.95,151.15,estuary/harbour,whaler shark,provoked,spearfishing,calf,minor lacerations,male,999,unknown,999,Unknown
+728,2,1999,injured,NSW,-30.56666667,152.9833333,ocean/pelagic,white shark,unprovoked,boarding,arm,minor lacerations,male,35,1900,0,0m to 1.5m
+729,5,1999,fatal,SA,-34.88333333,137.45,coastal,white shark,unprovoked,boarding,torso,fatal,male,22,1600,999,Unknown
+730,10,1999,injured,QLD,-27.38333333,153.4333333,coastal,wobbegong,provoked,diving,thigh,minor lacerations,male,999,unknown,999,Unknown
+731,12,1999,uninjured,NSW,-32.21666667,152.6,ocean/pelagic,whaler shark,unprovoked,diving,other: uninjured,none,male,34,0900,15,5m to 18m
+732,12,1999,uninjured,WA,-31.88333333,115.75,coastal,white shark,provoked,diving,other: uninjured,none,male,999,unknown,10,5m to 18m
+733,2,2000,uninjured,NSW,-34.03333333,151.15,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,57,1200,999,Unknown
+734,2,2000,injured,SA,-32.08333333,132.9833333,coastal,white shark,unprovoked,boarding,"arm, torso",major lacerations,male,26,1100,0,0m to 1.5m
+735,2,2000,injured,WA,-31.81666667,115.7333333,coastal,wobbegong,unprovoked,swimming,foot,teeth marks,male,51,0500,1,0m to 1.5m
+736,3,2000,injured,QLD,-27.96666667,153.4166667,coastal,white shark,unprovoked,swimming,calf,major lacerations,male,26,1400,999,Unknown
+737,3,2000,injured,WA,-31.95,115.0666667,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,20,1800,999,Unknown
+738,3,2000,uninjured,NSW,-33.48333333,151.4166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,38,1900,999,Unknown
+739,3,2000,injured,NSW,-33.86666667,151.2,estuary/harbour,bull shark,unprovoked,swimming,foot,teeth marks,male,61,unknown,999,Unknown
+740,3,2000,uninjured,NSW,-33.86666667,151.2,river,bull shark,unprovoked,unmotorised boating,other: uninjured,none,male,999,unknown,999,Unknown
+741,4,2000,uninjured,NSW,-33.93333333,151.25,coastal,whaler shark,unprovoked,boarding,other: uninjured,none,male,999,1500,999,Unknown
+742,4,2000,injured,WA,-31.98333333,115.75,coastal,wobbegong,provoked,swimming,foot,teeth marks,female,11,unknown,999,Unknown
+743,9,2000,fatal,SA,-33.61666667,134.8166667,coastal,white shark,unprovoked,boarding,torso,fatal,male,17,1200,999,Unknown
+744,9,2000,fatal,SA,-32.08333333,132.9666667,coastal,white shark,unprovoked,boarding,torso,fatal,male,25,0700,999,Unknown
+745,11,2000,uninjured,QLD,-18.66666667,146.5,island open ocean,tiger shark,provoked,diving,other: uninjured,none,male,28,0900,11,5m to 18m
+746,11,2000,injured,WA,-31.98333333,115.75,coastal,white shark,unprovoked,swimming,foot,minor lacerations,male,52,0600,1,0m to 1.5m
+747,11,2000,uninjured,NSW,-34.63333333,150.3833333,coastal,white shark,unprovoked,swimming,other: uninjured,none,male,40,1500,999,Unknown
+748,11,2000,uninjured,SA,-33.18333333,134.65,coastal,white shark,provoked,diving,other: uninjured,none,male,27,1200,12,5m to 18m
+749,11,2000,fatal,WA,-31.98333333,115.75,coastal,white shark,unprovoked,swimming,"torso, leg",fatal,male,49,0600,1,0m to 1.5m
+750,12,2000,injured,QLD,-23.43333333,151.9,coastal,whaler shark,provoked,spearfishing,arm,minor lacerations,male,38,0900,999,Unknown
+751,12,2000,injured,QLD,-19.25,146.8166667,coastal,wobbegong,unprovoked,diving,"arm, hand",minor lacerations,male,999,1600,999,Unknown
+752,1,2001,uninjured,QLD,-26.38333333,153.0833333,coastal,tiger shark,unprovoked,boarding,other: uninjured,none,male,999,1700,999,Unknown
+753,1,2001,uninjured,NSW,-30.88333333,153.05,coastal,white shark,unprovoked,unmotorised boating,other: uninjured,none,male,35,unknown,999,Unknown
+754,2,2001,injured,NSW,-29.6,153.3333333,coastal,tiger shark,unprovoked,boarding,calf,teeth marks,male,40,1600,999,Unknown
+755,3,2001,injured,WA,-33.96666667,114.9833333,coastal,wobbegong,unprovoked,snorkelling,calf,teeth marks,male,19,1400,1,0m to 1.5m
+756,4,2001,injured,NSW,-30.63333333,153.0166667,estuary/harbour,wobbegong,unprovoked,boarding,calf,major lacerations,male,40,1000,999,Unknown
+757,4,2001,injured,NSW,-33.9,151.2666667,coastal,wobbegong,provoked,snorkelling,arm,abrasion,male,32,unknown,999,Unknown
+758,5,2001,injured,NSW,-33.23333333,151.5333333,coastal,white shark,unprovoked,boarding,torso,minor lacerations,male,37,1700,999,Unknown
+759,10,2001,uninjured,QLD,-27.28333333,153.4166667,coastal,tiger shark,unprovoked,unmotorised boating,,none,male,31,1400,999,Unknown
+760,10,2001,injured,QLD,-16.91666667,149.25,coastal,silvertip shark,provoked,snorkelling,arm,minor lacerations,female,20,1300,0,0m to 1.5m
+761,11,2001,injured,NSW,-28.81666667,153.5333333,coastal,white shark,unprovoked,boarding,torso,abrasion,male,49,0900,999,Unknown
+762,12,2001,injured,NSW,-29.43333333,153.35,coastal,wobbegong,unprovoked,swimming,foot,teeth marks,male,14,1800,999,Unknown
+763,12,2001,uninjured,WA,-33.63333333,115,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,36,unknown,999,Unknown
+764,12,2001,uninjured,WA,-34.25,115.0166667,coastal,white shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+765,1,2002,injured,WA,-33.3,115.6833333,estuary/harbour,shortfin mako shark,unprovoked,swimming,thigh,minor lacerations,male,32,1700,999,Unknown
+766,1,2002,injured,NSW,-32.73333333,152.1833333,island open ocean,bull shark,unprovoked,boarding,arm,abrasion,male,20,1900,0,0m to 1.5m
+767,2,2002,injured,QLD,-26.36666667,153.0833333,coastal,whaler shark,unprovoked,boarding,foot,minor lacerations,male,36,0900,999,Unknown
+768,2,2002,uninjured,NSW,-33.86666667,151.2,river,bull shark,unprovoked,unmotorised boating,other: uninjured,none,male,35,2000,999,Unknown
+769,4,2002,uninjured,NSW,-30.28333333,153.1333333,coastal,bull shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,6,5m to 18m
+770,4,2002,fatal,SA,-32.38422037,133.9255802,coastal,white shark,provoked,diving,leg,fatal,male,23,1200,999,Unknown
+771,4,2002,injured,NSW,-32.93333333,151.75,coastal,wobbegong,unprovoked,swimming,foot,teeth marks,male,46,unknown,999,Unknown
+772,8,2002,uninjured,WA,-31.96666667,115.75,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,34,0800,0,0m to 1.5m
+773,12,2002,injured,QLD,-16.66666667,145.9333333,coastal,hammerhead shark ,provoked,snorkelling,arm,minor lacerations,female,18,1400,999,Unknown
+774,12,2002,injured,NSW,-33.78333333,151.2833333,coastal,wobbegong,unprovoked,diving,thigh,abrasion,male,35,0900,10,5m to 18m
+775,12,2002,fatal,QLD,-28.05,153.4166667,river,bull shark,unprovoked,swimming,"torso, leg",fatal,male,23,0400,999,Unknown
+776,1,2003,injured,NSW,-33.91666667,151.25,coastal,wobbegong,unprovoked,swimming,leg,minor lacerations,male,24,unknown,999,Unknown
+777,1,2003,uninjured,SA,-33.86666667,135.1666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,female,999,1300,0,0m to 1.5m
+778,2,2003,injured,SA,-35.51666667,138.7666667,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,37,unknown,1,0m to 1.5m
+779,2,2003,fatal,QLD,-28.1,153.1,coastal,bull shark,unprovoked,swimming,leg,fatal,male,84,0700,0,0m to 1.5m
+780,3,2003,injured,NSW,-29.41666667,153.35,coastal,whaler shark,unprovoked,boarding,foot,teeth marks,male,999,unknown,999,Unknown
+781,3,2003,injured,WA,-32.53333333,115.7166667,coastal,wobbegong,provoked,diving,"torso, pelvic region",teeth marks,male,999,unknown,36,18m to 40m
+782,7,2003,uninjured,NT,-12.18333333,136.7666667,island open ocean,tiger shark,unprovoked,unmotorised boating,other: uninjured,none,male,37,unknown,999,Unknown
+783,10,2003,injured,NSW,-30.28333333,153.1333333,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,12,1800,999,Unknown
+784,10,2003,injured,NSW,-32.43333333,152.5166667,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,22,1700,1,0m to 1.5m
+785,11,2003,injured,WA,-33.63333333,114.9833333,coastal,wobbegong,provoked,swimming,thigh,abrasion,male,15,1100,999,Unknown
+786,11,2003,injured,WA,-33.96666667,114.9833333,coastal,wobbegong,provoked,swimming,"leg, hand",abrasion,male,15,1100,999,Unknown
+787,12,2003,injured,WA,-33.96666667,114.9833333,river,wobbegong,provoked,spearfishing,leg,teeth marks,male,34,0700,999,Unknown
+788,12,2003,uninjured,VIC,-38.26666667,144.5333333,coastal,whaler shark,unprovoked,swimming,other: uninjured,none,male,999,0500,999,Unknown
+789,1,2004,injured,WA,-33.98333333,114.9833333,coastal,wobbegong,unprovoked,swimming,"torso, pelvic region",teeth marks,male,999,2000,999,Unknown
+790,1,2004,uninjured,NSW,-34.56666667,150.8666667,coastal,whaler shark,unprovoked,diving,other: uninjured,none,male,999,1000,999,Unknown
+791,1,2004,injured,NSW,-30.56666667,152.9833333,coastal,wobbegong,unprovoked,swimming,calf,teeth marks,male,8,unknown,999,Unknown
+792,1,2004,injured,NSW,-30.63333333,153.0166667,coastal,wobbegong,unprovoked,swimming,"torso, pelvic region",teeth marks,female,999,unknown,999,Unknown
+793,1,2004,injured,WA,-33.13333333,115.6833333,coastal,white shark,provoked,spearfishing,leg,major lacerations,male,46,1100,999,Unknown
+794,2,2004,uninjured,VIC,-38.36666667,144.75,coastal,white shark,provoked,diving,other: uninjured,none,male,999,unknown,16,5m to 18m
+795,2,2004,injured,NSW,-33.1,151.65,coastal,blind shark,provoked,spearfishing,foot,abrasion,male,22,unknown,999,Unknown
+796,2,2004,injured,WA,-31.85,115.75,coastal,wobbegong,unprovoked,snorkelling,calf,teeth marks,female,7,1400,1,0m to 1.5m
+797,2,2004,injured,WA,-31.85,115.75,coastal,wobbegong,unprovoked,snorkelling,leg,teeth marks,male,38,1400,1,0m to 1.5m
+798,3,2004,injured,WA,-30.25,115.0166667,coastal,whaler shark,provoked,spearfishing,leg,teeth marks,male,47,unknown,14,5m to 18m
+799,4,2004,injured,NSW,-32.2,152.55,coastal,wobbegong,unprovoked,diving,"arm, hand",teeth marks,male,999,unknown,9,5m to 18m
+800,4,2004,injured,WA,-33.96666667,114.9833333,coastal,wobbegong,unprovoked,snorkelling,thigh,teeth marks,male,999,unknown,0,0m to 1.5m
+801,6,2004,uninjured,WA,-31.91666667,115.75,ocean/pelagic,white shark,provoked,diving,other: uninjured,none,male,999,unknown,999,Unknown
+802,6,2004,injured,WA,-33.33333333,115.6333333,coastal,white shark,unprovoked,boarding,foot,minor lacerations,male,17,1600,999,Unknown
+803,7,2004,injured,WA,-31.98333333,115.5333333,island open ocean,wobbegong,unprovoked,diving,calf,teeth marks,male,33,1400,14,5m to 18m
+804,7,2004,fatal,WA,-33.85,114.9833333,coastal,white shark,unprovoked,boarding,"leg, pelvic region",fatal,male,29,1400,999,Unknown
+805,8,2004,injured,NSW,-28.63333333,153.6166667,coastal,grey nurse shark,provoked,spearfishing,foot,teeth marks,male,42,1300,999,Unknown
+806,8,2004,uninjured,VIC,-38.46666667,145.0166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,33,1700,999,Unknown
+807,9,2004,uninjured,QLD,-16.4,145.7666667,ocean/pelagic,tiger shark,provoked,snorkelling,other: uninjured,none,male,999,1200,999,Unknown
+808,10,2004,injured,NSW,-32.85,151.8333333,coastal,white shark,unprovoked,boarding,foot,minor lacerations,male,59,1600,999,Unknown
+809,11,2004,injured,NSW,-32.01666667,152.5333333,coastal,wobbegong,unprovoked,boarding,"arm, hand",minor lacerations,male,14,0800,999,Unknown
+810,12,2004,fatal,QLD,-16.21666667,145.8833333,island open ocean,tiger shark,provoked,spearfishing,thigh,fatal,male,38,1200,999,Unknown
+811,12,2004,fatal,SA,-34.9,137,coastal,white shark,unprovoked,boarding,torso,fatal,male,18,1500,999,Unknown
+812,1,2005,uninjured,VIC,-37.98333333,145.0166667,coastal,white shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+813,2,2005,injured,QLD,-27.55,152.8166667,river,bull shark,unprovoked,swimming,"arm, hand",minor lacerations,male,18,unknown,999,Unknown
+814,3,2005,uninjured,NSW,-33.38333333,151.4833333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,31,1400,999,Unknown
+815,3,2005,fatal,WA,-28.71666667,113.7833333,island open ocean,white shark,unprovoked,snorkelling,torso,fatal,male,26,unknown,999,Unknown
+816,4,2005,injured,NT,-12.11666667,136.8,island open ocean,whaler shark,provoked,spearfishing,head,teeth marks,male,20,unknown,999,Unknown
+817,4,2005,uninjured,NSW,-33.9,151.2666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,40,0600,999,Unknown
+818,5,2005,injured,QLD,-19.35,147.3666667,coastal,blacktip reef shark,provoked,spearfishing,"arm, hand",minor lacerations,male,999,unknown,33,18m to 40m
+819,8,2005,fatal,SA,-34.96666667,138.5,coastal,white shark,unprovoked,diving,torso,fatal,male,23,1600,5,1.5m to 5m
+820,9,2005,uninjured,NSW,-30.88333333,153.0833333,coastal,tiger shark,unprovoked,boarding,other: uninjured,none,male,28,unknown,0,0m to 1.5m
+821,9,2005,injured,NSW,-30.3,153.1333333,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,15,unknown,999,Unknown
+822,9,2005,uninjured,WA,-31.88333333,115.75,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,44,unknown,999,Unknown
+823,9,2005,injured,SA,-35.08333333,137.5333333,coastal,white shark,unprovoked,boarding,"arm, leg",minor lacerations,male,26,unknown,999,Unknown
+824,9,2005,injured,SA,-34.83333333,135.6833333,coastal,white shark,unprovoked,boarding,"arm, leg",minor lacerations,male,40,1500,999,Unknown
+825,11,2005,injured,VIC,-38.46666667,145.0166667,coastal,white shark,unprovoked,boarding,calf,minor lacerations,male,18,1800,999,Unknown
+826,11,2005,uninjured,QLD,-27.18333333,153.4,ocean/pelagic,whaler shark,unprovoked,diving,other: uninjured,none,male,57,1100,999,Unknown
+827,12,2005,injured,QLD,-16.48333333,145.45,coastal,whitetip reef shark,provoked,spearfishing,arm,major lacerations,male,44,1000,999,Unknown
+828,1,2006,fatal,QLD,-27.4,153.4333333,coastal,bull shark,unprovoked,swimming,"leg, hand",fatal,female,21,1700,999,Unknown
+829,1,2006,injured,WA,-31.93333333,115.75,coastal,white shark,provoked,spearfishing,arm,minor lacerations,male,52,1100,999,Unknown
+830,2,2006,injured,QLD,-26.8,153.1333333,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,18,1100,0,0m to 1.5m
+831,3,2006,uninjured,NSW,-33.88333333,151.2666667,coastal,whaler shark,unprovoked,boarding,other: uninjured,none,male,999,1600,999,Unknown
+832,4,2006,injured,NSW,-32.91666667,151.7833333,coastal,wobbegong,unprovoked,boarding,foot,teeth marks,male,15,1300,999,Unknown
+833,5,2006,injured,QLD,-26.68333333,153.1333333,coastal,wobbegong,provoked,diving,torso,minor lacerations,male,46,1600,3,1.5m to 5m
+834,8,2006,uninjured,NSW,-33.9,151.2666667,coastal,white shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+835,12,2006,injured,WA,-33.91666667,122.5833333,island open ocean,white shark,unprovoked,boarding,leg,major lacerations,male,15,unknown,999,Unknown
+836,12,2006,uninjured,WA,-20.36666667,116.8666667,coastal,grey reef shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+837,12,2006,injured,VIC,-38.36666667,144.2666667,coastal,white shark,unprovoked,boarding,leg,minor lacerations,male,25,0800,999,Unknown
+838,1,2007,uninjured,NSW,-32.38333333,152.5166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,44,0600,999,Unknown
+839,1,2007,injured,NSW,-37.5,149.9666667,coastal,white shark,provoked,diving,"head, torso",minor lacerations,male,41,1000,8,5m to 18m
+840,2,2007,injured,NSW,-28.83333333,153.6,coastal,white shark,unprovoked,boarding,foot,minor lacerations,male,26,unknown,999,Unknown
+841,3,2007,injured,NSW,-28.53333333,153.55,estuary/harbour,white shark,unprovoked,boarding,"arm, hand",minor lacerations,female,42,unknown,0,0m to 1.5m
+842,3,2007,injured,QLD,-24.71666667,152.2666667,coastal,bull shark,unprovoked,swimming,"leg, foot",major lacerations,female,59,1500,1.2,0m to 1.5m
+843,4,2007,injured,QLD,-16.55,139.4,island open ocean,unknown,unprovoked,swimming,foot,minor lacerations,female,12,1800,999,Unknown
+844,5,2007,injured,WA,-23.13333333,113.7666667,coastal,whitetip reef shark,provoked,swimming,foot,major lacerations,female,38,1400,0.5,0m to 1.5m
+845,6,2007,injured,NSW,-31.18333333,152.9666667,coastal,bull shark,unprovoked,boarding,"leg, foot",major lacerations,male,999,1600,0,0m to 1.5m
+846,7,2007,injured,NSW,-33.78333333,151.2833333,coastal,wobbegong,unprovoked,diving,thigh,teeth marks,male,30,unknown,999,Unknown
+847,7,2007,uninjured,WA,-21.95,114.1166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,48,0700,999,Unknown
+848,7,2007,injured,WA,-12.15,96.81666667,coastal,wobbegong,provoked,swimming,calf,minor lacerations,male,15,unknown,999,Unknown
+849,10,2007,injured,QLD,-16.91666667,145.7666667,ocean/pelagic,whaler shark,provoked,spearfishing,calf,major lacerations,male,31,1200,0,0m to 1.5m
+850,10,2007,injured,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,boarding,"arm, hand",minor lacerations,female,52,1100,999,Unknown
+851,11,2007,uninjured,NSW,-28.63333333,153.6,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,1400,0,0m to 1.5m
+852,12,2007,injured,NSW,-33.9495,151.2437,coastal,wobbegong,unprovoked,boarding,"leg, foot",minor lacerations,male,14,1900,999,Unknown
+853,12,2007,injured,QLD,-27.93333333,153.4166667,coastal,whaler shark,unprovoked,swimming,"arm, hand",minor lacerations,male,13,1200,0,0m to 1.5m
+854,12,2007,injured,NSW,-32.68333333,152.1833333,estuary/harbour,white shark,unprovoked,boarding,"torso, pelvic region",minor lacerations,male,31,1100,999,Unknown
+855,1,2008,uninjured,TAS,-41,147.1333333,estuary/harbour,white shark,unprovoked,unmotorised boating,other: uninjured,none,male,999,unknown,999,Unknown
+856,1,2008,injured,NSW,-28.18333333,153.5666667,coastal,wobbegong,unprovoked,diving,thigh,teeth marks,male,999,1000,10,5m to 18m
+857,1,2008,injured,WA,-31.98333333,115.5333333,island open ocean,wobbegong,unprovoked,swimming,calf,teeth marks,male,42,1100,1,0m to 1.5m
+858,2,2008,injured,VIC,-38.83333333,146.1666667,estuary/harbour,wobbegong,unprovoked,swimming,foot,minor lacerations,female,66,1300,999,Unknown
+859,4,2008,injured,QLD,-28.15,153.5333333,coastal,wobbegong,unprovoked,swimming,thigh,teeth marks,male,999,1100,1,0m to 1.5m
+860,4,2008,fatal,NSW,-28.86666667,153.5666667,coastal,bull shark,unprovoked,boarding,"thigh, calf",fatal,male,16,0800,0,0m to 1.5m
+861,4,2008,injured,WA,-33.63333333,115,coastal,wobbegong,provoked,swimming,"calf, thigh, pelvic region",abrasion,female,999,unknown,999,Unknown
+862,5,2008,injured,WA,-35.01666667,117.9166667,coastal,white shark,unprovoked,swimming,calf,major lacerations,male,37,0700,999,Unknown
+863,7,2008,uninjured,VIC,-38.38333333,142.4833333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,31,1000,0,0m to 1.5m
+864,8,2008,uninjured,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,30,1100,0,0m to 1.5m
+865,9,2008,uninjured,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,51,unknown,0,0m to 1.5m
+866,12,2008,uninjured,NSW,-32.43333333,152.5166667,estuary/harbour,whaler shark,unprovoked,boarding,other: uninjured,none,male,10,unknown,0,0m to 1.5m
+867,12,2008,fatal,WA,-32.35,115.7166667,coastal,white shark,provoked,snorkelling,other: body not recovered,fatal,male,52,0700,0,0m to 1.5m
+868,12,2008,uninjured,NSW,-33.73333333,151.3166667,coastal,white shark,provoked,unmotorised boating,other: uninjured,none,male,29,unknown,0,0m to 1.5m
+869,1,2009,injured,NSW,-34.53333333,150.8666667,river,dusky shark,provoked,spearfishing,leg,major lacerations,male,25,1000,3,1.5m to 5m
+870,1,2009,injured,QLD,-13.91666667,146.6166667,island open ocean,grey reef shark,provoked,diving,calf,minor lacerations,male,999,unknown,999,Unknown
+871,1,2009,injured,NSW,-28.18333333,153.55,estuary/harbour,white shark,unprovoked,boarding,leg,major lacerations,male,31,0900,0,0m to 1.5m
+872,1,2009,injured,TAS,-41.23333333,148.3,coastal,white shark,unprovoked,boarding,leg,major lacerations,female,13,1400,0,0m to 1.5m
+873,1,2009,injured,NSW,-35.76,150.2053,coastal,unknown,unprovoked,swimming,"arm, hand",minor lacerations,male,19,1600,999,Unknown
+874,2,2009,uninjured,NSW,-31.45,152.9166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,24,1700,999,Unknown
+875,2,2009,injured,NSW,-33.85,151.2166667,coastal,bull shark,unprovoked,diving,"leg, hand",major lacerations,male,31,0700,1,0m to 1.5m
+876,2,2009,uninjured,NSW,-29.76666667,153.2833333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,0700,999,Unknown
+877,2,2009,injured,NSW,-33.88333333,151.2666667,coastal,white shark,unprovoked,boarding,"arm, hand",major lacerations,male,33,1900,0,0m to 1.5m
+878,2,2009,uninjured,NSW,-32.38333333,152.5166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,41,1100,0,0m to 1.5m
+879,3,2009,injured,NSW,-33.63333333,151.3166667,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,15,0600,0,0m to 1.5m
+880,3,2009,uninjured,NSW,-35.85,150.1666667,coastal,whaler shark,unprovoked,boarding,other: uninjured,none,female,47,0700,1,0m to 1.5m
+881,3,2009,injured,NSW,-33.93333333,151.25,coastal,wobbegong,unprovoked,diving,leg,minor lacerations,male,999,unknown,999,Unknown
+882,3,2009,injured,WA,-32.5,115.7,coastal,white shark,unprovoked,boarding,"calf, foot",teeth marks,male,17,1800,999,Unknown
+883,3,2009,injured,WA,-31.98333333,115.5333333,island open ocean,wobbegong,provoked,swimming,leg,minor lacerations,male,21,1100,1,0m to 1.5m
+884,4,2009,uninjured,NSW,-32.73333333,152.1833333,coastal,bull shark,unprovoked,boarding,other: uninjured,none,male,40,0800,999,Unknown
+885,6,2009,injured,NSW,-34.66666667,150.85,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,52,0800,1,0m to 1.5m
+886,7,2009,injured,NSW,-28.63333333,153.6166667,coastal,whaler shark,unprovoked,boarding,"arm, hand",teeth marks,male,14,0600,0,0m to 1.5m
+887,8,2009,uninjured,WA,-32,115.45,island open ocean,white shark,provoked,spearfishing,other: uninjured,none,male,42,1300,17,5m to 18m
+888,9,2009,injured,WA,-12.15,96.81666667,island open ocean,whaler shark,unprovoked,boarding,thigh,teeth marks,male,35,1300,1,0m to 1.5m
+889,10,2009,uninjured,VIC,-38.33333333,141.6,coastal,white shark,unprovoked,unmotorised boating,other: uninjured,none,male,27,unknown,999,Unknown
+890,10,2009,uninjured,NSW,-28.78333333,153.5833333,coastal,white shark,unprovoked,boarding,other: uninjured,none,female,17,0700,999,Unknown
+891,11,2009,injured,SA,-35.5,138.2333333,coastal,white shark,provoked,spearfishing,"leg, hand",minor lacerations,male,25,0900,1,0m to 1.5m
+892,12,2009,injured,QLD,-23.43333333,151.9,island open ocean,whaler shark,provoked,spearfishing,arm,minor lacerations,male,18,unknown,999,Unknown
+893,12,2009,injured,NSW,-33.45,151.4333333,coastal,wobbegong,provoked,swimming,foot,teeth marks,male,55,1100,1,0m to 1.5m
+894,12,2009,injured,NSW,-26.067,113.567,coastal,white shark,unprovoked,unmotorised boating,,injury unknown,male,999,unknown,999,Unknown
+895,12,2009,injured,NSW,-29.1,153.4333333,coastal,white shark,unprovoked,boarding,foot,minor lacerations,male,39,unknown,0,0m to 1.5m
+896,12,2009,uninjured,NSW,-32.16666667,152.5,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,0600,999,Unknown
+897,1,2010,uninjured,QLD,-24.8,152.45,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,37,1600,0,0m to 1.5m
+898,1,2010,injured,VIC,-38.28333333,144.4333333,coastal,white shark,unprovoked,boarding,"arm, hand",minor lacerations,male,999,0700,0,0m to 1.5m
+899,1,2010,injured,QLD,-10.56666667,142.2166667,coastal,whitetip reef shark,unprovoked,snorkelling,leg,teeth marks,female,9,unknown,3,1.5m to 5m
+900,2,2010,uninjured,NSW,-29.41666667,153.3666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,18,unknown,0,0m to 1.5m
+901,2,2010,injured,QLD,-20.35,148.9333333,coastal,bull shark,unprovoked,snorkelling,"torso, pelvic region",major lacerations,female,55,1200,0,0m to 1.5m
+902,2,2010,injured,NSW,-33.66666667,151.3,coastal,wobbegong,unprovoked,swimming,calf,teeth marks,male,46,0800,0,0m to 1.5m
+903,5,2010,injured,NSW,-31.3,152.9666667,coastal,bull shark,unprovoked,boarding,calf,teeth marks,male,999,1600,0,0m to 1.5m
+904,6,2010,injured,WA,-35.03333333,116.8333333,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,999,unknown,999,Unknown
+905,8,2010,injured,NSW,-31.18333333,152.9666667,coastal,white shark,unprovoked,boarding,foot,minor lacerations,male,47,0800,1,0m to 1.5m
+906,8,2010,fatal,WA,-33.85,114.9666667,coastal,white shark,unprovoked,boarding,leg,fatal,male,31,0800,999,Unknown
+907,9,2010,injured,NSW,-29.4,153.3333333,island open ocean,white shark,unprovoked,boarding,foot,minor lacerations,male,15,1700,0,0m to 1.5m
+908,10,2010,injured,WA,-30.83333333,115.2666667,coastal,white shark,unprovoked,boarding,calf,teeth marks,male,999,unknown,999,Unknown
+909,10,2010,injured,NSW,-30.06666667,153.2,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,22,unknown,1,0m to 1.5m
+910,10,2010,injured,WA,-32.18333333,115.6833333,island open ocean,white shark,unprovoked,snorkelling,thigh,major lacerations,female,19,1200,1,0m to 1.5m
+911,2,2011,fatal,SA,-34.71666667,135.15,island open ocean,white shark,provoked,diving,other: body not recovered,fatal,male,50,1800,1,0m to 1.5m
+912,2,2011,injured,WA,-21.95,114.1166667,coastal,whaler shark,unprovoked,snorkelling,arm,minor lacerations,male,58,1600,3,1.5m to 5m
+913,3,2011,injured,NSW,-32.73333333,152.1833333,coastal,white shark,unprovoked,boarding,"head, shoulder",major lacerations,female,999,1300,999,Unknown
+914,3,2011,injured,NSW,-31.8464,152.7489,coastal,bull shark,unprovoked,boarding,arm,major lacerations,male,48,1800,0,0m to 1.5m
+915,4,2011,injured,WA,-24.48333333,113.4,coastal,whaler shark,provoked,fishing,foot,major lacerations,male,17,1500,1,0m to 1.5m
+916,5,2011,injured,NSW,-32.45,152.5333333,coastal,wobbegong,provoked,diving,thigh,teeth marks,female,999,unknown,24,18m to 40m
+917,8,2011,fatal,QLD,-18.71666667,146.5666667,coastal,tiger shark,unprovoked,swimming,torso,fatal,male,50,1900,999,Unknown
+918,9,2011,fatal,WA,-33.53333333,115.0333333,coastal,white shark,unprovoked,boarding,leg,fatal,male,21,unknown,999,Unknown
+919,10,2011,fatal,WA,-32,115.45,island open ocean,white shark,unprovoked,diving,,fatal,male,32,1300,999,Unknown
+920,10,2011,uninjured,VIC,-37.88333333,144.9833333,coastal,port jackson shark,provoked,diving,other: uninjured,none,male,49,1600,999,Unknown
+921,10,2011,fatal,WA,-31.98333333,115.75,coastal,white shark,unprovoked,swimming,,fatal,male,999,0800,999,Unknown
+922,11,2011,injured,QLD,-26.46666667,153.0833333,island open ocean,wobbegong,provoked,swimming,foot,teeth marks,male,10,1700,1,0m to 1.5m
+923,12,2011,injured,NSW,-28.7,153.6,coastal,white shark,unprovoked,boarding,"torso, shoulder",abrasion,male,63,0600,0,0m to 1.5m
+924,12,2011,injured,NSW,-33.93333333,151.25,coastal,wobbegong,provoked,boarding,foot,minor lacerations,male,14,1900,1.5,0m to 1.5m
+925,12,2011,injured,NSW,-29.48333333,153.35,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,50,0600,0,0m to 1.5m
+926,1,2012,injured,NSW,-33.45,151.4333333,coastal,white shark,unprovoked,boarding,arm,minor lacerations,male,28,1900,0,0m to 1.5m
+927,1,2012,uninjured,NSW,-28.16666667,153.55,estuary/harbour,tiger shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+928,1,2012,injured,NSW,-33,151.7166667,coastal,white shark,unprovoked,boarding,thigh,major lacerations,male,44,1600,0,0m to 1.5m
+929,1,2012,injured,WA,-23.13333333,113.7666667,coastal,tiger shark,unprovoked,snorkelling,arm,minor lacerations,male,26,unknown,999,Unknown
+930,2,2012,uninjured,NSW,-31.98333333,152.5666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,999,Unknown
+931,2,2012,injured,NSW,-32.6,152.3166667,island open ocean,wobbegong,provoked,fishing,foot,teeth marks,male,999,1600,999,Unknown
+932,2,2012,uninjured,QLD,-26.75,153.1333333,coastal,whaler shark,unprovoked,boarding,other: uninjured,none,male,29,unknown,0,0m to 1.5m
+933,3,2012,injured,QLD,-28.05,153.4333333,coastal,bull shark,provoked,boarding,foot,minor lacerations,male,20,1700,0,0m to 1.5m
+934,3,2012,uninjured,NSW,-33.55,151.3166667,coastal,unknown,unprovoked,unmotorised boating,other: uninjured,none,male,52,unknown,0,0m to 1.5m
+935,3,2012,fatal,WA,-33.46666667,115.5166667,coastal,white shark,unprovoked,diving,torso,fatal,male,32,0900,2,1.5m to 5m
+936,4,2012,injured,SA,-35.18333333,136.85,coastal,white shark,unprovoked,unmotorised boating,thigh,teeth marks,male,27,unknown,0,0m to 1.5m
+937,5,2012,injured,NSW,-32.21666667,152.6,ocean/pelagic,wobbegong,provoked,diving,"arm, hand",minor lacerations,male,57,1000,28,18m to 40m
+938,5,2012,uninjured,NSW,-33,151.7,coastal,white shark,unprovoked,unmotorised boating,other: uninjured,none,male,30,1400,0,0m to 1.5m
+939,6,2012,injured,VIC,-38.61666667,142.9833333,coastal,white shark,unprovoked,boarding,leg,minor lacerations,male,42,unknown,0,0m to 1.5m
+940,6,2012,injured,TAS,-43.51666667,146.2333333,coastal,white shark,unprovoked,boarding,leg,abrasion,male,999,0900,0,0m to 1.5m
+941,6,2012,uninjured,WA,-31.78333333,115.7166667,coastal,white shark,unprovoked,unmotorised boating,other: uninjured,none,male,61,0700,0,0m to 1.5m
+942,7,2012,injured,SA,-32.76666667,134.2,coastal,white shark,unprovoked,boarding,"arm, shoulder",major lacerations,male,47,unknown,999,Unknown
+943,7,2012,fatal,WA,-30.83333333,115.2666667,coastal,white shark,unprovoked,boarding,other: body not recovered,fatal,male,24,0900,0,0m to 1.5m
+944,8,2012,injured,WA,-24.38333333,113.3833333,coastal,tiger shark,unprovoked,boarding,torso,major lacerations,male,34,1500,0,0m to 1.5m
+945,10,2012,uninjured,WA,-31.76666667,115.7166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,11,1200,0,0m to 1.5m
+946,12,2012,injured,NSW,-31.73333333,152.7833333,coastal,bull shark,unprovoked,boarding,thigh,major lacerations,male,29,1000,0,0m to 1.5m
+947,12,2012,injured,NSW,-30.86666667,153.0333333,estuary/harbour,grey nurse shark,provoked,spearfishing,leg,minor lacerations,male,31,1600,999,Unknown
+948,12,2012,uninjured,NSW,-33.75,151.3,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,1200,0,0m to 1.5m
+949,1,2013,injured,WA,-20.35,116.8166667,island open ocean,whaler shark,provoked,spearfishing,leg,minor lacerations,male,999,1000,1,0m to 1.5m
+950,1,2013,injured,QLD,-26.36666667,153.0833333,coastal,tiger shark,unprovoked,boarding,"torso, shoulder",minor lacerations,male,999,unknown,0,0m to 1.5m
+951,3,2013,injured,WA,-28.8,114.6,coastal,whaler shark,provoked,spearfishing,"arm, hand",minor lacerations,male,28,0900,0,0m to 1.5m
+952,4,2013,injured,NSW,-29.46666667,153.35,coastal,wobbegong,provoked,swimming,leg,teeth marks,female,999,unknown,999,Unknown
+953,5,2013,uninjured,WA,-32.4,115.7333333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,1700,0,0m to 1.5m
+954,5,2013,injured,NSW,-28.63333333,153.6,coastal,wobbegong,provoked,swimming,foot,teeth marks,male,65,0600,999,Unknown
+955,6,2013,uninjured,NSW,-35.06666667,150.7833333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,28,1600,0,0m to 1.5m
+956,7,2013,injured,VIC,-38.46666667,145.0166667,coastal,white shark,unprovoked,swimming,"arm, hand",minor lacerations,male,29,0500,999,Unknown
+957,10,2013,injured,NSW,-33.71666667,151.3,coastal,wobbegong,provoked,boarding,foot,minor lacerations,male,999,1800,1.5,0m to 1.5m
+958,10,2013,injured,WA,-21.95,114.1166667,coastal,grey reef shark,unprovoked,snorkelling,arm,minor lacerations,female,999,unknown,999,Unknown
+959,10,2013,injured,WA,-33.95,123.9166667,ocean/pelagic,white shark,provoked,diving,"head, shoulder",major lacerations,male,55,1000,15,5m to 18m
+960,11,2013,fatal,NSW,-30.26666667,153.1333333,coastal,tiger shark,unprovoked,boarding,leg,fatal,male,19,1200,0,0m to 1.5m
+961,11,2013,fatal,WA,-33.85,114.9666667,coastal,white shark,unprovoked,boarding,"arm, torso, leg",fatal,male,35,0900,0,0m to 1.5m
+962,12,2013,injured,QLD,-28.1,153.4666667,coastal,wobbegong,unprovoked,diving,leg,abrasion,female,33,1200,10,5m to 18m
+963,12,2013,injured,NSW,-31.45,152.9166667,coastal,wobbegong,unprovoked,boarding,leg,minor lacerations,male,26,1800,1,0m to 1.5m
+964,2,2014,fatal,SA,-35.13333333,137.7,coastal,white shark,provoked,spearfishing,other: body not recovered,fatal,male,28,1200,0,0m to 1.5m
+965,2,2014,uninjured,WA,-32,115.55,coastal,white shark,provoked,spearfishing,other: uninjured,none,male,70,1300,20,18m to 40m
+966,3,2014,uninjured,VIC,-38.36666667,144.2666667,island open ocean,white shark,unprovoked,boarding,other: uninjured,none,male,42,unknown,0,0m to 1.5m
+967,3,2014,injured,NSW,-31.46666667,152.9166667,coastal,wobbegong,provoked,swimming,foot,minor lacerations,male,40,1800,1.5,0m to 1.5m
+968,4,2014,fatal,NSW,-36.71666667,149.9833333,coastal,white shark,unprovoked,swimming,other: body not recovered,fatal,female,63,0800,0,0m to 1.5m
+969,4,2014,injured,WA,-23.13333333,113.75,ocean/pelagic,whaler shark,provoked,spearfishing,"arm, hand",minor lacerations,male,999,1500,999,Unknown
+970,5,2014,uninjured,SA,-33.63333333,134.8666667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,35,0900,0,0m to 1.5m
+971,5,2014,injured,QLD,-27.98333333,153.4166667,river,bull shark,unprovoked,swimming,thigh,major lacerations,female,29,2100,999,Unknown
+972,6,2014,injured,SA,-35.63087083,138.4666667,coastal,white shark,unprovoked,boarding,torso,minor lacerations,male,39,0900,0,0m to 1.5m
+973,6,2014,injured,NSW,-34.83333333,150.75,coastal,wobbegong,provoked,boarding,foot,minor lacerations,male,999,0700,1.2,0m to 1.5m
+974,6,2014,injured,SA,-35.5,138.7166667,coastal,white shark,unprovoked,boarding,leg,minor lacerations,male,15,1700,0,0m to 1.5m
+975,6,2014,injured,SA,-35.5,138.7166667,coastal,white shark,unprovoked,boarding,,minor lacerations,male,999,1700,0,0m to 1.5m
+976,8,2014,injured,WA,-23.78333333,113.5,coastal,whaler shark,provoked,spearfishing,head,major lacerations,male,31,unknown,2.5,1.5m to 5m
+977,9,2014,fatal,NSW,-28.63333333,153.6,coastal,white shark,unprovoked,snorkelling,thigh,fatal,male,50,1000,999,Unknown
+978,9,2014,injured,NSW,-31.41666667,152.9166667,coastal,wobbegong,unprovoked,swimming,"arm, hand",minor lacerations,female,13,unknown,999,Unknown
+979,10,2014,injured,NSW,-33.45,151.4333333,coastal,wobbegong,provoked,boarding,foot,minor lacerations,female,13,0600,999,Unknown
+980,10,2014,injured,NSW,-31.98333333,152.5666667,coastal,wobbegong,provoked,boarding,foot,minor lacerations,male,20,1800,1,0m to 1.5m
+981,10,2014,injured,WA,-33.83333333,121.9166667,coastal,white shark,unprovoked,boarding,"arm, leg",major lacerations,male,23,1100,0,0m to 1.5m
+982,11,2014,injured,NSW,-30.2,159.15,coastal,wobbegong,provoked,swimming,foot,punctures,male,999,0600,999,Unknown
+983,11,2014,injured,NSW,-35.73333333,150.2,coastal,wobbegong,provoked,snorkelling,thigh,teeth marks,male,999,unknown,999,Unknown
+984,11,2014,injured,NSW,-33.75,151.3,coastal,wobbegong,unprovoked,swimming,"thigh, right",punctures,female,999,0500,3,1.5m to 5m
+985,11,2014,injured,WA,-32.6,115.6166667,coastal,whaler shark,unprovoked,boarding,leg,teeth marks,male,13,0600,0,0m to 1.5m
+986,12,2014,injured,NSW,-35.1338,150.686,coastal,unknown,unprovoked,boarding,"leg, ankle",minor lacerations,male,999,0700,999,Unknown
+987,12,2014,fatal,WA,-34.88003124,118.404958,coastal,white shark,provoked,spearfishing,leg,fatal,male,17,1200,999,Unknown
+988,12,2014,fatal,QLD,-16.2,145.75,island open ocean,tiger shark,provoked,spearfishing,"arm, leg",fatal,male,18,1100,999,Unknown
+989,1,2015,uninjured,NSW,-28.63333333,153.6166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,female,999,unknown,999,Unknown
+990,1,2015,injured,NSW,-32.68333333,152.0333333,coastal,wobbegong,provoked,swimming,foot,minor lacerations,male,999,1700,999,Unknown
+991,1,2015,uninjured,QLD,-27.63333333,153.45,river,bull shark,unprovoked,unmotorised boating,other: uninjured,none,male,57,0500,0,0m to 1.5m
+992,1,2015,uninjured,NSW,-28.83333333,153.6,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,36,1100,0,0m to 1.5m
+993,1,2015,injured,NSW,-35.33333333,150.4666667,coastal,whaler shark,provoked,spearfishing,hand,minor lacerations,male,17,unknown,999,Unknown
+994,2,2015,injured,NSW,-28.88333333,153.5666667,coastal,white shark,unprovoked,boarding,"torso, pelvic region",major lacerations,male,35,0600,0,0m to 1.5m
+995,2,2015,fatal,NSW,-28.85,153.5833333,coastal,white shark,unprovoked,boarding,leg,fatal,male,41,unknown,0,0m to 1.5m
+996,2,2015,injured,NSW,-32.95,151.75,coastal,wobbegong,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+997,3,2015,injured,NSW,-31.51666667,159.05,estuary/harbour,galapagos shark,provoked,swimming,leg,minor lacerations,female,43,1200,0,0m to 1.5m
+998,4,2015,injured,NSW,-31.51666667,159.05,coastal,galapagos shark,provoked,swimming,leg,minor lacerations,male,8,1600,0.9,0m to 1.5m
+999,4,2015,injured,NSW,-35.8,150.2166667,coastal,wobbegong,provoked,boarding,foot,minor lacerations,male,999,0600,1,0m to 1.5m
+1000,4,2015,injured,SA,-34.86666667,135.7666667,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,26,0900,0,0m to 1.5m
+1001,5,2015,injured,NSW,-32.01666667,152.5333333,coastal,white shark,unprovoked,boarding,"arm, hand",major lacerations,male,46,1400,0,0m to 1.5m
+1002,6,2015,injured,WA,-35.01666667,117.3333333,coastal,white shark,unprovoked,boarding,"head, hand",abrasion,female,37,0900,0,0m to 1.5m
+1003,6,2015,injured,WA,-31.98333333,115.5333333,island open ocean,wobbegong,provoked,swimming,arm,minor lacerations,male,19,unknown,0.5,0m to 1.5m
+1004,6,2015,uninjured,NSW,-28.63333333,153.6,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,71,1100,0,0m to 1.5m
+1005,6,2015,injured,NSW,-35.65,150.2833333,coastal,tiger shark,provoked,spearfishing,foot,minor lacerations,male,21,1700,2,1.5m to 5m
+1006,7,2015,uninjured,QLD,-28.1,153.465,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,1000,0,0m to 1.5m
+1007,7,2015,fatal,TAS,-42.63333333,147.9833333,coastal,white shark,provoked,diving,"torso, pelvic region",fatal,male,47,0800,999,Unknown
+1008,7,2015,uninjured,TAS,-42.63333333,147.9833333,estuary/harbour,white shark,provoked,diving,other: uninjured,none,male,999,0800,999,Unknown
+1009,7,2015,injured,NSW,-29.1,153.4333333,coastal,white shark,unprovoked,boarding,"leg, hand",major lacerations,male,51,0600,0,0m to 1.5m
+1010,7,2015,uninjured,NSW,-28.78333333,153.5833333,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,51,0900,0,0m to 1.5m
+1011,7,2015,injured,NSW,-29.43333333,153.3666667,coastal,white shark,unprovoked,boarding,"arm, hand",major lacerations,male,999,unknown,0,0m to 1.5m
+1012,7,2015,injured,VIC,-38.25,141.7833333,coastal,white shark,unprovoked,boarding,"arm, hand",minor lacerations,male,40,unknown,0,0m to 1.5m
+1013,7,2015,injured,NSW,-28.86666667,153.5833333,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,32,1000,0,0m to 1.5m
+1014,8,2015,injured,NSW,-31.46666667,152.9166667,coastal,white shark,unprovoked,boarding,thigh,major lacerations,male,38,1700,0,0m to 1.5m
+1015,8,2015,uninjured,QLD,-18.83333333,147.6333333,island open ocean,tiger shark,unprovoked,boarding,other: uninjured,none,female,999,unknown,0,0m to 1.5m
+1016,9,2015,injured,NSW,-33.05,152.5333333,coastal,unknown,unprovoked,boarding,"arm, hand",minor lacerations,male,42,0600,0,0m to 1.5m
+1017,9,2015,injured,NSW,-32.06666667,152.5333333,coastal,white shark,unprovoked,boarding,foot,major lacerations,male,65,1200,0,0m to 1.5m
+1018,9,2015,injured,QLD,-17.21666667,146.0833333,island open ocean,unknown,unprovoked,snorkelling,leg,major lacerations,female,7,unknown,999,Unknown
+1019,10,2015,injured,WA,-34.88003124,118.404958,coastal,white shark,provoked,spearfishing,"arm, torso, hand, shoulder ",minor lacerations,male,50,1100,999,Unknown
+1020,10,2015,injured,WA,-32.6,115.6166667,coastal,grey nurse shark,unprovoked,boarding,foot,minor lacerations,male,18,1600,1,0m to 1.5m
+1021,11,2015,injured,NSW,-28.86666667,153.5833333,coastal,bull shark,unprovoked,boarding,thigh,major lacerations,male,999,1800,0,0m to 1.5m
+1022,1,2016,injured,QLD,-26.8,153.1333333,coastal,wobbegong,provoked,boarding,foot,major lacerations,male,999,unknown,0.3,0m to 1.5m
+1023,1,2016,injured,QLD,-23.43333333,151.9,island open ocean,blacktip reef shark,unprovoked,swimming,calf,major lacerations,male,11,unknown,0.5,0m to 1.5m
+1024,1,2016,injured,QLD,-23.15,150.9,coastal,tiger shark,provoked,spearfishing,"arm, leg",major lacerations,male,31,1200,0,0m to 1.5m
+1025,2,2016,uninjured,NSW,-34,151.65,island open ocean,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+1026,2,2016,injured,NSW,-23.56666667,151.3166667,coastal,wobbegong,provoked,spearfishing,arm,minor lacerations,male,999,unknown,999,Unknown
+1027,2,2016,uninjured,TAS,-40.91666667,144.6166667,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,1200,0,0m to 1.5m
+1028,3,2016,uninjured,NSW,-31.18333333,152.9666667,coastal,white shark,unprovoked,boarding,,none,male,999,unknown,0,0m to 1.5m
+1029,3,2016,injured,SA,-37.03333333,139.7333333,coastal,whaler shark,provoked,fishing,,minor lacerations,male,999,2300,1,0m to 1.5m
+1030,3,2016,uninjured,NSW,-34.03333333,151.15,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,1100,0,0m to 1.5m
+1031,3,2016,injured,NSW,-34.65,150.85,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,22,1900,999,Unknown
+1032,4,2016,injured,NSW,-28.63333333,153.6,coastal,wobbegong,provoked,swimming,foot,minor lacerations,male,12,1000,1,0m to 1.5m
+1033,5,2016,fatal,WA,-32.58333333,115.6333333,coastal,white shark,unprovoked,boarding,leg,fatal,male,29,unknown,999,Unknown
+1034,5,2016,uninjured,NSW,-28.25276667,153.5921833,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,999,1700,0,0m to 1.5m
+1035,6,2016,fatal,WA,-31.66666667,115.6666667,ocean/pelagic,white shark,unprovoked,diving,,fatal,female,60,unknown,999,Unknown
+1036,6,2016,injured,WA,-23.02411667,113.1294,ocean/pelagic,grey reef shark,provoked,spearfishing,,injury unknown,male,19,unknown,999,Unknown
+1037,6,2016,uninjured,NSW,-34.6215,150.8568,coastal,unknown,unprovoked,boarding,other: uninjured,none,male,999,1600,999,Unknown
+1038,6,2016,uninjured,NSW,-28.2646,153.5777,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,23,1600,999,Unknown
+1039,7,2016,uninjured,NSW,-32.717,152.1049,coastal,unknown,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+1040,7,2016,uninjured,NSW,-28.8377,153.6044,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,18,1200,3,1.5m to 5m
+1041,7,2016,uninjured,NSW,-28.3037,153.5742,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,0700,999,Unknown
+1042,9,2016,uninjured,VIC,-38.06115,144.04745,coastal,white shark,unprovoked,boarding,,none,male,999,unknown,999,Unknown
+1043,9,2016,injured,NSW,-28.86666667,153.5833333,coastal,white shark,unprovoked,boarding,leg,minor lacerations,male,999,unknown,999,Unknown
+1044,9,2016,uninjured,WA,-33.11656667,114.1649,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,unknown,0,0m to 1.5m
+1045,10,2016,injured,QLD,-27.335,153.235,coastal,white shark,unprovoked,boarding,"leg, torso",minor lacerations,male,999,1800,999,Unknown
+1046,10,2016,injured,NSW,-28.83333333,153.6,coastal,white shark,unprovoked,boarding,leg,minor lacerations,male,20,1000,0,0m to 1.5m
+1047,10,2016,injured,NSW,-33.08945,151.0587667,coastal,white shark,unprovoked,boarding,leg,minor lacerations,male,36,unknown,999,Unknown
+1048,10,2016,injured,QLD,-20.23333333,148.95,coastal,lemon shark,provoked,swimming,arm,minor lacerations,male,10,unknown,0,0m to 1.5m
+1049,12,2016,injured,NSW,-32.30595,152.52275,coastal,white shark,unprovoked,boarding,"arm, foot",major lacerations,male,65,0900,0,0m to 1.5m
+1050,12,2016,uninjured,QLD,-12.45183333,143.3444167,river,bull shark,provoked,spearfishing,other: uninjured,none,male,35,unknown,6,5m to 18m
+1051,12,2016,injured,WA,-21.15741667,114.0218833,coastal,whaler shark,unprovoked,snorkelling,"torso, pelvic region",minor lacerations,female,999,unknown,5,1.5m to 5m
+1052,12,2016,injured,WA,-31.14531667,115.1265,coastal,unknown,unprovoked,snorkelling,foot,minor lacerations,male,61,unknown,999,Unknown
+1053,1,2017,injured,QLD,-9.863916667,144.7908167,island open ocean,whaler shark,unprovoked,snorkelling,"hand, arm, torso",major lacerations,male,55,unknown,999,Unknown
+1054,1,2017,injured,NSW,-36.88666667,149.9131833,estuary/harbour,wobbegong,provoked,swimming,foot,minor lacerations,male,19,unknown,1,0m to 1.5m
+1055,1,2017,injured,QLD,-21.96676667,149.4843833,coastal,unknown,unprovoked,swimming,hand,minor lacerations,male,57,1300,999,Unknown
+1056,1,2017,uninjured,QLD,-10.65406667,142.5072333,coastal,whaler shark,provoked,spearfishing,other: uninjured,none,male,999,unknown,999,Unknown
+1057,2,2017,uninjured,WA,-32.567,115.65,coastal,unknown,unprovoked,boarding,,none,male,999,0700,999,Unknown
+1058,2,2017,injured,QLD,-18.24948333,146.1839333,island open ocean,tiger shark,unprovoked,snorkelling,leg,major lacerations,male,25,unknown,1,0m to 1.5m
+1059,2,2017,injured,WA,-23.2411667,113.1294,coastal,bull shark,unprovoked,snorkelling,hand,minor lacerations,female,999,unknown,999,Unknown
+1060,3,2017,injured,NSW,-34.60465,150.8677833,coastal,unknown,unprovoked,boarding,"torso, pelvic region",minor lacerations,male,30,1800,999,Unknown
+1061,4,2017,uninjured,QLD,-27.05206667,153.05745,coastal,unknown,unprovoked,unmotorised boating,other: uninjured,none,male,999,1500,999,Unknown
+1062,4,2017,injured,NSW,-32.7667,152.1127,coastal,grey nurse shark,provoked,boarding,left foot,minor lacerations,male,46,1700,1,0m to 1.5m
+1063,4,2017,fatal,WA,-33.83250092,121.9968696,coastal,white shark,unprovoked,boarding,leg,fatal,female,17,1600,0,0m to 1.5m
+1064,6,2017,uninjured,NSW,-33.0775,151.0725,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,999,1700,999,Unknown
+1065,6,2017,uninjured,WA,-33.3146,115.635,coastal,white shark,unprovoked,boarding,,none,unknown,999,unknown,999,Unknown
+1066,8,2017,injured,VIC,-38.5367,143.9715,coastal,white shark,unprovoked,boarding,pelvic region,minor lacerations,male,999,unknown,999,Unknown
+1067,9,2017,injured,NSW,-29.59387,153.3322,coastal,white shark,unprovoked,boarding,,injury unknown,unknown,999,unknown,999,Unknown
+1068,9,2017,uninjured,WA,-33.8585,114.9843,coastal,white shark,unprovoked,boarding,,none,female,999,unknown,999,Unknown
+1069,9,2017,injured,WA,-20.61367,117.1863,estuary/harbour,whaler shark,unprovoked,swimming,leg,injury unknown,male,999,1500,999,Unknown
+1070,10,2017,uninjured,SA,-35.448,138.318,coastal,white shark,unprovoked,unmotorised boating,,none,female,999,unknown,999,Unknown
+1071,10,2017,injured,NSW,-32.798333,152.079167,coastal,wobbegong,provoked,boarding,foot,minor lacerations,male,31,0900,999,Unknown
+1072,11,2017,injured,NSW,-33.465,151.435,coastal,white shark,unprovoked,boarding,arm,minor lacerations,male,25,1600,999,Unknown
+1073,12,2017,uninjured,NSW,-32.7876,152.08002,coastal,grey nurse shark,unprovoked,boarding,,none,male,999,0500,999,Unknown
+1074,1,2018,injured,WA,-16.4683,123.5353,other: fish farm,bull shark,provoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+1075,1,2018,injured,NSW,-34.425072,150.893143,island open ocean,white shark,unprovoked,snorkelling,,abrasion,female,28,0900,999,Unknown
+1076,1,2018,injured,WA,-33.8416,115.0221,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,999,1800,999,Unknown
+1077,1,2018,injured,QLD,-14.668,145.4638,island open ocean,grey reef shark,provoked,snorkelling,,major lacerations,male,999,unknown,999,Unknown
+1078,2,2018,uninjured,WA,-32.5361,115.7424,coastal,whaler shark,provoked,spearfishing,,none,male,14,unknown,999,Unknown
+1079,2,2018,injured,NSW,-34.67,150.84,coastal,whaler shark,unprovoked,swimming,"leg, foot",minor lacerations,male,35,1600,999,Unknown
+1080,2,2018,injured,WA,-31.7789,115.7326,coastal,wobbegong,unprovoked,swimming,calf,minor lacerations,female,17,unknown,999,Unknown
+1081,2,2018,injured,WA,-33.5638,115.0629,coastal,wobbegong,provoked,snorkelling,leg,minor lacerations,male,999,unknown,2,1.5m to 5m
+1082,2,2018,injured,NSW,-33.993,151.1753,coastal,white shark,unprovoked,swimming,leg,major lacerations,female,55,1900,999,Unknown
+1083,3,2018,uninjured,WA,-34.2256,115.0609,coastal,tiger shark,provoked,snorkelling,other: uninjured,none,male,999,unknown,999,Unknown
+1084,3,2018,injured,VIC,-38.37,144.28,coastal,whaler shark,unprovoked,boarding,foot,minor lacerations,male,18,unknown,999,Unknown
+1085,4,2018,injured,WA,-33.8416,115.0221,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,41,1400,0,0m to 1.5m
+1086,4,2018,injured,WA,-33.8416,115.0221,coastal,white shark,unprovoked,boarding,calf,major lacerations,male,37,unknown,0,0m to 1.5m
+1087,4,2018,uninjured,WA,-33.9825,114.9922,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,60,0900,0,0m to 1.5m
+1088,5,2018,uninjured,WA,-33.8416,115.0221,coastal,white shark,unprovoked,boarding,other: uninjured,none,female,999,1100,0,0m to 1.5m
+1089,6,2018,injured,NSW,-30.296,153.11,coastal,wobbegong,unprovoked,boarding,"calf, foot",minor lacerations,male,19,unknown,999,Unknown
+1090,6,2018,uninjured,NSW,-28.84,153.601,coastal,white shark,unprovoked,boarding,other: uninjured,none,male,37,unknown,999,Unknown
+1091,9,2018,injured,QLD,-20.25,148.9333,coastal,tiger shark,unprovoked,swimming,,major lacerations,female,999,unknown,999,Unknown
+1092,9,2018,injured,QLD,-20.25,148.9333,coastal,tiger shark,unprovoked,swimming,,major lacerations,female,999,unknown,999,Unknown
+1093,9,2018,injured,NT,-13.97,136.5933,island open ocean,bull shark,unprovoked,unknown,,injury unknown,male,17,unknown,999,Unknown
+1094,10,2018,injured,NSW,-32.7667,152.0833,coastal,wobbegong,provoked,swimming,,injury unknown,male,999,unknown,999,Unknown
+1095,11,2018,fatal,QLD,-20.25,148.9333,coastal,unknown,unprovoked,boarding,"leg, arm",fatal,male,999,unknown,999,Unknown
+1096,11,2018,injured,NSW,-33.37,151.4859,coastal,wobbegong,unprovoked,boarding,foot,punctures,male,28,1600,999,Unknown
+1097,11,2018,injured,NSW,-28.8632,153.5944,coastal,white shark,unprovoked,boarding,thigh,minor lacerations,male,43,0600,999,Unknown
+1098,11,2018,uninjured,QLD,-26.791,153.139,coastal,tiger shark,unprovoked,unknown,,none,unknown,999,unknown,999,Unknown
+1099,11,2018,injured,NSW,-34.830278,150.7561,coastal,wobbegong,unprovoked,boarding,"leg, hand",minor lacerations,male,24,1300,999,Unknown
+1100,11,2018,injured,NT,-12.1825,136.7819,coastal,whaler shark,provoked,spearfishing,"arm, leg",major lacerations,male,17,1000,999,Unknown
+1101,11,2018,injured,WA,-32.6036,115.6304,coastal,grey nurse shark,unprovoked,boarding,foot,minor lacerations,male,20,0900,999,Unknown
+1102,12,2018,injured,NSW,-30.643181,153.008839,estuary/harbour,unknown,unprovoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1103,12,2018,injured,NSW,-33.425018,151.342224,coastal,wobbegong,provoked,swimming,left foot,minor lacerations,male,68,1100,999,Unknown
+1104,1,2019,injured,WA,-31.989,115.7526,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,female,15,1100,999,Unknown
+1105,2,2019,uninjured,WA,-33.6702  ,114.9951,coastal,white shark,provoked,spearfishing,,none,male,27,unknown,999,Unknown
+1106,2,2019,uninjured,NSW,-30.452,152.8979,estuary/harbour,unknown,unprovoked,boarding,,none,male,50,0600,999,Unknown
+1107,2,2019,injured,NT,-13.8611,136.8116,ocean/pelagic,whitetip reef shark,provoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1108,2,2019,injured,NSW,-28.6337,153.6003,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,41,0600,999,Unknown
+1109,3,2019,injured,QLD,-18.156,147.48,island open ocean,grey reef shark,unprovoked,snorkelling,"thigh, pelvic region",major lacerations,male,25,1200,999,Unknown
+1110,4,2019,injured,NSW,-32.7501,152.1459,coastal,grey nurse shark,provoked,spearfishing,arm,minor lacerations,male,18,1400,999,Unknown
+1111,5,2019,injured,QLD,-24.7293,152.101,coastal,unknown,unprovoked,swimming,"calf, foot",minor lacerations,male,53,1600,999,Unknown
+1112,6,2019,uninjured,TAS,-43.6523,146.277,island open ocean,white shark,provoked,diving,,none,male,999,unknown,18,5m to 18m
+1113,6,2019,injured,NSW,-28.7999,153.58,coastal,whaler shark,unprovoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1114,7,2019,injured,QLD,-11.9667,143.2333,coastal,tiger shark,provoked,snorkelling,leg,major lacerations,female,21,1800,999,Unknown
+1115,7,2019,injured,NSW,-33.8005,151.2979,coastal,grey nurse shark,unprovoked,swimming,"leg, torso",major lacerations,male,54,0500,999,Unknown
+1116,7,2019,injured,QLD,-26.7994,153.0611,coastal,bull shark,unprovoked,boarding,arm,minor lacerations,male,43,0700,999,Unknown
+1117,7,2019,injured,NSW, -28.45602 ,153.54457,coastal,bull shark,unprovoked,boarding,"leg, thigh",major lacerations,male,999,unknown,999,Unknown
+1118,9,2019,injured,NSW,-34.6817,150.8511,coastal,unknown,unprovoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1119,9,2019,uninjured,WA,-31.7247,115.7249,estuary/harbour,white shark,provoked,spearfishing,,none,male,999,unknown,999,Unknown
+1120,10,2019,injured,QLD,-21.957,148.1893,island open ocean,unknown,unknown,snorkelling,,injury unknown,male,999,unknown,999,Unknown
+1121,10,2019,injured,QLD,-20.3441,148.1893,island open ocean,unknown,unprovoked,snorkelling,,injury unknown,male,999,unknown,999,Unknown
+1122,10,2019,uninjured,NSW,-32.4436,152.5279,coastal,white shark,unprovoked,boarding,,none,male,29,unknown,999,Unknown
+1123,10,2019,uninjured,QLD,-27.0609,153.2006,coastal,unknown,unknown,boarding,,none,male,17,unknown,999,Unknown
+1124,11,2019,injured,QLD,-24.8312,152.4592,coastal,unknown,unprovoked,snorkelling,foot,minor lacerations,male,30,1900,999,Unknown
+1125,12,2019,injured,WA,-20.3441,114.143,coastal,unknown,unknown,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1126,12,2019,injured,NSW,-34.6038,150.8676,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,42,1900,999,Unknown
+1127,12,2019,injured,QLD,-23.3,151.71,island open ocean,lemon shark,unknown,swimming,,injury unknown,male,999,unknown,999,Unknown
+1128,1,2020,fatal,WA,-33.9222,121.9032,island open ocean,white shark,unprovoked,diving,,fatal,unknown,999,unknown,999,Unknown
+1129,1,2020,uninjured,NSW,-30.3119,153.1427,coastal,bull shark,unprovoked,boarding,,none,unknown,999,unknown,999,Unknown
+1130,1,2020,uninjured,WA,-31.9908,115.5215,island open ocean,white shark,provoked,snorkelling,,none,male,999,1400,999,Unknown
+1131,1,2020,injured,QLD,-23.2951,151.7079,island open ocean,lemon shark,unprovoked,swimming,,injury unknown,unknown,999,unknown,999,Unknown
+1132,1,2020,injured,NSW,-34.5343,150.8746,coastal,unknown,unprovoked,boarding,foot,minor lacerations,male,60,0800,999,Unknown
+1133,2,2020,injured,QLD,-14.6787,145.4483,island open ocean,lemon shark,unprovoked,swimming,"head, torso",minor lacerations,female,64,0700,999,Unknown
+1134,4,2020,injured,NSW,-31.19,152.98,estuary/harbour,wobbegong,unprovoked,swimming,foot,minor lacerations,female,55,0800,999,Unknown
+1135,4,2020,fatal,QLD,-23.2951,151.7079,island open ocean,unknown,unprovoked,swimming,"arm, leg, torso",fatal,male,23,unknown,999,Unknown
+1136,4,2020,uninjured,WA,-21.93,114.117778,coastal,bull shark,unprovoked,boarding,,none,male,10,1500,999,Unknown
+1137,4,2020,uninjured,NSW,-34.6817,150.8511,coastal,bull shark,unprovoked,boarding,,none,male,21,unknown,999,Unknown
+1138,5,2020,injured,VIC,-38.3669,144.2847,coastal,whaler shark,unprovoked,boarding,leg,minor lacerations,male,23,unknown,999,Unknown
+1139,6,2020,fatal,NSW,-28.2778,153.5774,coastal,white shark,unprovoked,boarding,thigh,fatal,male,60,1000,999,Unknown
+1140,6,2020,injured,WA,-22.6799,113.698,coastal,unknown,unprovoked,boarding,,injury unknown,female,999,1000,999,Unknown
+1141,6,2020,uninjured,NSW,-33.49762,151.420378,coastal,white shark,unprovoked,boarding,,none,unknown,999,unknown,999,Unknown
+1142,6,2020,uninjured,NSW,-34.33834,150.91347,coastal,whaler shark,provoked,spearfishing,,none,female,16,unknown,999,Unknown
+1143,6,2020,uninjured,NSW,-34.33834,150.91347,coastal,whaler shark,provoked,spearfishing,,none,male,13,unknown,999,Unknown
+1144,6,2020,uninjured,NSW,-34.33834,150.91347,coastal,whaler shark,provoked,spearfishing,,none,male,13,unknown,999,Unknown
+1145,7,2020,injured,WA,-33.5427,115.0392,coastal,white shark,unprovoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1146,7,2020,injured,QLD,-16.9337,145.9943,island open ocean,whaler shark,unprovoked,swimming,"leg, foot",major lacerations,female,29,1100,999,Unknown
+1147,7,2020,fatal,QLD,-25.2398,153.1325,coastal,whaler shark,provoked,snorkelling,"leg, foot",fatal,male,36,1400,999,Unknown
+1148,7,2020,injured,TAS,-40.7667,145.3,coastal,white shark,provoked,fishing,"arm, torso, head",major lacerations,male,10,unknown,999,Unknown
+1149,7,2020,uninjured,NSW,-33.44815 ,151.44666,coastal,dusky shark,unprovoked,swimming,,none,female,55,1900,999,Unknown
+1150,7,2020,fatal,NSW,-29.853,153.2715,coastal,white shark,unprovoked,boarding,,fatal,male,15,1400,999,Unknown
+1151,8,2020,injured,NSW,-31.4333,152.9,coastal,white shark,unprovoked,boarding,leg,major lacerations,female,35,0900,999,Unknown
+1152,9,2020,fatal,QLD,-28.164,153.5476,coastal,white shark,unprovoked,unknown,,fatal,unknown,999,unknown,999,Unknown
+1153,9,2020,uninjured,NSW,-28.33362,153.569698,coastal,white shark,provoked,boarding,,none,male,43,1600,999,Unknown
+1154,9,2020,uninjured,NSW,-32.7876 ,152.08002,coastal,whaler shark,unprovoked,swimming,leg,none,male,46,0500,1.2,0m to 1.5m
+1155,9,2020,injured,NSW,-32.7876 ,153.08002,coastal,wobbegong,unprovoked,boarding,leg,minor lacerations,male,999,1700,0.9,0m to 1.5m
+1156,10,2020,injured,NSW,-33.95,151.267,coastal,white shark,unprovoked,diving,leg,minor lacerations,male,45,1400,2,1.5m to 5m
+1157,10,2020,uninjured,NSW,-33.790172,151.288598,coastal,whaler shark,unprovoked,boarding,,none,male,28,1900,1.5,0m to 1.5m
+1158,10,2020,injured,QLD,-18.25,146.666944,island open ocean,bull shark,provoked,spearfishing,leg,major lacerations,male,59,1200,999,Unknown
+1159,10,2020,fatal,WA,-34.8611,121.8919,coastal,white shark,unprovoked,boarding,,fatal,male,999,unknown,999,Unknown
+1160,11,2020,fatal,WA,-17.9319,122.2081,coastal,bull shark,unprovoked,boarding,,fatal,male,50,0800,999,Unknown
+1161,11,2020,uninjured,QLD,-13.7333,143.8667,island open ocean,hammerhead shark ,provoked,fishing,,none,male,999,unknown,999,Unknown
+1162,11,2020,injured,NSW,-31.4295,152.9193,coastal,wobbegong,unprovoked,boarding,"hand, foot",minor lacerations,male,13,0600,999,Unknown
+1163,12,2020,injured,WA,-17.9319,122.2081,coastal,bull shark,unprovoked,boarding,,injury unknown,male,999,0700,999,Unknown
+1164,12,2020,injured,SA,-35.9295,137.5966,island open ocean,white shark,unprovoked,boarding,,injury unknown,male,29,1400,999,Unknown
+1165,1,2021,injured,NSW,-33.0833,151.5833,river,bull shark,unprovoked,swimming,,injury unknown,male,999,1800,999,Unknown
+1166,1,2021,injured,WA,-33.864,114.9864,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,female,46,1000,999,Unknown
+1167,1,2021,injured,WA,-32.0117,115.7866,river,bull shark,unprovoked,swimming,,major lacerations,male,50,0800,999,Unknown
+1168,1,2021,fatal,SA,-38.0522,140.7018,coastal,white shark,unprovoked,snorkelling,,fatal,unknown,999,unknown,999,Unknown
+1169,2,2021,injured,WA,-31.034,115.3356,coastal,wobbegong,unprovoked,boarding,,major lacerations,male,32,unknown,999,Unknown
+1170,3,2021,uninjured,NSW,-34.0557,151.1551,coastal,wobbegong,unprovoked,boarding,,none,male,28,0800,999,Unknown
+1171,3,2021,uninjured,WA,-34.2763,115.052,coastal,wobbegong,provoked,spearfishing,,none,male,999,unknown,999,Unknown
+1172,3,2021,injured,NSW,-36.8875,149.9059,coastal,unknown,unprovoked,swimming,"torso, pelvic region",major lacerations,female,63,0700,999,Unknown
+1173,3,2021,injured,WA,-23.325,113.791,coastal,bull shark,provoked,spearfishing,calf,minor lacerations,male,999,1200,999,Unknown
+1174,3,2021,uninjured,WA,-33.6397,115.0263,coastal,blacktip reef shark,unprovoked,boarding,,none,male,999,1500,999,Unknown
+1175,4,2021,injured,WA,-20.6564,116.7081,coastal,blacktip reef shark,unprovoked,swimming,foot,injury unknown,male,33,1500,999,Unknown
+1176,5,2021,injured,WA,-17.5804,122.1571,coastal,tiger shark,provoked,spearfishing,"arm, hand",minor lacerations,male,48,1100,999,Unknown
+1177,5,2021,fatal,NSW,-32.1521,152.5053,coastal,white shark,unprovoked,boarding,,fatal,male,999,1100,999,Unknown
+1178,6,2021,injured,WA,-23.1423,113.7723,coastal,tiger shark,unprovoked,snorkelling,foot,injury unknown,male,10,unknown,999,Unknown
+1179,6,2021,injured,WA,-29.9453,114.9824,coastal,white shark,provoked,spearfishing,"calf, foot",minor lacerations,male,25,1400,999,Unknown
+1180,7,2021,injured,NSW,-31.1295,153.0011,coastal,white shark,unprovoked,boarding,arm,injury unknown,male,25,unknown,999,Unknown
+1181,7,2021,injured,WA,-20.6517,115.5785,island open ocean,lemon shark,provoked,motorised boating,"leg, pelvic region",minor lacerations,male,32,unknown,999,Unknown
+1182,9,2021,fatal,NSW,-30.1575,153.1502,coastal,white shark,unprovoked,boarding,arm,fatal,male,31,1100,999,Unknown
+1183,9,2021,injured,NSW,-30.286,153.1364,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,47,unknown,999,Unknown
+1184,10,2021,injured,QLD,-20.2665,148.8819,island open ocean,unknown,unprovoked,swimming,leg,minor lacerations,male,999,unknown,999,Unknown
+1185,10,2021,injured,NSW,-30.2042,153.149,coastal,wobbegong,unprovoked,boarding,foot,minor lacerations,male,37,0600,1,0m to 1.5m
+1186,11,2021,fatal,WA,-32.0569,115.7439,coastal,white shark,unprovoked,swimming,,fatal,male,57,unknown,999,Unknown
+1187,12,2021,injured,VIC,-38.2676,144.5067,coastal,unknown,unprovoked,unknown,torso,minor lacerations,male,999,unknown,999,Unknown
+1188,12,2021,injured,VIC,-38.2676,144.5067,coastal,unknown,unprovoked,boarding,"leg, hand",minor lacerations,female,15,unknown,999,Unknown
+1189,12,2021,injured,QLD,-16.9062,145.8662,island open ocean,bull shark,provoked,spearfishing,leg,major lacerations,male,24,unknown,999,Unknown
+1190,1,2022,injured,NSW,-35.1011,150.6892,coastal,whaler shark,unprovoked,swimming,"leg, thigh",minor lacerations,female,42,0600,2,1.5m to 5m
+1191,1,2022,injured,NSW,-35.6288,150.323,coastal,wobbegong,unprovoked,unknown,leg,injury unknown,unknown,999,unknown,999,Unknown
+1192,1,2022,injured,NSW,-33.7,151.2999,coastal,wobbegong,unprovoked,swimming,foot,minor lacerations,male,11,unknown,999,Unknown
+1193,1,2022,injured,WA,-35.0031,117.866,coastal,wobbegong,unprovoked,snorkelling,"leg, other: multiple bites",minor lacerations,male,999,unknown,999,Unknown
+1194,2,2022,fatal,NSW,-30.883,153.083,coastal,white shark,unprovoked,swimming,,fatal,male,35,1700,999,Unknown
+1195,2,2022,injured,QLD,-27.2333,153.2667,ocean/pelagic,tiger shark,unprovoked,swimming,leg,major lacerations,unknown,999,unknown,999,Unknown
+1196,2,2022,injured,WA,-33.84848 ,121.9184,coastal,white shark,unprovoked,swimming,torso,major lacerations,female,20,1200,999,Unknown
+1197,2,2022,injured,NSW,-33.8006,151.2982,coastal,wobbegong,unprovoked,diving,,injury unknown,unknown,999,unknown,999,Unknown
+1198,3,2022,injured,NSW,-32,152.7512,coastal,wobbegong,unprovoked,swimming,left leg,minor lacerations,male,32,1700,999,Unknown
+1199,3,2022,uninjured,NSW,-33.9516,151.2603,coastal,unknown,unprovoked,boarding,,none,male,47,0700,999,Unknown
+1200,3,2022,uninjured,WA,-32.5269,115.7217,coastal,white shark,unknown,unknown,,none,unknown,999,unknown,999,Unknown
+1201,4,2022,injured,TAS,-42.1451,148.2805,coastal,sevengill shark,provoked,spearfishing,left leg,major lacerations,male,24,unknown,3,1.5m to 5m
+1202,5,2022,uninjured,WA,-31.97889,115.8247,estuary/harbour,bull shark,provoked,unknown,,none,male,20,unknown,999,Unknown
+1203,6,2022,injured,WA,-22.1325,113.8769,island open ocean,unknown,unprovoked,snorkelling,"arm, shoulder",minor lacerations,female,50,unknown,999,Unknown
+1204,8,2022,injured,WA,-35.0627,117.9432,island open ocean,white shark,provoked,spearfishing,leg; leg ,major lacerations,male,17,unknown,999,Unknown
+1205,8,2022,uninjured,NSW,-30.2962,153.1139,coastal,white shark,unprovoked,unmotorised boating,,none,unknown,999,unknown,999,Unknown
+1206,8,2022,injured,NSW,-33.4566,151.4383,coastal,whaler shark,unprovoked,boarding,"arm, hand",minor lacerations,male,14,unknown,999,Unknown
+1207,10,2022,injured,VIC,-38.338,141.6041,coastal,unknown,unprovoked,boarding,leg,minor lacerations,male,17,unknown,999,Unknown
+1208,10,2022,injured,WA,-20.3124,118.6094,ocean/pelagic,bull shark,provoked,spearfishing,"arm, hand, shoulder",minor lacerations,male,999,unknown,999,Unknown
+1209,10,2022,injured,NSW,-35.8139,150.2258,coastal,wobbegong,unprovoked,swimming,foot; ankle,minor lacerations,female,54,unknown,999,Unknown
+1210,10,2022,uninjured,SA,-35.0316,152.9774722,coastal,white shark,unprovoked,unmotorised boating,,none,male,19,unknown,999,Unknown
+1211,12,2022,injured,NSW,-31.1897014,138.5179,coastal,white shark,unprovoked,swimming,leg,minor lacerations,male,15,1600,999,Unknown
+1212,1,2023,fatal,WA,-31.9417,115.9097,river,bull shark,unprovoked,swimming,,fatal,female,16,1500,999,Unknown
+1213,3,2023,uninjured,WA,-33.6463583,115.0339741,coastal,whaler shark,unprovoked,boarding,,none,male,75,1500,999,Unknown
+1214,4,2023,injured,WA,-28.93019,114.7289,coastal,whaler shark,unprovoked,boarding,arm,major lacerations,male,30,0700,999,Unknown
+1215,4,2023,injured,WA,-21.933,114.128,coastal,unknown,unprovoked,snorkelling,leg,major lacerations,male,11,unknown,999,Unknown
+1216,4,2023,injured,WA,-33.6397,115.0263,coastal,unknown,unprovoked,swimming,right leg,major lacerations,male,20,1000,1,0m to 1.5m
+1217,5,2023,fatal,SA,-33.55622,134.85406,coastal,whaler shark,unprovoked,boarding,body not recovered,fatal,male,46,unknown,999,Unknown
+1218,5,2023,uninjured,NSW,-35.8333,150.1667,coastal,unknown,unprovoked,unknown,,none,unknown,999,unknown,999,Unknown
+1219,7,2023,injured,WA,-33.99029,114.99136,coastal,white shark,unprovoked,boarding,left leg,major lacerations,male,20,0800,999,Unknown
+1220,8,2023,injured,NSW,-31.4312703,152.9081313,coastal,white shark,unprovoked,boarding,leg,major lacerations,male,44,unknown,999,Unknown
+1221,10,2023,fatal,SA,-32.79734,134.198273,coastal,white shark,unprovoked,boarding,fatal,fatal,male,55,unknown,999,Unknown
+1222,11,2023,injured,WA,-21.60092,114.5091,coastal,lemon shark,provoked,spearfishing,,injury unknown,unknown,999,unknown,999,Unknown
+1223,11,2023,injured,SA,-35.15,138.4667,coastal,white shark,unprovoked,snorkelling,head,major lacerations,female,32,unknown,999,Unknown
+1224,11,2023,injured,SA,-37.824429,140.783783,coastal,unknown,unprovoked,swimming,,injury unknown,unknown,999,unknown,999,Unknown
+1225,11,2023,injured,QLD,-14.06549,144.26335,coastal,unknown,provoked,diving,shoulder/arm,injury unknown,unknown,999,unknown,999,Unknown
+1226,11,2023,injured,NSW,-33.92622,148.73561,coastal,wobbegong,unknown,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1227,12,2023,injured,WA,-30.81556,115.19234,island open ocean,whaler shark,unprovoked,unmotorised boating,lower leg,major lacerations,male,46,unknown,999,Unknown
+1228,12,2023,injured,NSW,-31.9694,152.5863946,coastal,unknown,unprovoked,boarding,leg,minor lacerations,male,16,1600,999,Unknown
+1229,12,2023,fatal,SA,-34.679356,137.684906.,coastal,white shark,unprovoked,boarding,fatal,fatal,male,15,1300,999,Unknown
+1230,1,2024,injured,SA,-34.3333,135.7500.,coastal,unknown,unprovoked,boarding,leg,minor lacerations,male,64,unknown,999,Unknown
+1231,1,2024,injured,NSW,-32.333,152.533,estuary/harbour,bull shark,unprovoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1232,2,2024,injured,WA,-30.30591,115.03825,coastal,tiger shark,unprovoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
+1233,3,2024,injured,QLD,-24.8333,152.4167,coastal,unknown,unprovoked,unknown,,injury unknown,unknown,999,unknown,999,Unknown
