@@ -80,10 +80,13 @@ The ratio of the classes available in the dataset was 60-20-20 for injured, unin
 | Class 1      | Injured     | 1             |
 | Class 2      | Fatal       | 3             |
 
-#### Key Metrics**
-1. Precision: High precision = Few false alarms (e.g., 0.75 for "injured" means 75% of predicted "injured" cases were correct).
-2. Recall (Sensitivity): High recall = Few missed attacks (e.g., 0.83 for "injured" means 83% of actual "injured" cases were detected).
-3. F1-Score: Balances precision and recall, useful for imbalanced data (e.g. 0.79 for "injured").
+#### Key Metrics
+1. Precision 
+    High precision = Few false alarms (e.g., 0.75 for "injured" means 75% of predicted "injured" cases were correct).
+2. Recall (Sensitivity)
+    High recall = Few missed attacks (e.g., 0.83 for "injured" means 83% of actual "injured" cases were detected).
+3. F1-Score
+    Balances precision and recall, useful for imbalanced data (e.g. 0.79 for "injured").
 
 While accuracy score is a common approach for comparison, this study also focuses on achieving a high recall rate for Class 2 (fatality) as missing attacks has high consequences and also a decent precision rate to reduce false alarms. 
 
