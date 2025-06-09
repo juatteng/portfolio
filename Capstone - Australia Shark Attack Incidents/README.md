@@ -24,16 +24,16 @@ Impact of this study:
 ## Files Directory
 
 **1. Data**
-- [Original Excel File from Australian Shark Incident Database](./data/Australian_Shark-Incident_Database_Public_Version_7_(raw).xlsx)
-- [Cleaned Excel File before saving to CSV file for Python Analysis](./data/Australian_Shark-Incident_Database_Public_Version_7_(cleaned).xlsx)
+- [Original Excel File from Australian Shark Incident Database](./data/Australian%20Shark-Incident%20Database%20Public%20Version%207%20(raw).xlsx)
+- [Cleaned Excel File before saving to CSV file for Python Analysis](./data/Australian%20Shark-Incident%20Database%20Public%20Version%207%20(cleaned).xlsx)
 - [Cleaned Data for Python Analysis](./data/aus_shark_v7.csv)
 - [Cleaned Data after Python Analysis, for Tableau visualization](./data/aus_shark_v7_export.csv)
 
 **2. Other Files**
 - [Jupyter Notebook on EDA and predictive modelling](./aus_shark.ipynb)
-- [Tableau Visualization](https://public.tableau.com/views/AustraliaSharkAttackIncidents1900-2024/ByMonth?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) This visualization is published on Tableau Public. 
-- [Presentation Slides](./Presentation_-_Aus_Shark_Attack_Incidents.pdf)
-- [Technical Report](./Technical_Report_-_Aus_Shark_Attack_Incidents.pdf)
+- [Presentation Slides](./Presentation%20-%20Aus%20Shark%20Attack%20Incidents.pdf)
+- [Technical Report](./Technical%20Report%20-%20Aus%20Shark%20Attack%20Incidents.pdf)
+- [Tableau Visualization](https://public.tableau.com/views/AustraliaSharkAttackIncidents1900-2024/ByMonth?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) This interactive visualization is published on Tableau Public. 
 
 
 ## Data Dictionary
@@ -66,7 +66,7 @@ Impact of this study:
 3. Most shark attack incidents are unprovoked (66%).
 4. Activities on water surface like swimming/surfing have significantly more incidents (>70%) than at depth like scuba diving (<10%).
 
-For more info, check out the Tableau visualization for this project [here](https://public.tableau.com/views/AustraliaSharkAttackIncidents1900-2024/ByMonth?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
+For more info, check out the interactive Tableau visualization for this project [here](https://public.tableau.com/views/AustraliaSharkAttackIncidents1900-2024/ByMonth?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
 
 ## Predictive Model
 The dataset was put through 3 different predictive models to determine which one has the best scores - Logistic Regression (LR), Random Forest Classifier (RF) and XGBoost.
@@ -80,24 +80,23 @@ The ratio of the classes available in the dataset was 60-20-20 for injured, unin
 | Class 1      | Injured     | 1             |
 | Class 2      | Fatal       | 3             |
 
-**Key Metrics**
+#### Key Metrics**
 1. Precision: High precision = Few false alarms (e.g., 0.75 for "injured" means 75% of predicted "injured" cases were correct).
 2. Recall (Sensitivity): High recall = Few missed attacks (e.g., 0.83 for "injured" means 83% of actual "injured" cases were detected).
 3. F1-Score: Balances precision and recall, useful for imbalanced data (e.g. 0.79 for "injured").
 
 While accuracy score is a common approach for comparison, this study also focuses on achieving a high recall rate for Class 2 (fatality) as missing attacks has high consequences and also a decent precision rate to reduce false alarms. 
 
-**Choice of Predictive Model**
+#### Choice of Predictive Model
 Based on the results below, **Random Forest Classifier (Tuned)** emerged as the best choice for predicting shark attack outcomes. 
 This model optimally trades off fatality detection (64% recall) with reasonable false alarms (48% precision) while maintaining high overall accuracy (67%).
 Even though XGBoost has the highest Recall for Class 2, the Random Forest Classifier has a better all-round performance in all other metrics.
 
-| Predictive Model              | Recall    | Precision | F1-Score  | F1-Score  | Accuracy | Key Advantage             |
-|                               | (Class 2) | (Class 2) | (Class 2) | (Class 1) |          |                           |
-|-------------------------------|-----------|-----------|-----------|-----------|----------|---------------------------|
-| Random Forest (Tuned)         | 0.64      | **0.48**  | **0.55**  | **0.76**  | **0.67** | Best overall accuracy     |
-| XGBoost (Tuned)               | **0.74**  | 0.37      | 0.49      | 0.69      | 0.60     | Best fatality detection   |
-| Logistic Regression (Scaled)  | 0.32      | 0.39      | 0.35      | 0.74      | 0.63     | Worst fatality detection  |
+| Predictive Model              | Recall (Class 2) | Precision (Class 2) | F1-Score (Class 2) | F1-Score (Class 1) | Accuracy | Key Advantage             |
+|-------------------------------|------------------|---------------------|--------------------|--------------------|----------|---------------------------|
+| Random Forest (Tuned)         | 0.64             | **0.48**            | **0.55**           | **0.76**           | **0.67** | Best overall accuracy     |
+| XGBoost (Tuned)               | **0.74**         | 0.37                | 0.49               | 0.69               | 0.60     | Best fatality detection   |
+| Logistic Regression (Scaled)  | 0.32             | 0.39                | 0.35               | 0.74               | 0.63     | Worst fatality detection  |
 
 
 
